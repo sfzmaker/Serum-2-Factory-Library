@@ -1,0 +1,114 @@
+// Arp Solina - Viola
+// Serum 2 Factory Content
+// By Electric Himalaya
+
+<group>
+ampeg_release=0.35
+amp_veltrack=38.5
+loop_mode=loop_continuous
+loop_crossfade=0.001
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola C1.flac
+pitch_keycenter=36
+lokey=0 hikey=38 end=110608
+// loop_start=18094 loop_end=107300
+loop_start=46884 loop_end=89466
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola E1.flac
+pitch_keycenter=40
+lokey=39 hikey=41 end=108028
+// loop_start=39757 loop_end=105662
+loop_start=31565 loop_end=72299
+// loop_start=20838 loop_end=63169
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44 end=102299
+loop_start=34381 loop_end=100223
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47 end=175177
+loop_start=104206 loop_end=170131
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola C2.flac
+pitch_keycenter=48
+lokey=48 hikey=50 end=98887
+loop_start=30579 loop_end=96801
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53 end=156065
+loop_start=21675 loop_end=153200
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56 end=140078
+loop_start=71540 loop_end=137375
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=59 end=170366
+loop_start=99851 loop_end=165773
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola C3.flac
+pitch_keycenter=60
+lokey=60 hikey=62 end=148776
+loop_start=13689 loop_end=145633
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65 end=121775
+loop_start=29778 loop_end=119932
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68 end=148424
+loop_start=14582 loop_end=146379
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71 end=110613
+loop_start=17333 loop_end=107886
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola C4.flac
+pitch_keycenter=72
+lokey=72 hikey=74 end=149235
+loop_start=15141 loop_end=147185
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola E4.flac
+pitch_keycenter=76
+lokey=75 hikey=77 end=104480
+loop_start=15057 loop_end=90205
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola G4.flac
+pitch_keycenter=79
+lokey=78 hikey=80 end=165558
+loop_start=12556 loop_end=163924
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola A#4.flac
+pitch_keycenter=82
+lokey=81 hikey=83 end=134413
+loop_start=21151 loop_end=132590
+
+<region>
+sample=Arp Solina - Viola Samples/XFArSol Viola C5.flac
+pitch_keycenter=84
+lokey=84 hikey=127 end=140578
+loop_start=27456 loop_end=136998

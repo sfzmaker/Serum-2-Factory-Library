@@ -1,0 +1,22 @@
+// Sage Dream
+// Serum 2 Factory Content
+// By AnSolas
+
+<group>
+loop_mode=loop_continuous
+amp_veltrack=0.0001
+ampeg_release=3.9
+
+<group> loop_start=76800 loop_end=172800
+<region> hikey=26 pitch_keycenter=24 end=178007 sample=Sage Dream Samples/XFSDream C0.flac
+<region> lokey=27 hikey=33 pitch_keycenter=31 end=182534 sample=Sage Dream Samples/XFSDream G0.flac
+<region> lokey=34 hikey=40 pitch_keycenter=38 end=181417 sample=Sage Dream Samples/XFSDream D1.flac
+<region> lokey=41 hikey=47 pitch_keycenter=45 end=180187 sample=Sage Dream Samples/XFSDream A1.flac
+<region> lokey=48 hikey=54 pitch_keycenter=52 end=180514 sample=Sage Dream Samples/XFSDream E2.flac
+<region> lokey=55 hikey=61 pitch_keycenter=59 end=182457 sample=Sage Dream Samples/XFSDream B2.flac
+<region> lokey=62 hikey=68 pitch_keycenter=66 end=182346 sample=Sage Dream Samples/XFSDream F#3.flac
+<region> lokey=69 hikey=75 pitch_keycenter=73 end=181618 sample=Sage Dream Samples/XFSDream C#4.flac
+<region> lokey=76 hikey=82 pitch_keycenter=80 end=180490 sample=Sage Dream Samples/XFSDream G#4.flac
+<region> lokey=83 hikey=89 pitch_keycenter=87 end=182031 sample=Sage Dream Samples/XFSDream D#5.flac
+<region> lokey=90 hikey=95 pitch_keycenter=94 end=182704 sample=Sage Dream Samples/XFSDream A#5.flac
+<region> lokey=96 hikey=126 pitch_keycenter=96 end=179721 sample=Sage Dream Samples/XFSDream C6.flac

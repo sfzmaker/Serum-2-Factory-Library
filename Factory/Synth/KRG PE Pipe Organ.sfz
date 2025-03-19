@@ -1,0 +1,107 @@
+// KRG PE Organ
+// Serum 2 Factory Content
+// By Shreddward & Matt Aimonetti
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.32
+amp_veltrack=25
+loop_mode=loop_continuous
+loop_crossfade=0.0001
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ F1.flac
+pitch_keycenter=29
+lokey=0 hikey=34
+loop_start=84459 loop_end=139503
+
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ D2.flac
+pitch_keycenter=38
+lokey=35 hikey=39
+loop_start=71128 loop_end=132617
+
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ F2.flac
+pitch_keycenter=41
+lokey=40 hikey=42
+loop_start=162910 loop_end=212464
+
+ampeg_attack=0.025
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ Ab2.flac
+pitch_keycenter=44
+lokey=43 hikey=45
+loop_start=115131 loop_end=191541
+
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ B2.flac
+pitch_keycenter=47
+lokey=46 hikey=48
+loop_start=98722 loop_end=170739
+
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ D3.flac
+pitch_keycenter=50
+lokey=49 hikey=51
+loop_start=118114 loop_end=217582
+
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ F3.flac
+pitch_keycenter=53
+lokey=52 hikey=54
+loop_start=54407 loop_end=105878
+
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ Ab3.flac
+pitch_keycenter=56
+lokey=55 hikey=57
+loop_start=159535 loop_end=210488
+
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ B3.flac
+pitch_keycenter=59
+lokey=58 hikey=60
+loop_start=36911 loop_end=116342
+
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ D4.flac
+pitch_keycenter=62
+lokey=61 hikey=63
+loop_start=66358 loop_end=97430
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ F4.flac
+pitch_keycenter=65
+lokey=64 hikey=66
+loop_start=174165 loop_end=224893
+
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ Ab4.flac
+pitch_keycenter=68
+lokey=67 hikey=69
+loop_start=27891 loop_end=73854
+
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ B4.flac
+pitch_keycenter=71
+lokey=70 hikey=72
+loop_start=41767 loop_end=167339
+
+
+<region>
+sample=KRG PE PipeOrgan Samples/XFKrg PE Organ D5.flac
+pitch_keycenter=74
+lokey=73 hikey=127
+loop_start=52852 loop_end=128024

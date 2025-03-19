@@ -1,0 +1,35 @@
+// 505 Drum Kit
+// Serum 2 Factory Content
+
+<global>
+ampeg_attack=0.001
+ampeg_release=32
+amp_veltrack=100
+
+<group>
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/505 Kick.flac key=35 tune=-200
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/505 Kick.flac key=36 volume=1
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Rim/505 Rim.flac key=37
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/505 Snare.flac key=38
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Clap/505 Clap.flac key=39
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/505 Snare.flac key=40 tune=40
+<group> group=2 off_by=3 ampeg_release=0.1 volume=-6
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/505 Hat Closed.flac key=42
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/505 Hat Closed.flac key=44 tune=30 volume=1
+<group> group=3 off_by=2 ampeg_release=0.1 volume=-6
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/505 Hat Open.flac key=46
+<group> ampeg_release=32 
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/505 Tom Lo.flac key=41
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/505 Tom Mid.flac key=43
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/505 Tom Hi.flac key=45
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/505 Tom Hi.flac key=47 tune=200
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/505 Tom Hi.flac key=48 tune=400
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/505 Cymbal Crash.flac key=49
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/505 Tom Hi.flac key=50 tune=720
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/626 Cymbal Ride.flac key=51
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/626 Cymbal China.flac key=52
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cowbell/626 Cowbell.flac key=53
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/626 Clave.flac key=54
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cowbell/505 Cowbell Hi.flac key=56
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cowbell/505 Cowbell Hi.flac key=67 tune=100
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cowbell/505 Cowbell Lo.flac key=68

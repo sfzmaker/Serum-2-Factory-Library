@@ -1,0 +1,27 @@
+//DX Drum Kit
+
+<global>
+ampeg_attack=0.001
+ampeg_release=0.32
+amp_veltrack=100
+
+<group>
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/DX Kick.flac key=35 tune=-200
+//C1
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/DX Kick.flac key=36
+//<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Rim/909 Rim.flac key=37
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/DX Snare.flac key=37 ampeg_hold=0.002 ampeg_decay=0.016 ampeg_sustain=33
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/DX Snare.flac key=38
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Clap/DX Clap.flac key=39
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/DX Snare.flac key=40 tune=-32 ampeg_hold=0.002 ampeg_decay=0.186 ampeg_sustain=78
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/DX Tom Low.flac key=41 tune=-100
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/DX Hat Closed.flac key=42
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/DX Tom Low.flac key=43
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/DX Hat Closed.flac key=44 tune=-32 ampeg_hold=0.012 ampeg_decay=0.36 ampeg_sustain=11
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/DX Tom Mid.flac key=45
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/DX Hat Open.flac key=46
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/DX Tom High.flac key=47
+//C2
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/DX Tom High.flac key=48 tune=200
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/DX Cymbal Crash.flac key=49
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/DX Tom High.flac key=48 tune=200

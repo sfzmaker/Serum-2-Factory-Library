@@ -1,0 +1,59 @@
+// Guitar Acoustic Tres Cubano Pluck
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+volume=4.8
+
+<region>
+sample=Tres Cubano Samples/XFTrescubano F2.flac
+pitch_keycenter=53
+lokey=0 hikey=53 tune=12
+
+<region>
+sample=Tres Cubano Samples/XFTrescubano F#2.flac
+key=54 tune=13
+
+<region>
+sample=Tres Cubano Samples/XFTrescubano G2.flac
+pitch_keycenter=55
+lokey=55 hikey=56 
+
+<region>
+sample=Tres Cubano Samples/XFTrescubano A2.flac
+pitch_keycenter=57
+lokey=57 hikey=59 tune=13
+
+<region>
+sample=Tres Cubano Samples/XFTrescubano D3.flac
+pitch_keycenter=62
+lokey=60 hikey=62 tune=10
+
+<region>
+sample=Tres Cubano Samples/XFTrescubano D#3.flac
+pitch_keycenter=63
+lokey=63 hikey=64 tune=10
+
+<region>
+sample=Tres Cubano Samples/XFTrescubano F#3.flac
+pitch_keycenter=66
+lokey=65 hikey=66 tune=12
+
+<region>
+sample=Tres Cubano Samples/XFTrescubano G3.flac
+pitch_keycenter=67
+lokey=67 hikey=68 tune=9
+
+<region>
+sample=Tres Cubano Samples/XFTrescubano A3.flac
+key=69 tune=4
+
+<region>
+sample=Tres Cubano Samples/XFTrescubano A#3.flac
+pitch_keycenter=70
+lokey=70 hikey=72 tune=9
+
+<region>
+sample=Tres Cubano Samples/XFTrescubano C#4.flac
+pitch_keycenter=73
+lokey=73 hikey=127 tune=1

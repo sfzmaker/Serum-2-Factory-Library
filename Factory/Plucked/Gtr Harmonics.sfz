@@ -1,0 +1,177 @@
+// Guitar Harmonics
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+ampeg_attack=0.0
+ampeg_release=0.7
+amp_veltrack=0.0001 volume=7
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 01 E2.flac
+pitch_keycenter=52
+lokey=0 hikey=54
+hivel=31 tune=26
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 02 E2.flac
+pitch_keycenter=52
+lokey=0 hikey=54
+lovel=33 hivel=70 tune=26
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 03 E2.flac
+pitch_keycenter=52
+lokey=0 hikey=54
+lovel=72 hivel=119 tune=26
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 04 E2.flac
+pitch_keycenter=52
+lokey=0 hikey=54
+lovel=120 tune=26
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 01 A2.flac
+pitch_keycenter=57
+lokey=55 hikey=60
+hivel=31 tune=15
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 02 A2.flac
+pitch_keycenter=57
+lokey=55 hikey=60
+lovel=33 hivel=70 tune=15
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 03 A2.flac
+pitch_keycenter=57
+lokey=55 hikey=60
+lovel=72 hivel=119 tune=15
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 04 A2.flac
+pitch_keycenter=57
+lokey=55 hikey=60
+lovel=120 tune=15
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 01 E3.flac
+pitch_keycenter=64
+lokey=61 hikey=66
+hivel=31 tune=13
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 02 E3.flac
+pitch_keycenter=64
+lokey=61 hikey=66
+lovel=33 hivel=70 tune=13
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 03 E3.flac
+pitch_keycenter=64
+lokey=61 hikey=66
+lovel=72 hivel=119 tune=13
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 04 E3.flac
+pitch_keycenter=64
+lokey=61 hikey=66
+lovel=120 tune=13
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 01 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+hivel=31 tune=15
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 02 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+lovel=33 hivel=70 tune=15
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 03 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+lovel=72 hivel=119 tune=15
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 04 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+lovel=120 tune=15
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 01 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=72
+hivel=31 tune=19
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 02 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=72
+lovel=33 hivel=70 tune=19
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 03 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=72
+lovel=72 hivel=119 tune=19
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 04 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=72
+lovel=120 tune=19
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 01 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+hivel=31 tune=12
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 02 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+lovel=33 hivel=70 tune=12
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 03 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+lovel=72 hivel=119 tune=12
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 04 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+lovel=120 tune=12
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 01 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=127
+hivel=31 tune=11
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 02 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=127
+lovel=33 hivel=70 tune=11
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 03 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=127
+lovel=72 hivel=119 tune=11
+
+<region>
+sample=GuitHarm Samples/XFGuitHarm 04 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=127
+lovel=120 tune=11
+

@@ -1,0 +1,153 @@
+// Bass Pluck
+// Serum2 Factory Content
+// By Steve Duda
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.5
+amp_veltrack=0.0001
+
+<region>
+sample=BassPluck Samples/XFBassPluck 01 E0.flac
+pitch_keycenter=28
+lokey=0 hikey=33
+hivel=62
+offset=735 end=449702
+
+<region>
+sample=BassPluck Samples/XFBassPluck 01 C#1.flac
+pitch_keycenter=37
+lokey=34 hikey=39
+hivel=62
+offset=333 end=290707
+volume=-2.76
+
+<region>
+sample=BassPluck Samples/XFBassPluck 01 G1.flac
+pitch_keycenter=43
+lokey=40 hikey=45
+hivel=62
+offset=315 end=117600
+volume=6.36
+
+<region>
+sample=BassPluck Samples/XFBassPluck 01 C#2.flac
+pitch_keycenter=49
+lokey=46 hikey=52
+hivel=62
+offset=293 end=143942
+
+<region>
+sample=BassPluck Samples/XFBassPluck 01 G2.flac
+pitch_keycenter=55
+lokey=53 hikey=56
+hivel=62
+offset=272 end=61274
+volume=-4.44
+
+<region>
+sample=BassPluck Samples/XFBassPluck 01 A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=59
+hivel=62
+offset=258 end=57514
+
+<region>
+sample=BassPluck Samples/XFBassPluck 01 C#3.flac
+pitch_keycenter=61
+lokey=60 hikey=62
+hivel=62
+offset=272 end=118297
+
+<region>
+sample=BassPluck Samples/XFBassPluck 01 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=127
+hivel=62
+offset=266 end=64680
+
+<region>
+sample=BassPluck Samples/XFBassPluck 02 E0.flac
+pitch_keycenter=28
+lokey=0 hikey=34
+lovel=63 hivel=106
+offset=285 end=447821
+
+<region>
+sample=BassPluck Samples/XFBassPluck 02 C#1.flac
+pitch_keycenter=37
+lokey=35 hikey=42
+lovel=63 hivel=106
+offset=296 end=298234
+
+<region>
+sample=BassPluck Samples/XFBassPluck 02 A#1.flac
+pitch_keycenter=46
+lokey=43 hikey=50
+lovel=63 hivel=106
+offset=765 end=249312
+volume=-5.16
+
+<region>
+sample=BassPluck Samples/XFBassPluck 02 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=55
+lovel=63 hivel=106
+offset=264 end=222970
+volume=2
+
+<region>
+sample=BassPluck Samples/XFBassPluck 02 A#2.flac
+pitch_keycenter=58
+lokey=56 hikey=60
+lovel=63 hivel=106
+offset=678 end=51857
+
+<region>
+sample=BassPluck Samples/XFBassPluck 02 C#3.flac
+pitch_keycenter=61
+lokey=61 hikey=127
+lovel=63 hivel=106
+offset=277 end=150528
+
+<region>
+sample=BassPluck Samples/XFBassPluck 03 E0.flac
+pitch_keycenter=28
+lokey=0 hikey=29
+lovel=107 offset=320 end=453466
+
+<region>
+sample=BassPluck Samples/XFBassPluck 03 G0.flac
+pitch_keycenter=31
+lokey=30 hikey=36
+lovel=107 offset=0 end=266246
+
+<region>
+sample=BassPluck Samples/XFBassPluck 03 E1.flac
+pitch_keycenter=40
+lokey=37 hikey=44
+lovel=107 offset=248 end=309288
+
+<region>
+sample=BassPluck Samples/XFBassPluck 03 C#2.flac
+pitch_keycenter=49
+lokey=45 hikey=50
+lovel=107 offset=256 end=160171
+
+<region>
+sample=BassPluck Samples/XFBassPluck 03 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=55
+lovel=107 offset=746 end=256838
+
+<region>
+sample=BassPluck Samples/XFBassPluck 03 A#2.flac
+pitch_keycenter=58
+lokey=56 hikey=61
+lovel=107 offset=216 end=69157
+
+<region>
+sample=BassPluck Samples/XFBassPluck 03 E3.flac
+pitch_keycenter=64
+lokey=62 hikey=127
+lovel=107 offset=181 end=108225

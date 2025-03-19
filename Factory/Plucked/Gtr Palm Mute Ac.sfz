@@ -1,0 +1,111 @@
+// Guitar Palm Mute Acoustic
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+volume=2.5
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm E2.flac
+pitch_keycenter=52
+lokey=0 hikey=52
+
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm F2.flac
+pitch_keycenter=53
+lokey=53 hikey=55
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm A#2.flac
+pitch_keycenter=58
+lokey=56 hikey=58
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm B2.flac
+key=59
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm C3.flac
+key=60
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm C#3.flac
+key=61
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm D3.flac
+key=62
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm D#3.flac
+key=63
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm E3.flac
+key=64
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm F3.flac
+key=65
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm F#3.flac
+pitch_keycenter=66
+lokey=66 hikey=67
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm A3.flac
+pitch_keycenter=69
+lokey=68 hikey=69
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm B3.flac
+pitch_keycenter=71
+lokey=70 hikey=71
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm C4.flac
+key=72
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm C#4.flac
+key=73
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm D4.flac
+key=74
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm D#4.flac
+key=75
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm F4.flac
+pitch_keycenter=77
+lokey=76 hikey=77
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm F#4.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm C5.flac
+pitch_keycenter=84
+lokey=81 hikey=84
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm D5.flac
+pitch_keycenter=86
+lokey=85 hikey=86
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm D#5.flac
+pitch_keycenter=87
+lokey=87 hikey=88
+
+<region>
+sample=Gtr Palm Samples/XFGtrpalm F#5.flac
+pitch_keycenter=90
+lokey=89 hikey=127

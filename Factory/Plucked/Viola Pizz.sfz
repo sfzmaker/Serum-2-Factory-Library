@@ -1,0 +1,406 @@
+// Viola Pizz
+// Serum 2 Factory Content
+
+<group>
+ampeg_release=0.5
+amp_veltrack=0.0001
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 C#2.flac
+tune=8
+pitch_keycenter=49
+hivel=54 amp_velcurve_54=1
+lokey=0 hikey=49
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 C#2.flac
+tune=8
+pitch_keycenter=49
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=0 hikey=49
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 C#2.flac
+tune=8
+pitch_keycenter=49
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=0 hikey=49
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 E2.flac
+tune=-10
+pitch_keycenter=52
+hivel=54 amp_velcurve_54=1
+lokey=50 hikey=52
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 E2.flac
+tune=-10
+pitch_keycenter=52
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=50 hikey=52
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 E2.flac
+tune=-10
+pitch_keycenter=52
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=50 hikey=52
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 F2.flac
+tune=-12
+pitch_keycenter=53
+hivel=54 amp_velcurve_54=1
+lokey=53 hikey=53
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 F2.flac
+tune=-12
+pitch_keycenter=53
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=53 hikey=53
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 F2.flac
+tune=-12
+pitch_keycenter=53
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=53 hikey=53
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 F#2.flac
+tune=-5
+pitch_keycenter=54
+hivel=54 amp_velcurve_54=1
+lokey=54 hikey=55
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 F#2.flac
+tune=-5
+pitch_keycenter=54
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=54 hikey=55
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 F#2.flac
+tune=-5
+pitch_keycenter=54
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=54 hikey=55
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 G#2.flac
+tune=6
+pitch_keycenter=56
+hivel=54 amp_velcurve_54=1
+lokey=56 hikey=57
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 G#2.flac
+tune=6
+pitch_keycenter=56
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=56 hikey=57
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 G#2.flac
+tune=6
+pitch_keycenter=56
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=56 hikey=57
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 B2.flac
+pitch_keycenter=59
+hivel=54 amp_velcurve_54=1
+lokey=58 hikey=59
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 B2.flac
+pitch_keycenter=59
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=58 hikey=59
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 B2.flac
+pitch_keycenter=59
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=58 hikey=59
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 C#3.flac
+tune=-3
+pitch_keycenter=61
+hivel=54 amp_velcurve_54=1
+lokey=60 hikey=61
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 C#3.flac
+tune=-3
+pitch_keycenter=61
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=60 hikey=61
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 C#3.flac
+tune=-3
+pitch_keycenter=61
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=60 hikey=61
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 D3.flac
+tune=10
+pitch_keycenter=62
+hivel=54 amp_velcurve_54=1
+lokey=62 hikey=62
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 D3.flac
+tune=10
+pitch_keycenter=62
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=62 hikey=62
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 D3.flac
+tune=10
+pitch_keycenter=62
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=62 hikey=62
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 D#3.flac
+pitch_keycenter=63
+hivel=54 amp_velcurve_54=1
+lokey=63 hikey=63
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 D#3.flac
+pitch_keycenter=63
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=63 hikey=63
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 D#3.flac
+pitch_keycenter=63
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=63 hikey=63
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 F3.flac
+pitch_keycenter=65
+hivel=54 amp_velcurve_54=1
+lokey=64 hikey=65
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 F3.flac
+pitch_keycenter=65
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=64 hikey=65
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 F3.flac
+pitch_keycenter=65
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=64 hikey=65
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 G3.flac
+tune=-5
+pitch_keycenter=67
+hivel=54 amp_velcurve_54=1
+lokey=66 hikey=68
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 G3.flac
+tune=-5
+pitch_keycenter=67
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=66 hikey=68
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 G3.flac
+tune=-5
+pitch_keycenter=67
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=66 hikey=68
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 B3.flac
+tune=-5
+pitch_keycenter=71
+hivel=54 amp_velcurve_54=1
+lokey=69 hikey=71
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 B3.flac
+tune=-5
+pitch_keycenter=71
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=69 hikey=71
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 B3.flac
+tune=-5
+pitch_keycenter=71
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=69 hikey=71
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 C#4.flac
+tune=-18
+pitch_keycenter=73
+hivel=54 amp_velcurve_54=1
+lokey=72 hikey=73
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 C#4.flac
+tune=-18
+pitch_keycenter=73
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=72 hikey=73
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 C#4.flac
+tune=-18
+pitch_keycenter=73
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=72 hikey=73
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 D4.flac
+pitch_keycenter=74
+hivel=54 amp_velcurve_54=1
+lokey=74 hikey=74
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 D4.flac
+pitch_keycenter=74
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=74 hikey=74
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 D4.flac
+pitch_keycenter=74
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=74 hikey=74
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 D#4.flac
+pitch_keycenter=75
+hivel=54 amp_velcurve_54=1
+lokey=75 hikey=75
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 D#4.flac
+pitch_keycenter=75
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=75 hikey=75
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 D#4.flac
+pitch_keycenter=75
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=75 hikey=75
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 E4.flac
+pitch_keycenter=76
+hivel=54 amp_velcurve_54=1
+lokey=76 hikey=76
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 E4.flac
+pitch_keycenter=76
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=76 hikey=76
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 E4.flac
+pitch_keycenter=76
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=76 hikey=76
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 F4.flac
+tune=-10
+pitch_keycenter=77
+hivel=54 amp_velcurve_54=1
+lokey=77 hikey=77
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 F4.flac
+tune=-10
+pitch_keycenter=77
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=77 hikey=77
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 F4.flac
+tune=-10
+pitch_keycenter=77
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=77 hikey=77
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 F#4.flac
+tune=-3
+pitch_keycenter=78
+hivel=54 amp_velcurve_54=1
+lokey=78 hikey=78
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 F#4.flac
+tune=-3
+pitch_keycenter=78
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=78 hikey=78
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 F#4.flac
+tune=-3
+pitch_keycenter=78
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=78 hikey=78
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 G4.flac
+tune=-6
+pitch_keycenter=79
+hivel=54 amp_velcurve_54=1
+lokey=79 hikey=80
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 G4.flac
+tune=-6
+pitch_keycenter=79
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=79 hikey=80
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 G4.flac
+tune=-6
+pitch_keycenter=79
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=79 hikey=80
+
+<region>
+sample=ViolaPizz/XFViola Pizz 01 A4.flac
+pitch_keycenter=81
+hivel=54 amp_velcurve_54=1
+lokey=81 hikey=127
+
+<region>
+sample=ViolaPizz/XFViola Pizz 02 A4.flac
+pitch_keycenter=81
+lovel=55 hivel=79 amp_velcurve_79=1
+lokey=81 hikey=127
+
+<region>
+sample=ViolaPizz/XFViola Pizz 03 A4.flac
+pitch_keycenter=81
+lovel=80 hivel=127 amp_velcurve_127=1
+lokey=81 hikey=127
+

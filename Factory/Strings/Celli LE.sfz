@@ -1,0 +1,107 @@
+// Celli Long Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.1
+ampeg_release=1.0
+amp_veltrack=35
+loop_crossfade=0.01
+loop_mode=loop_continuous
+
+<region>
+sample=Celli Long Samples/XFcelli long 02 C1.flac
+pitch_keycenter=36 tune=12
+lokey=0 hikey=37
+loop_start=116150 loop_end=319336
+
+<region>
+sample=Celli Long Samples/XFcelli long 02 D1.flac
+pitch_keycenter=38 tune=2
+lokey=38 hikey=39
+loop_start=62400 loop_end=299999
+
+<region>
+sample=Celli Long Samples/XFcelli long-02 02 E1.flac
+pitch_keycenter=40 tune=10
+lokey=40 hikey=41
+loop_start=149363 loop_end=344765
+
+<region>
+sample=Celli Long Samples/XFcelli long-02 02 F#1.flac
+pitch_keycenter=42 tune=20
+lokey=42 hikey=43
+loop_start=136422 loop_end=335241
+
+<region>
+sample=Celli Long Samples/XFcelli long-02 02 A#1.flac
+pitch_keycenter=46 tune=12
+lokey=44 hikey=47
+loop_start=82105 loop_end=340603
+
+<region>
+sample=Celli Long Samples/XFcelli long 02 C2.flac
+pitch_keycenter=48 tune=16
+lokey=48 hikey=49
+loop_start=112742 loop_end=335351
+
+<region>
+sample=Celli Long Samples/XFcelli long-02 02 D2.flac
+pitch_keycenter=50 tune=10
+lokey=50 hikey=52
+loop_start=155080 loop_end=496359
+
+<region>
+sample=Celli Long Samples/XFcelli long-02 02 F#2.flac
+pitch_keycenter=54 tune=8
+lokey=53 hikey=55
+loop_start=52656 loop_end=328819
+
+<region>
+sample=Celli Long Samples/XFcelli long-02 02 G#2.flac
+pitch_keycenter=56 tune=10
+lokey=56 hikey=57
+loop_start=91858 loop_end=347107
+
+<region>
+sample=Celli Long Samples/XFcelli long 02 A#2.flac
+pitch_keycenter=58 tune=10
+lokey=58 hikey=59
+loop_start=164291 loop_end=495445
+
+<region>
+sample=Celli Long Samples/XFcelli long-02 02 C3.flac
+pitch_keycenter=60 tune=14
+lokey=60 hikey=61
+loop_start=75379 loop_end=327818
+
+<region>
+sample=Celli Long Samples/XFcelli long 02 D3.flac
+pitch_keycenter=62 tune=12
+lokey=62 hikey=63
+loop_start=70231 loop_end=286350
+
+<region>
+sample=Celli Long Samples/XFcelli long 02 E3.flac
+pitch_keycenter=64 tune=10
+lokey=64 hikey=65
+loop_start=47866 loop_end=323233
+
+<region>
+sample=Celli Long Samples/XFcelli long-03 02 F#3.flac
+pitch_keycenter=66 tune=18
+lokey=66 hikey=67
+loop_start=78749 loop_end=315169
+
+<region>
+sample=Celli Long Samples/XFcelli long 02 G#3.flac
+pitch_keycenter=68 tune=6
+lokey=68 hikey=69
+loop_start=182140 loop_end=464662
+
+<region>
+sample=Celli Long Samples/XFcelli long 02 A#3.flac
+pitch_keycenter=70 tune=18
+lokey=70 hikey=127
+loop_start=171124 loop_end=469491
+

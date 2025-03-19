@@ -1,0 +1,104 @@
+// SY77 RCM Bass 1
+// Serum 2 Factory Content
+// By Electric Himalaya
+
+<group>
+ampeg_release=0.32
+amp_veltrack=38.5
+loop_mode=loop_continuous
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 C0.flac
+pitch_keycenter=24
+lokey=0 hikey=26
+end=248706
+loop_start=119708 loop_end=242444
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 E0.flac
+pitch_keycenter=28
+lokey=27 hikey=29
+end=177133
+loop_start=131390 loop_end=172074
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 G0.flac
+pitch_keycenter=31
+lokey=30 hikey=32
+end=181834
+loop_start=123408 loop_end=178326
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 A#0.flac
+pitch_keycenter=34
+lokey=33 hikey=35
+end=154180
+loop_start=96160 loop_end=150664
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 C1.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+end=160402
+loop_start=101759 loop_end=156387
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 E1.flac
+pitch_keycenter=40
+lokey=39 hikey=41
+end=176904
+loop_start=128800 loop_end=173768
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+end=166844
+loop_start=108753 loop_end=164572
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+end=165157
+loop_start=121431 loop_end=161176
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 C2.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+end=164228
+loop_start=91221 loop_end=160007
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+end=179963
+loop_start=99860 loop_end=176684
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+end=142320
+loop_start=83782 loop_end=139602
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=59
+end=89399
+loop_start=39048 loop_end=86552
+
+<region>
+sample=SY77 RCM Bass 1 Samples/XFSY77 RCM Bass1 C3.flac
+pitch_keycenter=60
+lokey=60 hikey=127
+end=83505
+loop_start=47388 loop_end=81780
+
+
+
+
+

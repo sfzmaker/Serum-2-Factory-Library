@@ -1,0 +1,62 @@
+// French Horn Solo Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.150
+ampeg_release=0.5
+amp_veltrack=35
+loop_mode=loop_continuous
+
+<region>
+sample=French Horn Solo Samples/XFFrenchHorn Solo 02 B2.flac
+pitch_keycenter=59
+lokey=0 hikey=60
+loop_start=108233 loop_end=177364
+loop_crossfade=0.07
+
+<region>
+sample=French Horn Solo Samples/XFFrenchHorn Solo 02 C#3.flac
+pitch_keycenter=61 tune=6
+lokey=61 hikey=62
+loop_start=108822 loop_end=192799
+loop_crossfade=0.045
+
+<region>
+sample=French Horn Solo Samples/XFFrenchHorn Solo-02 02 D#3.flac
+pitch_keycenter=63 tune=-4
+lokey=63 hikey=66
+loop_start=163682 loop_end=198286
+loop_crossfade=0.07
+
+<region>
+sample=French Horn Solo Samples/XFFrenchHorn Solo 02 C#3.flac
+pitch_keycenter=61 tune=6
+lokey=67 hikey=68
+loop_start=108822 loop_end=192799
+loop_crossfade=0.045
+offset=5798
+ampeg_attack=0.081
+
+<region>
+sample=French Horn Solo Samples/XFFrenchHorn Solo-02 02 D#3.flac
+pitch_keycenter=63 tune=-4
+lokey=69 hikey=70
+loop_start=163682 loop_end=198286
+loop_crossfade=0.07
+
+<region>
+sample=French Horn Solo Samples/XFFrenchHorn Solo 02 B3.flac
+pitch_keycenter=71
+lokey=71 hikey=72
+loop_start=72480 loop_end=143495
+loop_crossfade=0.0296
+offset=3077
+ampeg_attack=0.081
+
+<region>
+sample=French Horn Solo Samples/XFFrenchHorn Solo 02 C#4.flac
+pitch_keycenter=73 tune=6
+lokey=73 hikey=127
+loop_start=132518 loop_end=204931
+loop_crossfade=0.0302

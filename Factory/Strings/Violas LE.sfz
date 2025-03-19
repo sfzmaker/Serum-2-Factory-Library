@@ -1,0 +1,95 @@
+// Violas Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.1
+ampeg_release=0.8
+loop_crossfade=0.01
+amp_veltrack=35
+loop_mode=loop_continuous
+
+<region>
+sample=Violas Long Samples/XFviolas long-03 03 C2.flac
+pitch_keycenter=48
+lokey=0 hikey=49
+loop_start=77372 loop_end=361675
+
+<region>
+sample=Violas Long Samples/XFviolas long-02 03 E2.flac
+pitch_keycenter=52 tune=12
+lokey=50 hikey=54
+loop_start=87377 loop_end=480772
+
+<region>
+sample=Violas Long Samples/XFviolas long-02 03 G#2.flac
+pitch_keycenter=56 tune=8
+lokey=55 hikey=57
+loop_start=85334 loop_end=476713
+
+<region>
+sample=Violas Long Samples/XFviolas long-03 03 A#2.flac
+pitch_keycenter=58 tune=4
+lokey=58 hikey=59
+loop_start=114654 loop_end=435373
+
+<region>
+sample=Violas Long Samples/XFviolas long-02 03 C3.flac
+pitch_keycenter=60
+lokey=60 hikey=61
+loop_start=151963 loop_end=399962
+
+<region>
+sample=Violas Long Samples/XFviolas long-02 03 D3.flac
+pitch_keycenter=62 tune=2
+lokey=62 hikey=63
+loop_start=137768 loop_end=403232
+
+<region>
+sample=Violas Long Samples/XFviolas long-03 03 E3.flac
+pitch_keycenter=64 tune=4
+lokey=64 hikey=65
+loop_start=92333 loop_end=501160
+
+<region>
+sample=Violas Long Samples/XFviolas long-03 03 F#3.flac
+pitch_keycenter=66 tune=8
+lokey=66 hikey=67
+loop_start=108095 loop_end=399942
+
+<region>
+sample=Violas Long Samples/XFviolas long-02 03 G#3.flac
+pitch_keycenter=68 tune=16
+lokey=68 hikey=69
+loop_start=89791 loop_end=457062
+
+<region>
+sample=Violas Long Samples/XFviolas long-02 03 A#3.flac
+pitch_keycenter=70 tune=14
+lokey=70 hikey=71
+loop_start=100290 loop_end=282054
+
+<region>
+sample=Violas Long Samples/XFviolas long-02 03 C4.flac
+pitch_keycenter=72
+lokey=72 hikey=73
+loop_start=95962 loop_end=296491
+
+<region>
+sample=Violas Long Samples/XFviolas long-02 03 D4.flac
+pitch_keycenter=74
+lokey=74 hikey=75
+loop_start=121481 loop_end=309239
+
+<region>
+sample=Violas Long Samples/XFviolas long 03 E4.flac
+pitch_keycenter=76 tune=4
+lokey=76 hikey=77
+loop_start=105797 loop_end=318647
+
+<region>
+sample=Violas Long Samples/XFviolas long-02 03 F#4.flac
+pitch_keycenter=78 tune=12
+lokey=78 hikey=127
+loop_start=56599 loop_end=297386
+

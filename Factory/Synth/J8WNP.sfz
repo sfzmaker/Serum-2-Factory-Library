@@ -1,0 +1,27 @@
+// J8 Wide/Narrow Pulse - a 2 layer analog classic osc
+// Top layer uses a wide pulse, bottom layer uses a narrow pulse
+//
+// Serum 2 Factory Content
+// By Matt Aimonetti
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.32
+amp_veltrack=0.0001
+volume=-8
+loop_mode=loop_continuous
+loop_crossfade=0.005
+
+<region>
+sample=../../../Samples/Factory/Synth/J8WP C3.flac
+pitch_keycenter=60
+lovel=46 hivel=127
+loop_start=111913 loop_end=178496
+volume=-14
+
+<region>
+sample=../../../Samples/Factory/Synth/J8NP C3.flac
+pitch_keycenter=60
+lovel=1 hivel=45
+loop_start=115584 loop_end=189215
+

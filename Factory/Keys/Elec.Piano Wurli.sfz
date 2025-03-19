@@ -1,0 +1,286 @@
+/////////////////////////////////////////////////////////////////////////////
+////
+//// Creator : SteveDuda
+
+<group>
+global_label=XFWurli
+volume=-9
+ampeg_attack=0.0
+ampeg_release=0.7
+amp_veltrack=0.0001
+
+<region>
+sample=Wurli Samples/XFWurli 01 C1.flac
+pitch_keycenter=36
+lokey=0 hikey=38 hivel=26
+
+<region>
+sample=Wurli Samples/XFWurli 01 F1.flac
+pitch_keycenter=41
+lokey=39 hikey=44 hivel=26
+
+<region>
+sample=Wurli Samples/XFWurli 01 C2.flac
+pitch_keycenter=48
+lokey=45 hikey=50 hivel=26
+
+<region>
+sample=Wurli Samples/XFWurli 01 F2.flac
+pitch_keycenter=53
+lokey=51 hikey=56 hivel=26
+
+<region>
+sample=Wurli Samples/XFWurli 01 C3.flac
+pitch_keycenter=60
+lokey=57 hikey=62 hivel=26
+
+<region>
+sample=Wurli Samples/XFWurli 01 F3.flac
+pitch_keycenter=65
+lokey=63 hikey=68 hivel=26
+
+<region>
+sample=Wurli Samples/XFWurli 01 C4.flac
+pitch_keycenter=72
+lokey=69 hikey=74 hivel=26
+
+<region>
+sample=Wurli Samples/XFWurli 01 F4.flac
+pitch_keycenter=77
+lokey=75 hikey=80 hivel=26
+
+<region>
+sample=Wurli Samples/XFWurli 01 C5.flac
+pitch_keycenter=84
+lokey=81 hikey=86 hivel=26
+
+<region>
+sample=Wurli Samples/XFWurli 01 F5.flac
+pitch_keycenter=89
+lokey=87 hikey=92 hivel=26
+
+<region>
+sample=Wurli Samples/XFWurli 01 C6.flac
+pitch_keycenter=96
+lokey=93 hivel=26
+
+<region>
+sample=Wurli Samples/XFWurli 02 C1.flac
+pitch_keycenter=36
+lokey=0 hikey=38 lovel=27 hivel=54
+
+<region>
+sample=Wurli Samples/XFWurli 02 F1.flac
+pitch_keycenter=41
+lokey=39 hikey=44 lovel=27 hivel=54
+
+<region>
+sample=Wurli Samples/XFWurli 02 C2.flac
+pitch_keycenter=48
+lokey=45 hikey=50 lovel=27 hivel=54
+
+<region>
+sample=Wurli Samples/XFWurli 02 F2.flac
+pitch_keycenter=53
+lokey=51 hikey=56 lovel=27 hivel=54
+
+<region>
+sample=Wurli Samples/XFWurli 02 C3.flac
+pitch_keycenter=60
+lokey=57 hikey=62 lovel=27 hivel=54
+
+<region>
+sample=Wurli Samples/XFWurli 02 F3.flac
+pitch_keycenter=65
+lokey=63 hikey=68 lovel=27 hivel=54
+
+<region>
+sample=Wurli Samples/XFWurli 02 C4.flac
+pitch_keycenter=72
+lokey=69 hikey=74 lovel=27 hivel=54
+
+<region>
+sample=Wurli Samples/XFWurli 02 F4.flac
+pitch_keycenter=77
+lokey=75 hikey=80 lovel=27 hivel=54
+
+<region>
+sample=Wurli Samples/XFWurli 02 C5.flac
+pitch_keycenter=84
+lokey=81 hikey=86 lovel=27 hivel=54
+
+<region>
+sample=Wurli Samples/XFWurli 02 F5.flac
+pitch_keycenter=89
+lokey=87 hikey=92 lovel=27 hivel=54
+
+<region>
+sample=Wurli Samples/XFWurli 02 C6.flac
+pitch_keycenter=96
+lokey=93 lovel=27 hivel=54
+
+<region>
+sample=Wurli Samples/XFWurli 03 C1.flac
+pitch_keycenter=36
+lokey=0 hikey=38 lovel=55 hivel=83
+
+<region>
+sample=Wurli Samples/XFWurli 03 F1.flac
+pitch_keycenter=41
+lokey=39 hikey=44 lovel=55 hivel=83
+
+<region>
+sample=Wurli Samples/XFWurli 03 C2.flac
+pitch_keycenter=48
+lokey=45 hikey=50 lovel=55 hivel=83
+
+<region>
+sample=Wurli Samples/XFWurli 03 F2.flac
+pitch_keycenter=53
+lokey=51 hikey=56 lovel=55 hivel=83
+
+<region>
+sample=Wurli Samples/XFWurli 03 C3.flac
+pitch_keycenter=60
+lokey=57 hikey=62 lovel=55 hivel=83
+
+<region>
+sample=Wurli Samples/XFWurli 03 F3.flac
+pitch_keycenter=65
+lokey=63 hikey=68 lovel=55 hivel=83
+
+<region>
+sample=Wurli Samples/XFWurli 03 C4.flac
+pitch_keycenter=72
+lokey=69 hikey=74 lovel=55 hivel=83
+
+<region>
+sample=Wurli Samples/XFWurli 03 F4.flac
+pitch_keycenter=77
+lokey=75 hikey=80 lovel=55 hivel=83
+
+<region>
+sample=Wurli Samples/XFWurli 03 C5.flac
+pitch_keycenter=84
+lokey=81 hikey=86 lovel=55 hivel=83
+
+<region>
+sample=Wurli Samples/XFWurli 03 F5.flac
+pitch_keycenter=89
+lokey=87 hikey=92 lovel=55 hivel=83
+
+<region>
+sample=Wurli Samples/XFWurli 03 C6.flac
+pitch_keycenter=96
+lokey=93 lovel=55 hivel=83
+
+<region>
+sample=Wurli Samples/XFWurli 04 C1.flac
+pitch_keycenter=36
+lokey=0 hikey=38 lovel=84 hivel=115
+
+<region>
+sample=Wurli Samples/XFWurli 04 F1.flac
+pitch_keycenter=41
+lokey=39 hikey=44 lovel=84 hivel=115
+
+<region>
+sample=Wurli Samples/XFWurli 04 C2.flac
+pitch_keycenter=48
+lokey=45 hikey=50 lovel=84 hivel=115
+
+<region>
+sample=Wurli Samples/XFWurli 04 F2.flac
+pitch_keycenter=53
+lokey=51 hikey=56 lovel=84 hivel=115
+
+<region>
+sample=Wurli Samples/XFWurli 04 C3.flac
+pitch_keycenter=60
+lokey=57 hikey=62 lovel=84 hivel=115
+
+<region>
+sample=Wurli Samples/XFWurli 04 F3.flac
+pitch_keycenter=65
+lokey=63 hikey=68 lovel=84 hivel=115
+
+<region>
+sample=Wurli Samples/XFWurli 04 C4.flac
+pitch_keycenter=72
+lokey=69 hikey=74 lovel=84 hivel=115
+
+<region>
+sample=Wurli Samples/XFWurli 04 F4.flac
+pitch_keycenter=77
+lokey=75 hikey=80 lovel=84 hivel=115
+
+<region>
+sample=Wurli Samples/XFWurli 04 C5.flac
+pitch_keycenter=84
+lokey=81 hikey=86 lovel=84 hivel=115
+
+<region>
+sample=Wurli Samples/XFWurli 04 F5.flac
+pitch_keycenter=89
+lokey=87 hikey=92 lovel=84 hivel=115
+
+<region>
+sample=Wurli Samples/XFWurli 04 C6.flac
+pitch_keycenter=96
+lokey=93 lovel=84 hivel=115
+
+<region>
+sample=Wurli Samples/XFWurli 05 C1.flac
+pitch_keycenter=36
+lokey=0 hikey=38 lovel=116
+
+<region>
+sample=Wurli Samples/XFWurli 05 F1.flac
+pitch_keycenter=41
+lokey=39 hikey=44 lovel=116
+
+<region>
+sample=Wurli Samples/XFWurli 05 C2.flac
+pitch_keycenter=48
+lokey=45 hikey=50 lovel=116
+
+<region>
+sample=Wurli Samples/XFWurli 05 F2.flac
+pitch_keycenter=53
+lokey=51 hikey=56 lovel=116
+
+<region>
+sample=Wurli Samples/XFWurli 05 C3.flac
+pitch_keycenter=60
+lokey=57 hikey=62 lovel=116
+
+<region>
+sample=Wurli Samples/XFWurli 05 F3.flac
+pitch_keycenter=65
+lokey=63 hikey=68 lovel=116
+
+<region>
+sample=Wurli Samples/XFWurli 05 C4.flac
+pitch_keycenter=72
+lokey=69 hikey=74 lovel=116
+
+<region>
+sample=Wurli Samples/XFWurli 05 F4.flac
+pitch_keycenter=77
+lokey=75 hikey=80 lovel=116
+
+<region>
+sample=Wurli Samples/XFWurli 05 C5.flac
+pitch_keycenter=84
+lokey=81 hikey=86 lovel=116
+
+<region>
+sample=Wurli Samples/XFWurli 05 F5.flac
+pitch_keycenter=89
+lokey=87 hikey=92 lovel=116
+
+<region>
+sample=Wurli Samples/XFWurli 05 C6.flac
+pitch_keycenter=96
+lokey=93 lovel=116
+

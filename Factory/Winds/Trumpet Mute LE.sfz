@@ -1,0 +1,109 @@
+// Trumpet Mute Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.07
+ampeg_release=0.3
+amp_veltrack=35
+loop_mode=loop_continuous
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute-02 01 G#2.flac
+pitch_keycenter=56 tune=-25
+lokey=0 hikey=57
+loop_start=189012 loop_end=214970
+loop_crossfade=0.0054
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute-02 01 A#2.flac
+pitch_keycenter=58 tune=-25
+lokey=58 hikey=59
+loop_start=100346 loop_end=150899
+loop_crossfade=0.0105
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute 01 C3.flac
+pitch_keycenter=60 tune=-25
+lokey=60 hikey=61
+loop_start=198706 loop_end=233998
+loop_crossfade=0.0147
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute 01 D3.flac
+pitch_keycenter=62 tune=-30
+lokey=62 hikey=63
+loop_start=136633 loop_end=172637
+loop_crossfade=0.03
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute 01 E3.flac
+pitch_keycenter=64 tune=-30
+lokey=64 hikey=65
+loop_start=189321 loop_end=223899
+loop_crossfade=0.0072
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute 01 F#3.flac
+pitch_keycenter=66 tune=-14
+lokey=66 hikey=67
+loop_start=190757 loop_end=224553
+loop_crossfade=0.021
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute 01 G#3.flac
+pitch_keycenter=68 tune=-30
+lokey=68 hikey=69
+loop_start=185664 loop_end=270366
+loop_crossfade=0.0067
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute 01 A#3.flac
+pitch_keycenter=70 tune=-30
+lokey=70 hikey=71
+loop_start=198759 loop_end=234637
+loop_crossfade=0.015
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute 01 D4.flac
+pitch_keycenter=74 tune=-25
+lokey=72 hikey=73
+loop_start=148580 loop_end=223368
+loop_crossfade=0.0156
+offset=83190  // Adjusted to have a different attack than D5
+ampeg_attack=0.6
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute 01 D4.flac
+pitch_keycenter=74 tune=-25
+lokey=74 hikey=75
+loop_start=148580 loop_end=223368
+loop_crossfade=0.0156
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute-02 01 E4.flac
+pitch_keycenter=76 tune=-35
+lokey=76 hikey=77
+loop_start=130497 loop_end=168411
+loop_crossfade=0.0079
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute 01 F#4.flac
+pitch_keycenter=78 tune=-25
+lokey=78 hikey=79
+loop_start=132265 loop_end=152825
+loop_crossfade=0.008
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute 01 G#4.flac
+pitch_keycenter=80 tune=-40
+lokey=80 hikey=81
+loop_start=70989 loop_end=88371
+loop_crossfade=0.0072
+
+<region>
+sample=Trumpet Mute Samples/XFTrumpet mute 01 A#4.flac
+pitch_keycenter=82 tune=-40
+lokey=82 hikey=127
+loop_start=117318 loop_end=144270
+loop_crossfade=0.0056

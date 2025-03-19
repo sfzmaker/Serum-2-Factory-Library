@@ -1,0 +1,430 @@
+// Guitar Acoustic 12 String
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+ampeg_attack=0.0
+ampeg_release=0.7
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+hivel=26 tune=-1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+hivel=26 tune=-5
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+hivel=26
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+hivel=26
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+hivel=26 tune=3
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+hivel=26
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=60
+hivel=26 tune=1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 E3.flac
+pitch_keycenter=64
+lokey=61 hikey=65
+hivel=26 tune=-6
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+hivel=26 tune=-4
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+hivel=26 tune=-3
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=74
+hivel=26 tune=-2
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=77
+hivel=26 tune=-1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 G4.flac
+pitch_keycenter=79
+lokey=78 hikey=80
+hivel=26 tune=-8
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 01 A#4.flac
+pitch_keycenter=82
+lokey=81 hikey=127
+hivel=26 tune=-12
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=27 hivel=52 tune=-1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+lovel=27 hivel=52 tune=-5
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+lovel=27 hivel=52 tune=2
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+lovel=27 hivel=52
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+lovel=27 hivel=52 tune=3
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+lovel=27 hivel=52
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=60
+lovel=27 hivel=52 tune=1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 E3.flac
+pitch_keycenter=64
+lokey=61 hikey=65
+lovel=27 hivel=52 tune=-6
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+lovel=27 hivel=52 tune=-4
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+lovel=27 hivel=52 tune=-3
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=74
+lovel=27 hivel=52 tune=-2
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=77
+lovel=27 hivel=52 tune=-1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 G4.flac
+pitch_keycenter=79
+lokey=78 hikey=80
+lovel=27 hivel=52 tune=-8
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 02 A#4.flac
+pitch_keycenter=82
+lokey=81 hikey=127
+lovel=27 hivel=52 tune=-12
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=53 hivel=78 tune=-1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+lovel=53 hivel=78 tune=-5
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+lovel=53 hivel=78 tune=2
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+lovel=53 hivel=78
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+lovel=53 hivel=78 tune=3
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+lovel=53 hivel=78
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=60
+lovel=53 hivel=78 tune=1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 E3.flac
+pitch_keycenter=64
+lokey=61 hikey=65
+lovel=53 hivel=78 tune=-6
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+lovel=53 hivel=78 tune=-4
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+lovel=53 hivel=78 tune=-3
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=74
+lovel=53 hivel=78 tune=-2
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=77
+lovel=53 hivel=78 tune=-1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 G4.flac
+pitch_keycenter=79
+lokey=78 hikey=80
+lovel=53 hivel=78 tune=-8
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 03 A#4.flac
+pitch_keycenter=82
+lokey=81 hikey=127
+lovel=53 hivel=78 tune=-12
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=79 hivel=104 tune=-1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+lovel=79 hivel=104 tune=-5
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+lovel=79 hivel=104 tune=2
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+lovel=79 hivel=104
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+lovel=79 hivel=104 tune=3
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+lovel=79 hivel=104
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=60
+lovel=79 hivel=104 tune=1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 E3.flac
+pitch_keycenter=64
+lokey=61 hikey=65
+lovel=79 hivel=104 tune=-5
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+lovel=79 hivel=104 tune=-4
+
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+lovel=79 hivel=104 tune=-3
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=74
+lovel=79 hivel=104 tune=-2
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=77
+lovel=79 hivel=104 tune=-1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 G4.flac
+pitch_keycenter=79
+lokey=78 hikey=80
+lovel=79 hivel=104 tune=-8
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 04 A#4.flac
+pitch_keycenter=82
+lokey=81 hikey=127
+lovel=79 hivel=104 tune=-12
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=105 tune=-1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+lovel=105 tune=-5
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+lovel=105
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+lovel=105
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+lovel=105 tune=3
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+lovel=105
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=60
+lovel=105 tune=1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 E3.flac
+pitch_keycenter=64
+lokey=61 hikey=65
+lovel=105
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+lovel=105 tune=-4
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+lovel=105 tune=-3
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=74
+lovel=105 tune=-2
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=77
+lovel=105 tune=-1
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 G4.flac
+pitch_keycenter=79
+lokey=78 hikey=80
+lovel=105 tune=-8
+
+<region>
+sample=Gtr Ac 12 String Samples/XFEG 12STRV 05 A#4.flac
+pitch_keycenter=82
+lokey=81 hikey=127
+lovel=105 tune=-12
+
+

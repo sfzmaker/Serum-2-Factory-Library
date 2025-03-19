@@ -1,0 +1,171 @@
+// MT Strings
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+tune=-15
+ampeg_attack=0.0001
+ampeg_release=0.3
+amp_veltrack=0.0001
+loop_mode=loop_continuous
+loop_crossfade=0.05
+
+<region>
+sample=MTStrings Samples/XFMellostrings G2.flac
+pitch_keycenter=55
+lokey=0 hikey=56
+loop_start=30324 loop_end=281384
+
+<region>
+sample=MTStrings Samples/XFMellostrings A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=58
+loop_start=33009 loop_end=275413
+
+<region>
+sample=MTStrings Samples/XFMellostrings B2.flac
+key=59
+loop_start=79006 loop_end=297133
+
+<region>
+sample=MTStrings Samples/XFMellostrings C#3.flac
+pitch_keycenter=61
+lokey=60 hikey=61
+loop_start=24235 loop_end=291887
+
+<region>
+sample=MTStrings Samples/XFMellostrings D3.flac
+key=62
+loop_start=26331 loop_end=298077
+
+<region>
+sample=MTStrings Samples/XFMellostrings D#3.flac
+key=63
+loop_start=11792 loop_end=301117
+
+<region>
+sample=MTStrings Samples/XFMellostrings E3.flac
+key=64
+loop_start=14035 loop_end=288646
+
+<region>
+sample=MTStrings Samples/XFMellostrings F3.flac
+key=65
+loop_start=21976 loop_end=272751
+
+<region>
+sample=MTStrings Samples/XFMellostrings F#3.flac
+key=66
+loop_start=23235 loop_end=316950
+
+<region>
+sample=MTStrings Samples/XFMellostrings G3.flac
+key=67
+loop_start=30894 loop_end=282770
+
+<region>
+sample=MTStrings Samples/XFMellostrings G#3.flac
+key=68
+loop_start=13375 loop_end=309030
+
+<region>
+sample=MTStrings Samples/XFMellostrings A3.flac
+key=69
+loop_start=21181 loop_end=291026
+
+<region>
+sample=MTStrings Samples/XFMellostrings A#3.flac
+key=70
+loop_start=7356 loop_end=206546
+
+<region>
+sample=MTStrings Samples/XFMellostrings B3.flac
+key=71
+loop_start=91737 loop_end=272188
+
+<region>
+sample=MTStrings Samples/XFMellostrings C4.flac
+key=72
+loop_start=8901 loop_end=282152
+
+<region>
+sample=MTStrings Samples/XFMellostrings C#4.flac
+key=73
+loop_start=3251 loop_end=237821
+
+<region>
+sample=MTStrings Samples/XFMellostrings D4.flac
+key=74
+loop_start=28303 loop_end=277927
+
+<region>
+sample=MTStrings Samples/XFMellostrings D#4.flac
+key=75
+loop_start=23744 loop_end=209919
+
+<region>
+sample=MTStrings Samples/XFMellostrings E4.flac
+key=76
+loop_start=24067 loop_end=271379
+
+<region>
+sample=MTStrings Samples/XFMellostrings F4.flac
+key=77
+loop_start=25556 loop_end=294473
+
+<region>
+sample=MTStrings Samples/XFMellostrings F#4.flac
+key=78
+loop_start=60941 loop_end=258443
+
+<region>
+sample=MTStrings Samples/XFMellostrings G4.flac
+key=79
+loop_start=170647 loop_end=289736
+
+<region>
+sample=MTStrings Samples/XFMellostrings G#4.flac
+key=80
+loop_start=19622 loop_end=214578
+
+<region>
+sample=MTStrings Samples/XFMellostrings A4.flac
+key=81
+loop_start=107722 loop_end=227385
+
+<region>
+sample=MTStrings Samples/XFMellostrings A#4.flac
+key=82
+loop_start=46826 loop_end=243181
+
+<region>
+sample=MTStrings Samples/XFMellostrings B4.flac
+key=83
+loop_start=108139 loop_end=264515
+
+<region>
+sample=MTStrings Samples/XFMellostrings C#5.flac
+pitch_keycenter=85
+lokey=84 hikey=85
+loop_start=86141 loop_end=285854
+
+<region>
+sample=MTStrings Samples/XFMellostrings D5.flac
+key=86
+loop_start=206417 loop_end=304280
+
+<region>
+sample=MTStrings Samples/XFMellostrings D#5.flac
+key=87
+loop_start=201367 loop_end=271081
+
+<region>
+sample=MTStrings Samples/XFMellostrings E5.flac
+key=88
+loop_start=131045 loop_end=260698
+
+<region>
+sample=MTStrings Samples/XFMellostrings F5.flac
+pitch_keycenter=89
+lokey=89 hikey=127
+loop_start=26772 loop_end=294630

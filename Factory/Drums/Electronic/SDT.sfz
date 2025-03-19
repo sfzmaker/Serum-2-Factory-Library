@@ -1,0 +1,33 @@
+// Machine SDT
+
+<global>
+ampeg_attack=0.001
+amp_veltrack=100
+ampeg_release=32
+<group> 
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/XFSDT Kick.flac key=35
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/XFSDT Kick 2.flac key=36
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Rim/XFSDT Side Stick.flac key=37
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/XFSDT Snare 1.flac key=38
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Clap/XFSDT Clap 1.flac key=39
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/XFSDT Snare 2.flac  key=40
+<group>
+group=2 off_by=3 ampeg_release=0.3 volume=-8
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/XFSDT Closed Hat.flac key=42
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/XFSDT Pedal Hat.flac key=44
+<group>
+group=3 off_by=2  ampeg_release=0.3 volume=-8
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/XFSDT Open Hat.flac key=46
+<group>  ampeg_release=32
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/XFSDT Floor Tom.flac key=41
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/XFSDT Floor Tom 2.flac key=43
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/XFSDT High Floor Tom.flac key=45
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/XFSDT Low Mid Tom.flac key=47
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/XFSDT High Tom.flac key=50
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/XFSDT Crash Cymbal 1.flac key=49  volume=-7
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/XFSDT High Mid Tom 2.flac key=48
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/XFSDT Ride Cymbal 1.flac key=51 volume=-11 tune=800
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/XFSDT Chinese Cymbal.flac key=52 tune=1400 volume=-7
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/XFSDT Ride Bell.flac key=53  volume=-7
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/XFSDT Tambo.flac key=54
+

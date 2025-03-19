@@ -1,0 +1,449 @@
+// Full Strings
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.01
+ampeg_release=0.9
+loop_crossfade=0.01
+amp_veltrack=25
+loop_mode=loop_continuous
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 01 C0.flac
+pitch_keycenter=24
+lokey=0 hikey=25 lovel=1 hivel=44
+loop_start=78992 loop_end=267105
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 C0.flac
+pitch_keycenter=24
+lokey=0 hikey=25 lovel=45 hivel=87
+loop_start=44481 loop_end=364984
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 C0.flac
+pitch_keycenter=24 tune=-14
+lokey=0 hikey=25 lovel=88 hivel=127
+loop_start=69417 loop_end=393658
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 01 D0.flac
+pitch_keycenter=26 tune=20
+lokey=26 hikey=27 lovel=1 hivel=44
+loop_start=115514 loop_end=268549
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-04 01 E0.flac
+pitch_keycenter=28 tune=-7
+lokey=28 hikey=29 lovel=1 hivel=44
+loop_start=47305 loop_end=330401
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 E0.flac
+pitch_keycenter=28 tune=-9
+lokey=26 hikey=29 lovel=45 hivel=87
+loop_start=123633 loop_end=473867
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 E0.flac
+pitch_keycenter=28 tune=-18
+lokey=26 hikey=29 lovel=88 hivel=127
+loop_start=82577 loop_end=441426
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-04 01 F#0.flac
+pitch_keycenter=30 tune=18
+lokey=30 hikey=32 lovel=1 hivel=44
+loop_start=82079 loop_end=280023
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 F#0.flac
+pitch_keycenter=30 tune=28
+lokey=30 hikey=33 lovel=45 hivel=87
+loop_start=87349 loop_end=281842
+ampeg_attack=0.2
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 F#0.flac
+pitch_keycenter=30 volume=-2 tune=16
+lokey=30 hikey=31 lovel=88 hivel=127
+loop_start=86785 loop_end=369017
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 G#0.flac
+pitch_keycenter=32 tune=25
+lokey=32 hikey=33 lovel=88 hivel=127
+loop_start=46572 loop_end=285141
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 A#0.flac
+pitch_keycenter=34
+lokey=33 hikey=36 lovel=1 hivel=44
+loop_start=107695 loop_end=256253
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 C1.flac
+pitch_keycenter=36 tune=8
+lokey=34 hikey=37 lovel=45 hivel=87
+loop_start=29921 loop_end=344191
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 A#0.flac
+pitch_keycenter=34 volume=-3 tune=-8
+lokey=34 hikey=35 lovel=88 hivel=127
+loop_start=53198 loop_end=324113
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 C1.flac
+pitch_keycenter=36
+lokey=36 hikey=38 lovel=88 hivel=127
+loop_start=32307 loop_end=301675
+ampeg_attack=0.05
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 D1.flac
+pitch_keycenter=38
+lokey=37 hikey=39 lovel=1 hivel=44
+loop_start=111692 loop_end=385836
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 D1.flac
+pitch_keycenter=38
+lokey=38 hikey=39 lovel=45 hivel=87
+loop_start=74702 loop_end=370438
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 01 E1.flac
+pitch_keycenter=40 tune=10
+lokey=40 hikey=42 lovel=1 hivel=44
+loop_start=83296 loop_end=281724
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 E1.flac
+pitch_keycenter=40 tune=10
+lokey=40 hikey=41 lovel=45 hivel=87
+loop_start=80589 loop_end=306254
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 E1.flac
+pitch_keycenter=40 tune=14
+lokey=39 hikey=42 lovel=88 hivel=127
+loop_start=166513 loop_end=307393
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 F#1.flac
+pitch_keycenter=42 tune=20
+lokey=42 hikey=43 lovel=45 hivel=87
+loop_start=74304 loop_end=351623
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-04 01 G#1.flac
+pitch_keycenter=44
+lokey=43 hikey=45 lovel=1 hivel=44
+loop_start=46343 loop_end=319033
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 G#1.flac
+pitch_keycenter=44 tune=8
+lokey=44 hikey=45 lovel=45 hivel=87
+loop_start=104660 loop_end=274006
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 A#1.flac
+pitch_keycenter=46 tune=16
+lokey=46 hikey=47 lovel=1 hivel=44
+loop_start=68205 loop_end=269660
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 A#1.flac
+pitch_keycenter=46 tune=24
+lokey=46 hikey=47 lovel=45 hivel=87
+loop_start=63141 loop_end=264690
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 A#1.flac
+pitch_keycenter=46 tune=20
+lokey=43 hikey=47 lovel=88 hivel=127
+loop_start=31587 loop_end=257451
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-03 01 C2.flac
+pitch_keycenter=48
+lokey=48 hikey=50 lovel=1 hivel=44
+loop_start=96015 loop_end=285947
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 C2.flac
+pitch_keycenter=48 tune=5
+lokey=48 hikey=49 lovel=45 hivel=87
+loop_start=109749 loop_end=277009
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 04 C2.flac
+pitch_keycenter=48
+lokey=48 hikey=49 lovel=88 hivel=127
+loop_start=44039 loop_end=266963
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 D2.flac
+pitch_keycenter=50 tune=7
+lokey=50 hikey=51 lovel=45 hivel=87
+loop_start=44919 loop_end=273707
+ampeg_attack=0.075
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 04 D2.flac
+pitch_keycenter=50 volume=-4
+lokey=50 hikey=51 lovel=88 hivel=127
+loop_start=40516 loop_end=292358
+volume=-3
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 01 E2.flac
+pitch_keycenter=52 tune=6
+lokey=51 hikey=53 lovel=1 hivel=44
+loop_start=70699 loop_end=231317
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 E2.flac
+pitch_keycenter=52 tune=8
+lokey=52 hikey=53 lovel=45 hivel=87
+loop_start=93928 loop_end=276998
+ampeg_attack=0.1
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 E2.flac
+pitch_keycenter=52 tune=8
+lokey=52 hikey=55 lovel=88 hivel=127
+loop_start=51790 loop_end=280633
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 01 F#2.flac
+pitch_keycenter=54 tune=12
+lokey=54 hikey=56 lovel=1 hivel=44
+loop_start=95612 loop_end=274152
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 F#2.flac
+pitch_keycenter=54 tune=12
+lokey=54 hikey=56 lovel=45 hivel=87
+loop_start=148035 loop_end=355422
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-03 04 F#2.flac
+pitch_keycenter=54 tune=12
+lokey=56 hikey=60 lovel=88 hivel=127
+loop_start=38225 loop_end=257381
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 A#2.flac
+pitch_keycenter=58 tune=4
+lokey=57 hikey=59 lovel=1 hivel=44
+loop_start=131644 loop_end=305420
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 A#2.flac
+pitch_keycenter=58 tune=8
+lokey=57 hikey=59 lovel=45 hivel=87
+loop_start=63941 loop_end=300353
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 C3.flac
+pitch_keycenter=60 tune=10
+lokey=60 hikey=61 lovel=1 hivel=44
+loop_start=104945 loop_end=294860
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 C3.flac
+pitch_keycenter=60  tune=12
+lokey=60 hikey=61 lovel=45 hivel=87
+loop_start=67071 loop_end=338092
+ampeg_attack=0.1
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 D3.flac
+pitch_keycenter=62 tune=10
+lokey=62 hikey=63 lovel=1 hivel=44
+loop_start=92849 loop_end=331223
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 D3.flac
+pitch_keycenter=62 tune=4
+lokey=62 hikey=65 lovel=45 hivel=87
+loop_start=51897 loop_end=279160
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 E3.flac
+pitch_keycenter=64 tune=4
+lokey=64 hikey=65 lovel=1 hivel=44
+loop_start=80871 loop_end=315686
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-03 04 E3.flac
+pitch_keycenter=64 tune=4
+lokey=61 hikey=65 lovel=88 hivel=127
+loop_start=152086 loop_end=389795
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 F#3.flac
+pitch_keycenter=66
+lokey=66 hikey=67 lovel=1 hivel=44
+loop_start=87998 loop_end=390060
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 F#3.flac
+pitch_keycenter=66 tune=6
+lokey=66 hikey=67 lovel=45 hivel=87
+loop_start=90897 loop_end=368471
+ampeg_attack=0.1
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 F#3.flac
+pitch_keycenter=66 tune=4
+lokey=66 hikey=67 lovel=88 hivel=127
+loop_start=107568 loop_end=304687
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 G#3.flac
+pitch_keycenter=68 tune=2
+lokey=68 hikey=69 lovel=1 hivel=44
+loop_start=137630 loop_end=380859
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 G#3.flac
+pitch_keycenter=68 tune=2
+lokey=68 hikey=69 lovel=45 hivel=87
+loop_start=172034 loop_end=375250
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 G#3.flac
+pitch_keycenter=68 tune=4
+lokey=68 hikey=70 lovel=88 hivel=127
+loop_start=108993 loop_end=356605
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 A#3.flac
+pitch_keycenter=70 tune=8
+lokey=70 hikey=71 lovel=1 hivel=44
+loop_start=81192 loop_end=361358
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 C4.flac
+pitch_keycenter=72 volume=6
+lokey=70 hikey=71 lovel=45 hivel=87
+loop_start=76365 loop_end=370170
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 C4.flac
+pitch_keycenter=72
+lokey=72 hikey=74 lovel=1 hivel=44
+loop_start=111145 loop_end=353424
+ampeg_attack=0.2
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 03 D4.flac
+pitch_keycenter=74 volume=6
+lokey=72 hikey=127 lovel=45 hivel=87
+loop_start=151455 loop_end=366947
+ampeg_attack=0.1  volume=-2
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 D4.flac
+pitch_keycenter=74
+lokey=71 hikey=75 lovel=88 hivel=127
+loop_start=81437 loop_end=367633
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 F4.flac
+pitch_keycenter=77
+lokey=75 hikey=78 lovel=1 hivel=44
+loop_start=116805 loop_end=266872
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 G4.flac
+pitch_keycenter=79
+lokey=76 hikey=80 lovel=88 hivel=127
+loop_start=127616 loop_end=336356
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 A4.flac
+pitch_keycenter=81 tune=-7
+lokey=79 hikey=82 lovel=1 hivel=44
+loop_start=90823 loop_end=364688
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 04 A4.flac
+pitch_keycenter=81 tune=-8
+lokey=81 hikey=82 lovel=88 hivel=127
+loop_start=69232 loop_end=396914
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 01 B4.flac
+pitch_keycenter=83
+lokey=83 hikey=84 lovel=1 hivel=44
+loop_start=90544 loop_end=391854
+ampeg_attack=0.3
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 B4.flac
+pitch_keycenter=83 tune=-6
+lokey=83 hikey=84 lovel=88 hivel=127
+loop_start=161228 loop_end=322261
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 01 C#5.flac
+pitch_keycenter=85
+lokey=85 hikey=86 lovel=1 hivel=44
+loop_start=72313 loop_end=304383
+ampeg_attack=0.2
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 C#5.flac
+pitch_keycenter=85 tune=-4
+lokey=85 hikey=86 lovel=88 hivel=127
+loop_start=90070 loop_end=296221
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 01 D#5.flac
+pitch_keycenter=87
+lokey=87 hikey=89 lovel=1 hivel=44
+loop_start=60617 loop_end=321779
+ampeg_attack=0.2
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 D#5.flac
+pitch_keycenter=87 tune=-8
+lokey=87 hikey=88 lovel=88 hivel=127
+loop_start=131262 loop_end=302220
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 04 F5.flac
+pitch_keycenter=89 tune=-6
+lokey=89 hikey=90 lovel=88 hivel=127
+loop_start=111049 loop_end=305038
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-03 01 G5.flac
+pitch_keycenter=91 tune=-6
+lokey=90 hikey=92 lovel=1 hivel=44
+loop_start=101227 loop_end=327052
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 G5.flac
+pitch_keycenter=91 tune=-8
+lokey=91 hikey=92 lovel=88 hivel=127
+loop_start=140532 loop_end=291068
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-02 01 A5.flac
+pitch_keycenter=93 tune=-10
+lokey=93 hikey=127 lovel=1 hivel=44
+loop_start=95877 loop_end=362843
+
+<region>
+sample=Full Strings Long Samples/XFfull strings long-01 04 A5.flac
+pitch_keycenter=93 tune=-16
+lokey=93 hikey=127 lovel=88 hivel=127
+loop_start=88694 loop_end=270768
+

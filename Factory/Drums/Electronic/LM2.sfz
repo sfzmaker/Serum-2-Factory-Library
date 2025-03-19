@@ -1,0 +1,37 @@
+//LM2 Drum Kit
+
+<global>
+ampeg_attack=0.001
+loop_mode=one_shot
+<group>
+ampeg_release=32
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/LM2 Kick.flac key=35 tune=-100
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/LM2 Kick.flac key=36
+
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Rim/LM2 Sidestick.flac key=37
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/LM2 Snare A.flac key=38
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Clap/LM2 Clap.flac key=39
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/LM2 Snare B.flac key=40
+
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/LM2 Tom Eprom Hi.flac key=48
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/LM2 Tom Hi.flac key=43
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/LM2 Tom Eprom Low.flac key=45
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/LM2 Tom Low.flac key=41
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/LM2 Tom Eprom Mid.flac key=47
+
+<group> group=2 off_mode=normal  
+ampeg_release=0.032
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/LM2 Hat Closed 01.flac key=42 hivel=63
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/LM2 Hat Closed 02.flac key=42 lovel=64
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/LM2 Hat Closed 03.flac key=44 hivel=63
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/LM2 Hat Closed 04.flac key=44 lovel=64
+
+<group> group=3 off_by=2 ampeg_release=0.132 off_mode=normal  
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/LM2 Hat Open.flac key=46
+
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/LM2 Cymbal Crash.flac key=49
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/LM2 Tom Mid.flac key=50
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/LM2 Cymbal Ride.flac key=51
+
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cowbell/LM2 Cowbell.flac key=54
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/LM2 Tamborine.flac key=54

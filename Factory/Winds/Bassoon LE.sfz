@@ -1,0 +1,125 @@
+// Bassoon Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.001
+ampeg_release=1.2
+loop_crossfade=0.01
+loop_mode=loop_continuous
+amp_veltrack=35
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 A#0.flac
+pitch_keycenter=34
+lokey=0 hikey=35
+loop_start=150695 loop_end=291295
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 C1.flac
+pitch_keycenter=36 tune=-14
+lokey=36 hikey=37
+loop_start=142881 loop_end=274307
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 D1.flac
+pitch_keycenter=38 tune=-36
+lokey=38 hikey=39
+loop_start=52326 loop_end=265717
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 E1.flac
+pitch_keycenter=40 tune=-20
+lokey=40 hikey=41
+loop_start=116018 loop_end=338680
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 F#1.flac
+pitch_keycenter=42 tune=-4
+lokey=42 hikey=43
+loop_start=118623 loop_end=270278
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long-02 03 G#1.flac
+pitch_keycenter=44 tune=-3
+lokey=44 hikey=45
+loop_start=147130 loop_end=298650
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long-02 03 A#1.flac
+pitch_keycenter=46 tune=-20
+lokey=46 hikey=47
+loop_start=102589 loop_end=335511
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long-02 03 C2.flac
+pitch_keycenter=48 tune=-12
+lokey=48 hikey=49
+loop_start=96160 loop_end=315108
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 D2.flac
+pitch_keycenter=50 tune=-14
+lokey=50 hikey=53
+loop_start=77558 loop_end=256971
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 G#2.flac
+pitch_keycenter=56 tune=-14
+lokey=53 hikey=57
+loop_start=112229 loop_end=233292
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long-02 03 A#2.flac
+pitch_keycenter=58 tune=-16
+lokey=58 hikey=59
+loop_start=41144 loop_end=186181
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 C3.flac
+pitch_keycenter=60
+lokey=60 hikey=61
+loop_start=69930 loop_end=319516
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 D3.flac
+pitch_keycenter=62 tune=-24
+lokey=62 hikey=63
+loop_start=82236 loop_end=321979
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 E3.flac
+pitch_keycenter=64 tune=-12
+lokey=64 hikey=65
+loop_start=165863 loop_end=346592
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 F#3.flac
+pitch_keycenter=66 tune=-18
+lokey=66 hikey=67
+loop_start=126266 loop_end=270707
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 A3.flac
+pitch_keycenter=69 tune=-32
+lokey=68 hikey=70
+loop_start=140888 loop_end=337373
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 B3.flac
+pitch_keycenter=71 tune=-36
+lokey=71 hikey=71
+loop_start=162065 loop_end=361972
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long 03 C4.flac
+pitch_keycenter=72 tune=-42
+lokey=72 hikey=73
+loop_start=152505 loop_end=320793
+
+<region>
+sample=Bassoon Long Samples/XFbassoon long-02 03 D4.flac
+pitch_keycenter=74 tune=-28
+lokey=74 hikey=127
+loop_start=81592 loop_end=334162
+

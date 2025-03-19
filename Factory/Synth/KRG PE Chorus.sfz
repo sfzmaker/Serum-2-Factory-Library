@@ -1,0 +1,122 @@
+// KRG PE Chorus
+// Serum 2 Factory Content
+// By Shreddward
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.32
+amp_veltrack=25
+loop_mode=loop_continuous
+loop_crossfade=0.2
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus F1.flac
+pitch_keycenter=41
+lokey=0 hikey=42
+loop_start=47759 loop_end=114885
+
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus Ab1.flac
+pitch_keycenter=44
+lokey=43 hikey=45
+loop_start=74284 loop_end=173764
+loop_crossfade=0.207
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus B1.flac
+pitch_keycenter=47
+lokey=46 hikey=48
+loop_start=163463 loop_end=220407
+loop_crossfade=0.11863
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus D2.flac
+pitch_keycenter=50
+lokey=49 hikey=51
+loop_start=86595 loop_end=132591
+loop_crossfade=0.096
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus F2.flac
+pitch_keycenter=53
+lokey=52 hikey=54
+loop_start=155520 loop_end=203448
+loop_crossfade=0.100
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus Ab2.flac
+pitch_keycenter=56
+lokey=55 hikey=57
+loop_start=137837 loop_end=188780
+loop_crossfade=0.106
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus B2.flac
+pitch_keycenter=59
+lokey=58 hikey=60
+loop_start=120945 loop_end=168209
+loop_crossfade=0.098
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus D3.flac
+pitch_keycenter=62
+lokey=61 hikey=63
+loop_start=141687 loop_end=192094
+loop_crossfade=0.105
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus F3.flac
+pitch_keycenter=65
+lokey=64 hikey=66
+loop_start=71511 loop_end=122543
+loop_crossfade=0.106
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus Ab3.flac
+pitch_keycenter=68
+lokey=67 hikey=69
+loop_start=56493 loop_end=106561
+loop_crossfade=0.104
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus B3.flac
+pitch_keycenter=71
+lokey=70 hikey=72
+loop_start=114166 loop_end=159974
+loop_crossfade=0.095
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus D4.flac
+pitch_keycenter=74
+lokey=73 hikey=75
+loop_start=37637 loop_end=83453
+loop_crossfade=0.095
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus F4.flac
+pitch_keycenter=77
+lokey=76 hikey=78
+loop_start=73840 loop_end=119807
+loop_crossfade=0.096
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus Ab4.flac
+pitch_keycenter=80
+lokey=79 hikey=81
+loop_start=122245 loop_end=161807
+loop_crossfade=0.132
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus B4.flac
+pitch_keycenter=83
+lokey=82 hikey=84
+loop_start=38614 loop_end=85559
+loop_crossfade=0.098
+
+<region>
+sample=KRG PE Chorus Samples/XFKrg PE Chorus D5.flac
+pitch_keycenter=86
+lokey=85 hikey=127
+loop_start=44627 loop_end=66212
+loop_crossfade=0.045

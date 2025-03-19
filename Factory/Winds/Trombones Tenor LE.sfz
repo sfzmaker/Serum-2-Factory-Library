@@ -1,0 +1,136 @@
+// Trombones Tenor Long Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.01
+ampeg_release=0.5
+amp_veltrack=35
+loop_crossfade=0.01
+loop_mode=loop_continuous
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long 02 E1.flac
+pitch_keycenter=40 tune=-12
+lokey=0 hikey=41
+lovel=1 hivel=100
+loop_start=81171 loop_end=261816
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long 02 F#1.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+lovel=1 hivel=100
+loop_start=69744 loop_end=264100
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long-02 02 A#1.flac
+pitch_keycenter=46 tune=-3
+lokey=45 hikey=47
+lovel=1 hivel=100
+loop_start=55292 loop_end=291157
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long-02 02 C2.flac
+pitch_keycenter=48 tune=-8
+lokey=48 hikey=49
+lovel=1 hivel=100
+loop_start=75788 loop_end=281510
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long-02 02 D2.flac
+pitch_keycenter=50
+lokey=50 hikey=51
+lovel=1 hivel=100
+loop_start=69970 loop_end=217909
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long 02 E2.flac
+pitch_keycenter=52
+lokey=52 hikey=53
+lovel=1 hivel=100
+loop_start=54698 loop_end=194451
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long 02 F#2.flac
+pitch_keycenter=54 tune=-6
+lokey=54 hikey=56
+lovel=1 hivel=100
+loop_start=51275 loop_end=188251
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long 02 A#2.flac
+pitch_keycenter=58 tune=-6
+lokey=57 hikey=59
+lovel=1 hivel=100
+loop_start=100175 loop_end=237308
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long 02 C3.flac
+pitch_keycenter=60 tune=-6
+lokey=60 hikey=61
+lovel=1 hivel=100
+loop_start=77143 loop_end=232664
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long-02 02 D3.flac
+pitch_keycenter=62
+lokey=62 hikey=63
+lovel=1 hivel=100
+loop_start=83862 loop_end=236320
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long-02 02 E3.flac
+pitch_keycenter=64
+lokey=64 hikey=65
+lovel=1 hivel=100
+loop_start=85046 loop_end=294885
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long 02 F#3.flac
+pitch_keycenter=66 tune=-3
+lokey=66 hikey=67
+lovel=1 hivel=100
+loop_start=101710 loop_end=261574
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long-02 02 G#3.flac
+pitch_keycenter=68 tune=-6
+lokey=68 hikey=69
+lovel=1 hivel=100
+loop_start=59198 loop_end=250659
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long-03 02 A#3.flac
+pitch_keycenter=70 tune=-6
+lokey=70 hikey=127
+lovel=1 hivel=100
+loop_start=45271 loop_end=237276
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long-01 03 A#2.flac
+pitch_keycenter=58 tune=-8
+lokey=0 hikey=61
+lovel=101 hivel=127
+loop_start=72136 loop_end=162490
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long-01 03 D3.flac
+pitch_keycenter=62
+lokey=62 hikey=63
+lovel=101 hivel=127
+loop_start=94036 loop_end=230589
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long-01 03 E3.flac
+pitch_keycenter=64
+lokey=64 hikey=67
+lovel=101 hivel=127
+loop_start=68586 loop_end=213985
+
+<region>
+sample=Trombones Tenor Long Samples/XFtrombones tenor long-03 03 G#3.flac
+pitch_keycenter=68 tune=-10
+lokey=68 hikey=127
+lovel=101 hivel=127
+loop_start=48472 loop_end=188066

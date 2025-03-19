@@ -1,0 +1,34 @@
+<global>
+ampeg_release=0.5
+loop_mode=one_shot
+
+<group>
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/Kick Loww.flac key=35
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/Kick Deep.flac key=36
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Snare Sharp.flac key=37
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Snare Layered.flac key=38
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Clap/Clap Short.flac key=39
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Shaker/Shaker Crisp.flac key=40
+
+<group> group=1
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/Hat Closed schrott.flac key=42 pan=10
+
+<group> group=2 off_by=1
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/Hat Closed eisen.flac key=44 pan=20
+
+<group> group=3 off_by=1
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/Hat Epione.flac key=46 pan=20
+
+<group>
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom Mid.flac key=41 tune=-400
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom Mid.flac key=43 tune=-200
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom Mid.flac key=45
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom High.flac key=47 tune=-200
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom High.flac key=48
+
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Cymbal Ride.flac key=51
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Shaker/Shaker.Flac key=54
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/Conga High.flac key=62
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/Conga Low.flac key=64
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Cymbal Zunder.flac key=55
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/Fx Pop.flac key=56

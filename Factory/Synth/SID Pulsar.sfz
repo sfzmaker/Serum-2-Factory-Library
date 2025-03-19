@@ -1,0 +1,29 @@
+// SID Pulsar
+// Serum 2 Factory Content
+
+<group>
+ampeg_attack=0.00
+ampeg_release=0.32
+volume=-6
+amp_veltrack=35
+
+<region>
+sample=SID/XFSid Pulsar C0.flac
+pitch_keycenter=24
+lokey=0 hikey=30
+
+<region>
+sample=SID/XFSid Pulsar C1.flac
+pitch_keycenter=36
+lokey=31 hikey=42
+
+<region>
+sample=SID/XFSid Pulsar C2.flac
+pitch_keycenter=48
+lokey=43 hikey=56
+
+<region>
+sample=SID/XFSid Pulsar C3.flac
+pitch_keycenter=60
+lokey=57 hikey=127
+

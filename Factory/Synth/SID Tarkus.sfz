@@ -1,0 +1,34 @@
+// SID Tarkus
+// Serum 2 Factory Content
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.32
+loop_mode=loop_continuous
+loop_crossfade=0.0125
+
+<region>
+sample=../../../Samples/Factory/Synth/SID Tarkus C0.flac
+pitch_keycenter=24
+lokey=0 hikey=31
+loop_start=25930 loop_end=158639
+
+<region>
+sample=../../../Samples/Factory/Synth/SID Tarkus C1.flac
+pitch_keycenter=36
+lokey=32 hikey=42
+loop_start=73901 loop_end=159569
+
+<region>
+sample=../../../Samples/Factory/Synth/SID Tarkus C2.flac
+pitch_keycenter=48
+lokey=43 hikey=55
+loop_start=8708 loop_end=115114
+
+<region>
+sample=../../../Samples/Factory/Synth/SID Tarkus C3.flac
+pitch_keycenter=60
+lokey=56 hikey=127
+loop_start=60622 loop_end=168389
+
+

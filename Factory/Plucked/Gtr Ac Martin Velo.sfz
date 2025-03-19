@@ -1,0 +1,382 @@
+// Acoustic Guitar Martin Velocity
+// Serum2 Factory Content
+
+<group>
+ampeg_attack=0.0 ampeg_release=1.5
+loop_mode=no_loop
+amp_veltrack=0.0001
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 01 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+hivel=26
+
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 01 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+hivel=26
+offset=0 end=183340
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 01 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+hivel=26
+offset=0 end=240670
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 01 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+hivel=26
+offset=0 end=236068
+
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 01 A#2.flac
+pitch_keycenter=58
+lokey=56 hikey=59
+hivel=26
+offset=0 end=156132
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 01 C#3.flac
+pitch_keycenter=61
+lokey=60 hikey=62
+hivel=26
+offset=0 end=175769
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 01 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+hivel=26
+offset=0 end=130231
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 01 A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+hivel=26
+offset=0 end=130091
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 01 C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=127
+hivel=26
+offset=0 end=148333
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 02 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=27 hivel=59
+offset=0 end=335072
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 02 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+lovel=27 hivel=59
+offset=0 end=191484
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 02 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+lovel=27 hivel=59
+offset=0 end=259907
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 02 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+lovel=27 hivel=59
+offset=0 end=221224
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 02 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=55
+lovel=27 hivel=59
+offset=0 end=227143
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 02 A#2.flac
+pitch_keycenter=58
+lokey=56 hikey=59
+lovel=27 hivel=59
+offset=0 end=163120
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 02 C#3.flac
+pitch_keycenter=61
+lokey=60 hikey=62
+lovel=27 hivel=59
+offset=0 end=176721
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 02 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+lovel=27 hivel=59
+offset=0 end=162321
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 02 A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+lovel=27 hivel=59
+offset=0 end=121096
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 02 C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=127
+lovel=27 hivel=59
+offset=0 end=157367
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 03 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+lovel=60 hivel=89
+offset=0 end=199008
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 03 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+lovel=60 hivel=89
+offset=0 end=298929
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 03 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+lovel=60 hivel=89
+offset=0 end=296059
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 03 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=55
+lovel=60 hivel=89
+offset=0 end=226221
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 03 A#2.flac
+pitch_keycenter=58
+lokey=56 hikey=59
+lovel=60 hivel=89
+offset=0 end=173760
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 03 C#3.flac
+pitch_keycenter=61
+lokey=60 hikey=62
+lovel=60 hivel=89
+offset=0 end=216162
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 03 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+lovel=60 hivel=89
+offset=0 end=197126
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 03 A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+lovel=60 hivel=89
+offset=0 end=121654
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 03 C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=127
+lovel=60 hivel=89
+offset=0 end=173923
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 04 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+lovel=90 hivel=118
+offset=0 end=217488
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 04 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+lovel=90 hivel=118
+offset=0 end=308646
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 04 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+lovel=90 hivel=118
+offset=0 end=296904
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 04 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=55
+lovel=90 hivel=118
+offset=0 end=251046
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 04 A#2.flac
+pitch_keycenter=58
+lokey=56 hikey=59
+lovel=90 hivel=118
+offset=0 end=168560
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 04 C#3.flac
+pitch_keycenter=61
+lokey=60 hikey=62
+lovel=90 hivel=118
+offset=0 end=259178 volume=-1.5
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 04 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+lovel=90 hivel=118
+offset=0 end=208237 volume=1.5
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 04 A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+lovel=90 hivel=118
+offset=0 end=137660
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 04 C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=127
+lovel=90 hivel=118
+offset=0 end=143955
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 05 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+lovel=118 offset=0 end=194024
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 05 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+lovel=118 offset=0 end=303688
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 05 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+lovel=118 offset=0 end=437321
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 05 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=55
+lovel=118 offset=0 end=238954
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 05 A#2.flac
+pitch_keycenter=58
+lokey=56 hikey=59
+lovel=118 offset=0 end=182325
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 05 C#3.flac
+pitch_keycenter=61
+lokey=60 hikey=62
+lovel=118 offset=0 end=286630
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 05 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+lovel=118 offset=0 end=184733 volume=2.5
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 05 A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+lovel=118 offset=0 end=174810
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 05 C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=127
+lovel=118 offset=0 end=185698
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 04 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=90 hivel=117
+offset=0 end=364381
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 03 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=60 hivel=89
+offset=0 end=367743
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 05 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=118 offset=0 end=402436
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 01 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=55
+hivel=26
+offset=0 end=216674
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 05 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+lovel=118 offset=0 end=271544
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 04 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+lovel=90 hivel=117
+offset=0 end=253224
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 03 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+lovel=60 hivel=89
+offset=0 end=215457
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 02 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+lovel=27 hivel=59
+offset=0 end=187865
+
+<region>
+sample=MartinACV Samples/XFEG Martin Ac Vel 01 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+hivel=26
+offset=0 end=173876

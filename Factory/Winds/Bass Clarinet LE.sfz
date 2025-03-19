@@ -1,0 +1,100 @@
+// Bass Clarinet Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.01
+ampeg_release=1.2
+loop_crossfade=0.01
+amp_veltrack=35
+loop_mode=loop_continuous
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long-02 01 A#0.flac
+pitch_keycenter=34 tune=-10
+lokey=0 hikey=35
+loop_start=159959 loop_end=368853
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long-02 01 C1.flac
+pitch_keycenter=36 tune=-18
+lokey=36 hikey=38
+loop_start=145497 loop_end=258615
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long-02 01 E1.flac
+pitch_keycenter=40 tune=-16
+lokey=39 hikey=41
+loop_start=128192 loop_end=245417
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long-02 01 F#1.flac
+pitch_keycenter=42 tune=-18
+lokey=42 hikey=43
+loop_start=145230 loop_end=292107
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long-03 01 G#1.flac
+pitch_keycenter=44 tune=-18
+lokey=44 hikey=45
+loop_start=164480 loop_end=343316
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long-02 01 A#1.flac
+pitch_keycenter=46 tune=-18
+lokey=46 hikey=47
+loop_start=175038 loop_end=364043
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long 01 C2.flac
+pitch_keycenter=48 tune=-26
+lokey=48 hikey=50
+loop_start=200945 loop_end=400063
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long 01 E2.flac
+pitch_keycenter=52 tune=-24
+lokey=51 hikey=54
+loop_start=159214 loop_end=241448
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long-02 01 G#2.flac
+pitch_keycenter=56 tune=-14
+lokey=55 hikey=57
+loop_start=138680 loop_end=302451
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long-02 01 A#2.flac
+pitch_keycenter=58 tune=-20
+lokey=58 hikey=60
+loop_start=154451 loop_end=296719
+ampeg_attack=0.2
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long-02 01 D3.flac
+pitch_keycenter=62 tune=-16
+lokey=61 hikey=67
+loop_start=118801 loop_end=295788
+ampeg_attack=0.2
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long-02 01 A#3.flac
+pitch_keycenter=70 tune=-28
+lokey=68 hikey=71
+loop_start=142351 loop_end=264613
+ampeg_attack=0.3
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long 01 C4.flac
+pitch_keycenter=72 tune=-24
+lokey=72 hikey=73
+loop_start=103409 loop_end=202232
+ampeg_attack=0.3
+
+<region>
+sample=Bass Clarinet Long Samples/XFbass clarinet long-04 01 D4.flac
+pitch_keycenter=74 tune=-36
+lokey=74 hikey=127
+loop_start=117081 loop_end=256131
+ampeg_attack=0.3
+

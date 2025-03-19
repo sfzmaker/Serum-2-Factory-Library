@@ -1,0 +1,169 @@
+// Kora Eng
+// Serum 2 Factory Content
+
+<group>
+amp_veltrack=0.0001
+ampeg_attack=0.001
+ampeg_release=0.7
+
+<region>
+sample=Kora Eng Samples/XFKora 03 F1.flac
+pitch_keycenter=41
+lokey=0 hikey=42
+lovel=97
+
+<region>
+sample=Kora Eng Samples/XFKora 02 F1.flac
+pitch_keycenter=41
+lokey=0 hikey=42
+lovel=32 hivel=96
+
+<region>
+sample=Kora Eng Samples/XFKora 01 F1.flac
+pitch_keycenter=41
+lokey=0 hikey=42
+hivel=31
+
+<region>
+sample=Kora Eng Samples/XFKora 03 A1.flac
+pitch_keycenter=45
+lokey=43 hikey=46
+lovel=97
+
+<region>
+sample=Kora Eng Samples/XFKora 02 A1.flac
+pitch_keycenter=45
+lokey=43 hikey=46
+lovel=32 hivel=96
+
+<region>
+sample=Kora Eng Samples/XFKora 01 A1.flac
+pitch_keycenter=45
+lokey=43 hikey=46
+hivel=31
+
+<region>
+sample=Kora Eng Samples/XFKora 03 C#2.flac
+pitch_keycenter=49
+lokey=47 hikey=50
+lovel=97
+
+<region>
+sample=Kora Eng Samples/XFKora 02 C#2.flac
+pitch_keycenter=49
+lokey=47 hikey=50
+lovel=32 hivel=96
+
+<region>
+sample=Kora Eng Samples/XFKora 01 C#2.flac
+pitch_keycenter=49
+lokey=47 hikey=50
+hivel=31
+
+<region>
+sample=Kora Eng Samples/XFKora 03 F2.flac
+pitch_keycenter=53
+lokey=51 hikey=54
+lovel=97
+
+<region>
+sample=Kora Eng Samples/XFKora 02 F2.flac
+pitch_keycenter=53
+lokey=51 hikey=54
+lovel=32 hivel=96
+
+<region>
+sample=Kora Eng Samples/XFKora 01 F2.flac
+pitch_keycenter=53
+lokey=51 hikey=54
+hivel=31
+
+<region>
+sample=Kora Eng Samples/XFKora 03 A2.flac
+pitch_keycenter=57
+lokey=55 hikey=58
+lovel=97
+
+<region>
+sample=Kora Eng Samples/XFKora 02 A2.flac
+pitch_keycenter=57
+lokey=55 hikey=58
+lovel=32 hivel=96
+
+<region>
+sample=Kora Eng Samples/XFKora 01 A2.flac
+pitch_keycenter=57
+lokey=55 hikey=58
+hivel=31
+
+<region>
+sample=Kora Eng Samples/XFKora 03 C#3.flac
+pitch_keycenter=61
+lokey=59 hikey=62
+lovel=97
+
+<region>
+sample=Kora Eng Samples/XFKora 02 C#3.flac
+pitch_keycenter=61
+lokey=59 hikey=62
+lovel=32 hivel=96
+
+<region>
+sample=Kora Eng Samples/XFKora 01 C#3.flac
+pitch_keycenter=61
+lokey=59 hikey=62
+hivel=31
+
+<region>
+sample=Kora Eng Samples/XFKora 03 F3.flac
+pitch_keycenter=65
+lokey=63 hikey=66
+lovel=97
+
+<region>
+sample=Kora Eng Samples/XFKora 02 F3.flac
+pitch_keycenter=65
+lokey=63 hikey=66
+lovel=32 hivel=96
+
+<region>
+sample=Kora Eng Samples/XFKora 01 F3.flac
+pitch_keycenter=65
+lokey=63 hikey=66
+hivel=31
+
+<region>
+sample=Kora Eng Samples/XFKora 03 A3.flac
+pitch_keycenter=69
+lokey=67 hikey=70
+lovel=97
+
+<region>
+sample=Kora Eng Samples/XFKora 02 A3.flac
+pitch_keycenter=69
+lokey=67 hikey=70
+lovel=32 hivel=96
+
+<region>
+sample=Kora Eng Samples/XFKora 01 A3.flac
+pitch_keycenter=69
+lokey=67 hikey=69
+hivel=31
+
+<region>
+sample=Kora Eng Samples/XFKora 01 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=127
+hivel=31
+
+<region>
+sample=Kora Eng Samples/XFKora 03 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=127
+lovel=97
+
+<region>
+sample=Kora Eng Samples/XFKora 02 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=127
+lovel=32 hivel=96

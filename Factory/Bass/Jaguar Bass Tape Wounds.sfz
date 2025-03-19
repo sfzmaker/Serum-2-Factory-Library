@@ -1,0 +1,46 @@
+// Jaguar Bass Tape Wounds
+// Serum2 Factory Content
+// By Shreddward
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.7
+amp_veltrack=25
+loop_mode=loop_continuous
+
+<region>
+sample=JaguarBassTapeWounds Samples/XFJagBass E0.flac
+pitch_keycenter=28
+lokey=0 hikey=32
+offset=19698 end=265578
+volume=0.36
+loop_start=113318 loop_end=121407
+
+<region>
+sample=JaguarBassTapeWounds Samples/XFJagBass A0.flac
+pitch_keycenter=33
+lokey=33 hikey=39
+offset=11662 end=197176
+volume=7.08 tune=-18
+loop_start=80335 loop_end=86375
+
+<region>
+sample=JaguarBassTapeWounds Samples/XFJagBass E1.flac
+pitch_keycenter=40
+lokey=40 hikey=44
+offset=639 end=226450
+loop_start=103723 loop_end=108385
+
+<region>
+sample=JaguarBassTapeWounds Samples/XFJagBass A1.flac
+pitch_keycenter=45
+lokey=45 hikey=51
+offset=3578 end=277120
+loop_start=137209 loop_end=142450
+
+<region>
+sample=JaguarBassTapeWounds Samples/XFJagBass E2.flac
+pitch_keycenter=52
+lokey=52 hikey=127
+offset=4687 end=307300
+loop_start=130391 loop_end=142295

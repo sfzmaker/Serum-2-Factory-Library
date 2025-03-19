@@ -1,0 +1,73 @@
+// Marxophone
+// Serum2 Factory Content
+// By Shreddward
+
+<group>
+loop_mode=loop_continuous
+ampeg_attack=0.0001
+ampeg_release=0.7
+amp_veltrack=25
+
+<region>
+sample=Marxophone Samples/XFMarxophone C3.flac
+pitch_keycenter=72
+lokey=0 hikey=72
+loop_start=399640 loop_end=460791
+
+<region>
+sample=Marxophone Samples/XFMarxophone D3.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+loop_start=316697 loop_end=460795
+
+<region>
+sample=Marxophone Samples/XFMarxophone E3.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+loop_start=309654 loop_end=460800
+
+<region>
+sample=Marxophone Samples/XFMarxophone F3.flac
+key=77
+loop_start=271777 loop_end=363286
+
+<region>
+sample=Marxophone Samples/XFMarxophone G3.flac
+pitch_keycenter=79
+lokey=78 hikey=79
+loop_start=320402 loop_end=375855
+
+<region>
+sample=Marxophone Samples/XFMarxophone A3.flac
+pitch_keycenter=81
+lokey=80 hikey=83
+loop_start=247584 loop_end=365568
+
+<region>
+sample=Marxophone Samples/XFMarxophone C4.flac
+key=84
+loop_start=295997 loop_end=372736
+
+<region>
+sample=Marxophone Samples/XFMarxophone D4.flac
+pitch_keycenter=86
+lokey=85 hikey=86
+loop_start=297820 loop_end=405314
+
+<region>
+sample=Marxophone Samples/XFMarxophone E4.flac
+pitch_keycenter=88
+lokey=87 hikey=90
+loop_start=261779 loop_end=376832
+
+<region>
+sample=Marxophone Samples/XFMarxophone G4.flac
+pitch_keycenter=91
+lokey=91 hikey=92
+loop_start=241149 loop_end=352256
+
+<region>
+sample=Marxophone Samples/XFMarxophone A4.flac
+pitch_keycenter=93
+lokey=93 hikey=127
+loop_start=174731 loop_end=261197

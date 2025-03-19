@@ -1,0 +1,93 @@
+// KRG PE Strings
+// Serum 2 Factory Content
+// By Shreddward & Matt Aimonetti
+
+<group>
+loop_mode=loop_continuous
+ampeg_attack=0.001
+ampeg_release=0.32
+amp_veltrack=25
+
+<region>
+sample=KRG PE Strings Samples/XFKrg PE Strings F2.flac
+pitch_keycenter=53
+lokey=0 hikey=54
+loop_start=78318 loop_end=206094
+loop_crossfade=0.7986
+
+<region>
+sample=KRG PE Strings Samples/XFKrg PE Strings Ab2.flac
+pitch_keycenter=56
+lokey=55 hikey=57
+loop_start=86436 loop_end=202596
+loop_crossfade=1.2100
+
+<region>
+sample=KRG PE Strings Samples/XFKrg PE Strings B2.flac
+pitch_keycenter=59
+lokey=58 hikey=60
+loop_start=69836 loop_end=175436
+loop_crossfade=0.4400
+
+<region>
+sample=KRG PE Strings Samples/XFKrg PE Strings D3.flac
+pitch_keycenter=62
+lokey=61 hikey=63
+loop_start=135300 loop_end=240900
+loop_crossfade=0.4400
+
+<region>
+sample=KRG PE Strings Samples/XFKrg PE Strings F3.flac
+pitch_keycenter=65
+lokey=64 hikey=66
+loop_start=75924 loop_end=192084
+loop_crossfade=0.4840
+
+<region>
+sample=KRG PE Strings Samples/XFKrg PE Strings Ab3.flac
+pitch_keycenter=68
+lokey=67 hikey=69
+loop_start=70074 loop_end=186234
+loop_crossfade=0.7260
+
+<region>
+sample=KRG PE Strings Samples/XFKrg PE Strings B3.flac
+pitch_keycenter=71
+lokey=70 hikey=72
+loop_start=96867 loop_end=192867
+loop_crossfade=0.4000
+
+<region>
+sample=KRG PE Strings Samples/XFKrg PE Strings D4.flac
+pitch_keycenter=74
+lokey=73 hikey=75
+loop_start=147744 loop_end=243744
+loop_crossfade=0.4000
+
+<region>
+sample=KRG PE Strings Samples/XFKrg PE Strings F4.flac
+pitch_keycenter=77
+lokey=76 hikey=78
+loop_start=144200 loop_end=240200
+loop_crossfade=0.8000
+
+<region>
+sample=KRG PE Strings Samples/XFKrg PE Strings Ab4.flac
+pitch_keycenter=80
+lokey=79 hikey=81
+loop_start=137685 loop_end=243285
+loop_crossfade=0.4400
+
+<region>
+sample=KRG PE Strings Samples/XFKrg PE Strings B4.flac
+pitch_keycenter=83
+lokey=82 hikey=84
+loop_start=152514 loop_end=248514
+loop_crossfade=0.6000
+
+<region>
+sample=KRG PE Strings Samples/XFKrg PE Strings D5.flac
+pitch_keycenter=86
+lokey=85 hikey=127
+loop_start=143780 loop_end=239780
+loop_crossfade=1.0000

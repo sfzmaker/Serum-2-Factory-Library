@@ -1,0 +1,125 @@
+// Hoffman 112 Upright Piano
+// Serum 2 Factory Content
+
+<group>
+ampeg_release=0.7
+amp_veltrack=0.0001
+
+<region>lokey=0 hikey=23 pitch_keycenter=22 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 A#-1.flac
+<region>lokey=0 hikey=23 pitch_keycenter=22 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 A#-1.flac
+<region>lokey=0 hikey=23 pitch_keycenter=22 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 A#-1.flac
+
+<region>lokey=24 hikey=26 pitch_keycenter=25 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 C#0.flac
+<region>lokey=24 hikey=26 pitch_keycenter=25 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 C#0.flac
+<region>lokey=24 hikey=26 pitch_keycenter=25 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 C#0.flac
+
+<region>lokey=27 hikey=29 pitch_keycenter=28 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 E0.flac
+<region>lokey=27 hikey=29 pitch_keycenter=28 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 E0.flac
+<region>lokey=27 hikey=29 pitch_keycenter=28 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 E0.flac
+
+<region>lokey=30 hikey=32 pitch_keycenter=31 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 G0.flac
+<region>lokey=30 hikey=32 pitch_keycenter=31 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 G0.flac
+<region>lokey=30 hikey=32 pitch_keycenter=31 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 G0.flac
+
+<region>lokey=33 hikey=35 pitch_keycenter=34 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 A#0.flac
+<region>lokey=33 hikey=35 pitch_keycenter=34 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 A#0.flac
+<region>lokey=33 hikey=35 pitch_keycenter=34 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 A#0.flac
+
+<region>lokey=36 hikey=38 pitch_keycenter=37 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 C#1.flac
+<region>lokey=36 hikey=38 pitch_keycenter=37 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 C#1.flac
+<region>lokey=36 hikey=38 pitch_keycenter=37 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 C#1.flac
+
+<region>lokey=39 hikey=41 pitch_keycenter=40 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 E1.flac
+<region>lokey=39 hikey=41 pitch_keycenter=40 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 E1.flac
+<region>lokey=39 hikey=41 pitch_keycenter=40 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 E1.flac
+
+<region>lokey=42 hikey=44 pitch_keycenter=43 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 G1.flac
+<region>lokey=42 hikey=44 pitch_keycenter=43 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 G1.flac
+<region>lokey=42 hikey=44 pitch_keycenter=43 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 G1.flac
+
+<region>lokey=45 hikey=47 pitch_keycenter=46 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 A#1.flac
+<region>lokey=45 hikey=47 pitch_keycenter=46 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 A#1.flac
+<region>lokey=45 hikey=49 pitch_keycenter=46 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 A#1.flac
+
+<region>lokey=48 hikey=50 pitch_keycenter=49 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 C#2.flac
+<region>lokey=48 hikey=50 pitch_keycenter=49 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 C#2.flac
+
+<region>lokey=51 hikey=53 pitch_keycenter=53 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 F2.flac
+<region>lokey=51 hikey=53 pitch_keycenter=53 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 F2.flac
+<region>lokey=50 hikey=53 pitch_keycenter=53 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 F2.flac
+
+<region>lokey=54 hikey=56 pitch_keycenter=55 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 G2.flac
+<region>lokey=54 hikey=56 pitch_keycenter=55 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 G2.flac
+<region>lokey=54 hikey=56 pitch_keycenter=55 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 G2.flac
+
+<region>lokey=57 hikey=59 pitch_keycenter=58 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 A#2.flac
+<region>lokey=57 hikey=59 pitch_keycenter=58 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 A#2.flac
+<region>lokey=57 hikey=59 pitch_keycenter=58 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 A#2.flac
+
+<region>lokey=60 hikey=62 pitch_keycenter=61 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 C#3.flac
+<region>lokey=60 hikey=62 pitch_keycenter=61 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 C#3.flac
+<region>lokey=60 hikey=62 pitch_keycenter=61 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 C#3.flac
+
+<region>lokey=63 hikey=65 pitch_keycenter=64 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 E3.flac
+<region>lokey=63 hikey=65 pitch_keycenter=64 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 E3.flac
+<region>lokey=63 hikey=65 pitch_keycenter=64 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 E3.flac
+
+<region>lokey=66 hikey=68 pitch_keycenter=67 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 G3.flac
+<region>lokey=66 hikey=68 pitch_keycenter=67 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 G3.flac
+<region>lokey=66 hikey=68 pitch_keycenter=67 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 G3.flac
+
+<region>lokey=69 hikey=71 pitch_keycenter=70 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 A#3.flac
+<region>lokey=69 hikey=71 pitch_keycenter=70 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 A#3.flac
+<region>lokey=69 hikey=71 pitch_keycenter=70 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 A#3.flac
+
+<region>lokey=72 hikey=74 pitch_keycenter=73 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 C#4.flac
+<region>lokey=72 hikey=74 pitch_keycenter=73 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 C#4.flac
+<region>lokey=72 hikey=74 pitch_keycenter=73 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 C#4.flac
+
+<region>lokey=75 hikey=77 pitch_keycenter=76 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 E4.flac
+<region>lokey=75 hikey=77 pitch_keycenter=76 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 E4.flac
+<region>lokey=75 hikey=77 pitch_keycenter=76 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 E4.flac
+
+<region>lokey=78 hikey=80 pitch_keycenter=79 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 G4.flac
+<region>lokey=78 hikey=80 pitch_keycenter=79 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 G4.flac
+<region>lokey=78 hikey=80 pitch_keycenter=79 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 G4.flac
+
+<region>lokey=81 hikey=83 pitch_keycenter=82 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 A#4.flac
+<region>lokey=81 hikey=83 pitch_keycenter=82 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 A#4.flac
+<region>lokey=81 hikey=83 pitch_keycenter=82 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 A#4.flac
+
+<region>lokey=84 hikey=86 pitch_keycenter=85 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 C#5.flac
+<region>lokey=84 hikey=86 pitch_keycenter=85 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 C#5.flac
+<region>lokey=84 hikey=86 pitch_keycenter=85 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 C#5.flac
+
+<region>lokey=87 hikey=89 pitch_keycenter=88 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 E5.flac
+<region>lokey=87 hikey=89 pitch_keycenter=88 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 E5.flac
+<region>lokey=87 hikey=89 pitch_keycenter=88 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 E5.flac
+
+<region>lokey=90 hikey=92 pitch_keycenter=91 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 G5.flac
+<region>lokey=90 hikey=92 pitch_keycenter=91 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 G5.flac
+<region>lokey=90 hikey=92 pitch_keycenter=91 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 G5.flac
+
+<region>lokey=93 hikey=95 pitch_keycenter=94 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 A#5.flac
+<region>lokey=93 hikey=95 pitch_keycenter=94 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 A#5.flac
+<region>lokey=93 hikey=95 pitch_keycenter=94 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 A#5.flac
+
+<region>lokey=96 hikey=98 pitch_keycenter=97 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 C#6.flac
+<region>lokey=96 hikey=98 pitch_keycenter=97 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 C#6.flac
+<region>lokey=96 hikey=98 pitch_keycenter=97 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 C#6.flac
+
+<region>lokey=99 hikey=101 pitch_keycenter=100 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 E6.flac
+<region>lokey=99 hikey=101 pitch_keycenter=100 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 E6.flac
+<region>lokey=99 hikey=101 pitch_keycenter=100 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 E6.flac
+
+<region>lokey=102 hikey=104 pitch_keycenter=103 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 G6.flac
+<region>lokey=102 hikey=104 pitch_keycenter=103 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 G6.flac
+<region>lokey=102 hikey=104 pitch_keycenter=103 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 G6.flac
+
+<region>lokey=105 hikey=106 pitch_keycenter=106 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 A#6.flac
+<region>lokey=105 hikey=106 pitch_keycenter=106 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 A#6.flac
+<region>lokey=105 hikey=106 pitch_keycenter=106 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 A#6.flac
+
+<region>lokey=107 hikey=127 pitch_keycenter=108 hivel=44 amp_velcurve_54=1 sample=Upright Piano Samples/XFUprightPiano 01 C7.flac
+<region>lokey=107 hikey=127 pitch_keycenter=108 lovel=45 hivel=85 amp_velcurve_79=1 sample=Upright Piano Samples/XFUprightPiano 02 C7.flac
+<region>lokey=107 hikey=127 pitch_keycenter=108 lovel=86 hivel=127 amp_velcurve_127=1 sample=Upright Piano Samples/XFUprightPiano 03 C7.flac

@@ -1,0 +1,494 @@
+// Glockenspiel
+// Serum2 Factory Content
+
+<group>
+ampeg_release=3
+amp_veltrack=0.0001
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 G4.flac
+lokey=0 hikey=79
+pitch_keycenter=79
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 G4.flac
+lokey=0 hikey=79
+pitch_keycenter=79
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 G4.flac
+lokey=0 hikey=79
+pitch_keycenter=79
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 G#4.flac
+lokey=80 hikey=80
+pitch_keycenter=80
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 G#4.flac
+lokey=80 hikey=80
+pitch_keycenter=80
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 G#4.flac
+lokey=80 hikey=80
+pitch_keycenter=80
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 A4.flac
+lokey=81 hikey=81
+pitch_keycenter=81
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 A4.flac
+lokey=81 hikey=81
+pitch_keycenter=81
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 A4.flac
+lokey=81 hikey=81
+pitch_keycenter=81
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 A#4.flac
+lokey=82 hikey=82
+pitch_keycenter=82
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 A#4.flac
+lokey=82 hikey=82
+pitch_keycenter=82
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 A#4.flac
+lokey=82 hikey=82
+pitch_keycenter=82
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 B4.flac
+lokey=83 hikey=83
+pitch_keycenter=83
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 B4.flac
+lokey=83 hikey=83
+pitch_keycenter=83
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 B4.flac
+lokey=83 hikey=83
+pitch_keycenter=83
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 C5.flac
+lokey=84 hikey=84
+pitch_keycenter=84
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 C5.flac
+lokey=84 hikey=84
+pitch_keycenter=84
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 C5.flac
+lokey=84 hikey=84
+pitch_keycenter=84
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 C#5.flac
+lokey=85 hikey=85
+pitch_keycenter=85
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 C#5.flac
+lokey=85 hikey=85
+pitch_keycenter=85
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 C#5.flac
+lokey=85 hikey=85
+pitch_keycenter=85
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 D5.flac
+lokey=86 hikey=86
+pitch_keycenter=86
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 D5.flac
+lokey=86 hikey=86
+pitch_keycenter=86
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 D5.flac
+lokey=86 hikey=86
+pitch_keycenter=86
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 D#5.flac
+lokey=87 hikey=87
+pitch_keycenter=87
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 D#5.flac
+lokey=87 hikey=87
+pitch_keycenter=87
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 E5.flac
+lokey=88 hikey=88
+pitch_keycenter=88
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 E5.flac
+lokey=88 hikey=88
+pitch_keycenter=88
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 E5.flac
+lokey=87 hikey=88
+pitch_keycenter=88
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 F5.flac
+lokey=89 hikey=89
+pitch_keycenter=89
+hivel=54 amp_velcurve_54=1
+
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 F5.flac
+lokey=89 hikey=89
+pitch_keycenter=89
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 F#5.flac
+lokey=90 hikey=90
+pitch_keycenter=90
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 F#5.flac
+lokey=89 hikey=90
+pitch_keycenter=90
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 F#5.flac
+lokey=90 hikey=90
+pitch_keycenter=90
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 G5.flac
+lokey=91 hikey=91
+pitch_keycenter=91
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 G5.flac
+lokey=91 hikey=91
+pitch_keycenter=91
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 G5.flac
+lokey=91 hikey=91
+pitch_keycenter=91
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 G#5.flac
+lokey=92 hikey=92
+pitch_keycenter=92
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 G#5.flac
+lokey=92 hikey=93
+pitch_keycenter=92
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 G#5.flac
+lokey=92 hikey=92
+pitch_keycenter=92
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 A5.flac
+lokey=93 hikey=93
+pitch_keycenter=93
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 A#5.flac
+lokey=94 hikey=94
+pitch_keycenter=94
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 A#5.flac
+lokey=93 hikey=94
+pitch_keycenter=94
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 B5.flac
+lokey=95 hikey=95
+pitch_keycenter=95
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 B5.flac
+lokey=94 hikey=95
+pitch_keycenter=95
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 B5.flac
+lokey=95 hikey=95
+pitch_keycenter=95
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 C6.flac
+lokey=96 hikey=96
+pitch_keycenter=96
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 C6.flac
+lokey=96 hikey=96
+pitch_keycenter=96
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 C#6.flac
+lokey=96 hikey=97
+pitch_keycenter=97
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 C#6.flac
+lokey=97 hikey=97
+pitch_keycenter=97
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 C#6.flac
+lokey=97 hikey=97
+pitch_keycenter=97
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 D6.flac
+lokey=98 hikey=98
+pitch_keycenter=98
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 D6.flac
+lokey=98 hikey=98
+pitch_keycenter=98
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 D6.flac
+lokey=98 hikey=98
+pitch_keycenter=98
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 D#6.flac
+lokey=99 hikey=99
+pitch_keycenter=99
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 D#6.flac
+lokey=99 hikey=99
+pitch_keycenter=99
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 E6.flac
+lokey=99 hikey=100
+pitch_keycenter=100
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 E6.flac
+lokey=100 hikey=100
+pitch_keycenter=100
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 E6.flac
+lokey=100 hikey=100
+pitch_keycenter=100
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 F6.flac
+lokey=101 hikey=101
+pitch_keycenter=101
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 F6.flac
+lokey=101 hikey=101
+pitch_keycenter=101
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 F6.flac
+lokey=101 hikey=101
+pitch_keycenter=101
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 F#6.flac
+lokey=102 hikey=102
+pitch_keycenter=102
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 G6.flac
+lokey=102 hikey=103
+pitch_keycenter=103
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 G6.flac
+lokey=103 hikey=103
+pitch_keycenter=103
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 G6.flac
+lokey=102 hikey=103
+pitch_keycenter=103
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 G#6.flac
+lokey=104 hikey=104
+pitch_keycenter=104
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 G#6.flac
+lokey=104 hikey=104
+pitch_keycenter=104
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 G#6.flac
+lokey=104 hikey=104
+pitch_keycenter=104
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 A6.flac
+lokey=105 hikey=105
+pitch_keycenter=105
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 A6.flac
+lokey=105 hikey=105
+pitch_keycenter=105
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 A6.flac
+lokey=105 hikey=105
+pitch_keycenter=105
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 A#6.flac
+lokey=106 hikey=106
+pitch_keycenter=106
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 A#6.flac
+lokey=106 hikey=106
+pitch_keycenter=106
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 A#6.flac
+lokey=106 hikey=106
+pitch_keycenter=106
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 B6.flac
+lokey=107 hikey=107
+pitch_keycenter=107
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 B6.flac
+lokey=107 hikey=107
+pitch_keycenter=107
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 B6.flac
+lokey=107 hikey=107
+pitch_keycenter=107
+lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 01 C7.flac
+lokey=108 hikey=127
+pitch_keycenter=108
+hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 02 C7.flac
+lokey=108 hikey=127
+pitch_keycenter=108
+lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Glockenspiel Samples/XFGlockenspiel 03 C7.flac
+lokey=108 hikey=127
+pitch_keycenter=108
+lovel=80 hivel=127 amp_velcurve_127=1
+

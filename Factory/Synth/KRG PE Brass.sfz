@@ -1,0 +1,80 @@
+// KRG PE Brass
+// Serum 2 Factory Content
+// By Shreddward & Matt Aimonetti
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.32
+amp_veltrack=25
+loop_mode=loop_continuous
+
+<region>
+sample=KRG PE Brass Samples/XFKrg PE Brass D2.flac
+pitch_keycenter=50
+lokey=0 hikey=51
+loop_start=100266 loop_end=177829
+loop_crossfade=0.0171
+
+<region>
+sample=KRG PE Brass Samples/XFKrg PE Brass F2.flac
+pitch_keycenter=53
+lokey=52 hikey=54
+loop_start=71269 loop_end=190003
+loop_crossfade=0.1235
+
+<region>
+sample=KRG PE Brass Samples/XFKrg PE Brass Ab2.flac
+pitch_keycenter=56
+lokey=55 hikey=58
+loop_start=128487 loop_end=221351
+loop_crossfade=0.0193
+
+<region>
+sample=KRG PE Brass Samples/XFKrg PE Brass F3.flac
+pitch_keycenter=65
+lokey=59 hikey=66
+loop_start=94840 loop_end=186694
+loop_crossfade=0.0191
+
+<region>
+sample=KRG PE Brass Samples/XFKrg PE Brass Ab3.flac
+pitch_keycenter=68
+lokey=67 hikey=69
+loop_start=74341 loop_end=152061
+loop_crossfade=0.0162
+
+<region>
+sample=KRG PE Brass Samples/XFKrg PE Brass B3.flac
+pitch_keycenter=71
+lokey=70 hikey=72
+loop_start=74443 loop_end=154852
+loop_crossfade=0.0168
+
+<region>
+sample=KRG PE Brass Samples/XFKrg PE Brass D4.flac
+pitch_keycenter=74
+lokey=73 hikey=75
+loop_start=146153 loop_end=224006
+loop_crossfade=0.0162
+
+<region>
+sample=KRG PE Brass Samples/XFKrg PE Brass F4.flac
+pitch_keycenter=77
+lokey=76 hikey=78
+loop_start=128372 loop_end=179498
+loop_crossfade=0.0107
+
+
+<region>
+sample=KRG PE Brass Samples/XFKrg PE Brass Ab4.flac
+pitch_keycenter=80
+lokey=79 hikey=83
+loop_start=70650 loop_end=150058
+loop_crossfade=0.0165
+
+<region>
+sample=KRG PE Brass Samples/XFKrg PE Brass D5.flac
+pitch_keycenter=86
+lokey=84 hikey=127
+loop_start=69391 loop_end=110448
+loop_crossfade=0.0086

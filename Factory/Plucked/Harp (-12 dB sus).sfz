@@ -1,0 +1,262 @@
+// Harp
+// Serum 2 Factory Content
+
+<group>
+ampeg_attack=0.001
+ampeg_decay=1.5
+ampeg_sustain=50
+ampeg_release=0.4
+amp_veltrack=25
+
+
+<region>
+sample=Harp Samples/XFHarp 01 C1.flac
+pitch_keycenter=36
+lokey=0 hikey=37
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 C1.flac
+pitch_keycenter=36
+lokey=0 hikey=37
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 Eb1.flac
+pitch_keycenter=39
+lokey=38 hikey=40
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 Eb1.flac
+pitch_keycenter=39
+lokey=38 hikey=40
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 Gb1.flac
+pitch_keycenter=42
+lokey=41 hikey=43
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 Gb1.flac
+pitch_keycenter=42
+lokey=41 hikey=43
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 A1.flac
+pitch_keycenter=45
+lokey=44 hikey=46
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 A1.flac
+pitch_keycenter=45
+lokey=44 hikey=46
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 C2.flac
+pitch_keycenter=48 tune=6
+lokey=47 hikey=49
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 A1.flac
+pitch_keycenter=45
+lokey=47 hikey=49
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 Eb2.flac
+pitch_keycenter=51 tune=2
+lokey=50 hikey=52
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 Eb2.flac
+pitch_keycenter=51
+lokey=50 hikey=52
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 Gb2.flac
+pitch_keycenter=54 tune=3
+lokey=53 hikey=55
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 Gb2.flac
+pitch_keycenter=54 tune=3
+lokey=53 hikey=55
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 A2.flac
+pitch_keycenter=57 tune=6
+lokey=56 hikey=58
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 A2.flac
+pitch_keycenter=57 tune=6
+lokey=56 hikey=58
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 C3.flac
+pitch_keycenter=60
+lokey=59 hikey=61
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 C3.flac
+pitch_keycenter=60
+lokey=59 hikey=61
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 Eb3.flac
+pitch_keycenter=63 tune=4
+lokey=62 hikey=64
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 Eb3.flac
+pitch_keycenter=63
+lokey=62 hikey=64
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 Gb3.flac
+pitch_keycenter=66 tune=-6
+lokey=65 hikey=67
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 Gb3.flac
+pitch_keycenter=66 tune=-8
+lokey=65 hikey=67
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=70
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=70
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=73
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=73
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 Eb4.flac
+pitch_keycenter=75
+lokey=74 hikey=76
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 Eb4.flac
+pitch_keycenter=75
+lokey=74 hikey=76
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 Gb4.flac
+pitch_keycenter=78
+lokey=77 hikey=79
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 Gb4.flac
+pitch_keycenter=78
+lokey=77 hikey=79
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=82
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 A4.flac
+pitch_keycenter=81 tune=4
+lokey=80 hikey=82
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 C5.flac
+pitch_keycenter=84
+lokey=83 hikey=85
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 C5.flac
+pitch_keycenter=84
+lokey=83 hikey=85
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 Eb5.flac
+pitch_keycenter=87
+lokey=86 hikey=88
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 Eb5.flac
+pitch_keycenter=87
+lokey=86 hikey=88
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 Gb5.flac
+pitch_keycenter=90 tune=-6
+lokey=89 hikey=91
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 Gb5.flac
+pitch_keycenter=90 tune=-8
+lokey=89 hikey=91
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 A5.flac
+pitch_keycenter=93
+lokey=92 hikey=94
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 A5.flac
+pitch_keycenter=93
+lokey=92 hikey=94
+lovel=101 hivel=127
+
+<region>
+sample=Harp Samples/XFHarp 01 C6.flac
+pitch_keycenter=96 tune=3
+lokey=95 hikey=127
+lovel=1 hivel=100
+
+<region>
+sample=Harp Samples/XFHarp 02 C6.flac
+pitch_keycenter=96
+lokey=95 hikey=127
+lovel=101 hivel=127

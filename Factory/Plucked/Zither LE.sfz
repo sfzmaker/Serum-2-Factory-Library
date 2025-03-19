@@ -1,0 +1,252 @@
+// Zither Limited Edition
+// Serum 2 Factory Content
+
+<group>
+ampeg_release=0.32
+amp_veltrack=0.0001
+
+<region>
+sample=Zither Samples/XFZither 01 E1.flac
+lokey=0 hikey=40
+pitch_keycenter=40 hivel=54 amp_velcurve_54=1
+<region>
+sample=Zither Samples/XFZither 02 E1.flac
+lokey=0 hikey=40
+pitch_keycenter=40 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 E1.flac
+lokey=0 hikey=40
+pitch_keycenter=40 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 F#1.flac
+lokey=41 hikey=43
+pitch_keycenter=42 hivel=54 amp_velcurve_54=1
+<region>
+sample=Zither Samples/XFZither 02 F#1.flac
+lokey=41 hikey=43
+pitch_keycenter=42 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 F#1.flac
+lokey=41 hikey=43
+pitch_keycenter=42 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 A1.flac
+lokey=44 hikey=46
+pitch_keycenter=45 hivel=54 amp_velcurve_54=1
+<region>
+sample=Zither Samples/XFZither 02 A1.flac
+lokey=44 hikey=46
+pitch_keycenter=45 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 A1.flac
+lokey=44 hikey=46
+pitch_keycenter=45 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 C2.flac
+tune=-1
+lokey=47 hikey=49
+pitch_keycenter=48 hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Zither Samples/XFZither 02 C2.flac
+tune=-1
+lokey=47 hikey=49
+pitch_keycenter=48 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 C2.flac
+tune=-1
+lokey=47 hikey=49
+pitch_keycenter=48 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 D#2.flac
+tune=-5
+lokey=50 hikey=52
+pitch_keycenter=51 hivel=54 amp_velcurve_54=1
+<region>
+sample=Zither Samples/XFZither 02 D#2.flac
+tune=-5
+lokey=50 hikey=52
+pitch_keycenter=51 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 D#2.flac
+tune=-5
+lokey=50 hikey=52
+pitch_keycenter=51 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 G2.flac
+tune=1
+lokey=53 hikey=55
+pitch_keycenter=55 hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Zither Samples/XFZither 02 G2.flac
+tune=1
+lokey=53 hikey=55
+pitch_keycenter=55 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 F#2.flac
+tune=3
+lokey=53 hikey=55
+pitch_keycenter=54 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 G#2.flac
+tune=-5
+lokey=56 hikey=58
+pitch_keycenter=56 hivel=54 amp_velcurve_54=1
+<region>
+sample=Zither Samples/XFZither 02 G#2.flac
+tune=-5
+lokey=56 hikey=58
+pitch_keycenter=56 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 G#2.flac
+tune=-5
+lokey=56 hikey=58
+pitch_keycenter=56 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 C3.flac
+tune=-18
+lokey=59 hikey=61
+pitch_keycenter=60 hivel=54 amp_velcurve_54=1
+<region>
+sample=Zither Samples/XFZither 02 C3.flac
+tune=-18
+lokey=59 hikey=61
+pitch_keycenter=60 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 C3.flac
+tune=-18
+lokey=59 hikey=61
+pitch_keycenter=60 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 D#3.flac
+tune=-3
+lokey=62 hikey=64
+pitch_keycenter=63 hivel=54 amp_velcurve_54=1
+<region>
+sample=Zither Samples/XFZither 02 D#3.flac
+tune=-3
+lokey=62 hikey=64
+pitch_keycenter=63 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 D#3.flac
+tune=-3
+lokey=62 hikey=64
+pitch_keycenter=63 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 F#3.flac
+tune=5
+lokey=65 hikey=67
+pitch_keycenter=66 hivel=54 amp_velcurve_54=1
+<region>
+sample=Zither Samples/XFZither 02 F#3.flac
+tune=5
+lokey=65 hikey=67
+pitch_keycenter=66 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 F3.flac
+tune=5
+lokey=65 hikey=67
+pitch_keycenter=65 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 A3.flac
+lokey=68 hikey=70
+pitch_keycenter=69 hivel=54 amp_velcurve_54=1
+<region>
+sample=Zither Samples/XFZither 02 G#3.flac
+lokey=68 hikey=70
+pitch_keycenter=68 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 A3.flac
+lokey=68 hikey=70
+pitch_keycenter=69 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 C4.flac
+tune=4
+lokey=71 hikey=73
+pitch_keycenter=72 hivel=54 amp_velcurve_54=1
+<region>
+sample=Zither Samples/XFZither 02 C4.flac
+tune=4
+lokey=71 hikey=73
+pitch_keycenter=72 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 C4.flac
+tune=4
+lokey=71 hikey=73
+pitch_keycenter=72 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 D#4.flac
+lokey=74 hikey=76
+pitch_keycenter=75 hivel=54 amp_velcurve_54=1
+<region>
+sample=Zither Samples/XFZither 02 D#4.flac
+lokey=74 hikey=76
+pitch_keycenter=75 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 D#4.flac
+lokey=74 hikey=76
+pitch_keycenter=75 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 F#4.flac
+tune=2
+lokey=77 hikey=79
+pitch_keycenter=78 hivel=54 amp_velcurve_54=1
+<region>
+sample=Zither Samples/XFZither 02 F#4.flac
+tune=2
+lokey=77 hikey=79
+pitch_keycenter=78 lovel=55 hivel=79 amp_velcurve_79=1
+<region>
+sample=Zither Samples/XFZither 03 F#4.flac
+tune=2
+lokey=77 hikey=79
+pitch_keycenter=78 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 A4.flac
+tune=-1
+lokey=80 hikey=82
+pitch_keycenter=81 hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Zither Samples/XFZither 02 A4.flac
+tune=-1
+lokey=80 hikey=82
+pitch_keycenter=81 lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Zither Samples/XFZither 03 A4.flac
+tune=-1
+lokey=80 hikey=82
+pitch_keycenter=81 lovel=80 hivel=127 amp_velcurve_127=1
+
+<region>
+sample=Zither Samples/XFZither 01 C5.flac
+lokey=83 hikey=127
+pitch_keycenter=84 hivel=54 amp_velcurve_54=1
+
+<region>
+sample=Zither Samples/XFZither 02 C5.flac
+lokey=83 hikey=127
+pitch_keycenter=84 lovel=55 hivel=79 amp_velcurve_79=1
+
+<region>
+sample=Zither Samples/XFZither 03 C5.flac
+lokey=83 hikey=127
+pitch_keycenter=84 lovel=80 hivel=127 amp_velcurve_127=1
+
+

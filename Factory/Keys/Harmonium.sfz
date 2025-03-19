@@ -1,0 +1,97 @@
+// Harmonium
+// Serum 2 Factory Content
+
+<group>
+tune=-10
+ampeg_attack=0.0001
+ampeg_release=0.7
+//volumex=-6.02
+amp_veltrack=0.0001
+loop_mode=loop_continuous
+
+<region>
+sample=Harmonium Samples/XFHarmonium C2.flac
+pitch_keycenter=48
+lokey=0 hikey=49
+loop_start=104530 loop_end=1524340 loop_crossfade=0.015
+
+<region>
+sample=Harmonium Samples/XFHarmonium E2.flac
+pitch_keycenter=52
+lokey=50 hikey=53
+loop_start=235017 loop_end=239263 loop_crossfade=0.025
+
+<region>
+sample=Harmonium Samples/XFHarmonium G#2.flac
+pitch_keycenter=56
+lokey=54 hikey=57
+loop_start=105952 loop_end=159367 loop_crossfade=0.035
+
+<region>
+sample=Harmonium Samples/XFHarmonium B2.flac
+pitch_keycenter=59
+lokey=58 hikey=59
+loop_start=61110 loop_end=159572 loop_crossfade=0.135
+ 
+<region>
+sample=Harmonium Samples/XFHarmonium C#3.flac
+pitch_keycenter=61
+lokey=60 hikey=62
+loop_start=61602 loop_end=94239 loop_crossfade=0.015
+
+<region>
+sample=Harmonium Samples/XFHarmonium E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+loop_start=47749 loop_end=129596 loop_crossfade=0.015
+ 
+<region>
+sample=Harmonium Samples/XFHarmonium G#3.flac
+pitch_keycenter=68
+lokey=66 hikey=68
+loop_start=33499 loop_end=102569 loop_crossfade=0.015
+  
+<region>
+sample=Harmonium Samples/XFHarmonium A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+loop_start=74955 loop_end=183395 loop_crossfade=0.015
+
+<region>
+sample=Harmonium Samples/XFHarmonium C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=74
+loop_start=31536 loop_end=117882 loop_crossfade=0.015
+
+<region>
+sample=Harmonium Samples/XFHarmonium E4.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+offset=624 
+loop_start=46876 loop_end=69818 loop_crossfade=0.015
+
+<region>
+sample=Harmonium Samples/XFHarmonium F#4.flac
+pitch_keycenter=78
+lokey=77 hikey=79
+offset=884 
+loop_start=77852 loop_end=123370 loop_crossfade=0.015
+ 
+<region>
+sample=Harmonium Samples/XFHarmonium A#4.flac
+pitch_keycenter=82
+lokey=80 hikey=83
+loop_start=94751 loop_end=180480 loop_crossfade=0.015
+  
+<region>
+sample=Harmonium Samples/XFHarmonium D5.flac
+pitch_keycenter=86
+lokey=84 hikey=86
+loop_start=61913 loop_end=96009 loop_crossfade=0.015
+ 
+<region>
+sample=Harmonium Samples/XFHarmonium F5.flac
+pitch_keycenter=89
+lokey=87 hikey=127
+loop_start=220956 loop_end=248010 loop_crossfade=0.015
+ 

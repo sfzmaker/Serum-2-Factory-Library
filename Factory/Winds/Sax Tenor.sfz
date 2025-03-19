@@ -1,0 +1,166 @@
+// Sax Tenor Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.01
+ampeg_release=0.03
+loop_mode=loop_continuous
+loop_crossfade=0.008
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 01 A1.flac
+pitch_keycenter=45 tune=-8
+lokey=0 hikey=46
+lovel=1 hivel=100
+loop_start=93103 loop_end=99616
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 02 A1.flac
+pitch_keycenter=45 tune=-12
+lokey=0 hikey=46
+lovel=101 hivel=127
+loop_start=83962 loop_end=98745
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 01 C2.flac
+pitch_keycenter=48 tune=-3
+lokey=47 hikey=49
+lovel=1 hivel=100
+loop_start=77547 loop_end=129978
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 02 C2.flac
+pitch_keycenter=48 tune=-3
+lokey=47 hikey=49
+lovel=101 hivel=127
+loop_start=64245 loop_end=101692
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 01 Eb2.flac
+pitch_keycenter=51 tune=-3
+lokey=50 hikey=52
+lovel=1 hivel=100
+loop_start=63124 loop_end=81001
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 02 Eb2.flac
+pitch_keycenter=51 tune=-3
+lokey=50 hikey=52
+lovel=101 hivel=127
+loop_start=34204 loop_end=62015
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 01 Gb2.flac
+pitch_keycenter=54
+lokey=53 hikey=55
+lovel=1 hivel=100
+loop_start=55532 loop_end=64357
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 02 Gb2.flac
+pitch_keycenter=54
+lokey=53 hikey=55
+lovel=101 hivel=127
+loop_start=89244 loop_end=112092
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 01 A2.flac
+pitch_keycenter=57 tune=-3
+lokey=56 hikey=58
+lovel=1 hivel=100
+loop_start=38820 loop_end=59526
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 02 A2.flac
+pitch_keycenter=57 tune=-3
+lokey=56 hikey=58
+lovel=101 hivel=127
+loop_start=60942 loop_end=80579
+
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 01 C3.flac
+pitch_keycenter=60 tune=-3
+lokey=59 hikey=61
+lovel=1 hivel=100
+loop_start=72494 loop_end=92050
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 02 C3.flac
+pitch_keycenter=60 tune=-3
+lokey=59 hikey=61
+lovel=101 hivel=127
+loop_start=77494 loop_end=81522
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 01 Eb3.flac
+pitch_keycenter=63 tune=-6
+lokey=62 hikey=64
+lovel=1 hivel=100
+loop_start=85202 loop_end=119671
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 02 Eb3.flac
+pitch_keycenter=63 tune=-6
+lokey=62 hikey=64
+lovel=101 hivel=127
+loop_start=68528 loop_end=77143
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 01 Gb3.flac
+pitch_keycenter=66 tune=-6
+lokey=65 hikey=67
+lovel=1 hivel=100
+loop_start=68833 loop_end=90175
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 02 Gb3.flac
+pitch_keycenter=66 tune=6
+lokey=65 hikey=67
+lovel=101 hivel=127
+loop_start=66694 loop_end=89092
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 01 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=70
+lovel=1 hivel=100
+loop_start=73561 loop_end=100453
+//loop_start=72727 loop_end=94916
+//loop_start=72709 loop_end=130225
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 02 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=70
+lovel=101 hivel=127
+loop_start=68185 loop_end=93808
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 01 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=73
+lovel=1 hivel=100
+loop_start=67962 loop_end=87263
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 02 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=73
+lovel=101 hivel=127
+loop_start=78781 loop_end=93708
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 01 Eb4.flac
+pitch_keycenter=75
+lokey=74 hikey=127
+lovel=1 hivel=100
+loop_start=65002 loop_end=87380
+
+<region>
+sample=Sax Tenor Samples/XFSaxT 02 Eb4.flac
+pitch_keycenter=75
+lokey=74 hikey=127
+lovel=101 hivel=127
+loop_start=65425 loop_end=114325

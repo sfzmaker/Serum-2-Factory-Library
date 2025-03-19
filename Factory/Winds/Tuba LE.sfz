@@ -1,0 +1,46 @@
+// Tuba Long Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.6
+amp_veltrack=35
+loop_crossfade=0.01
+loop_mode=loop_continuous
+
+<region>
+sample=Tuba Long Samples/XFtuba long-02 02 C#2.flac
+pitch_keycenter=49 tune=-12
+lokey=0 hikey=50
+loop_start=54739 loop_end=244264
+
+<region>
+sample=Tuba Long Samples/XFtuba long 02 D#2.flac
+pitch_keycenter=51
+lokey=51 hikey=52
+loop_start=95990 loop_end=219094
+
+<region>
+sample=Tuba Long Samples/XFtuba long 02 F2.flac
+pitch_keycenter=53
+lokey=53 hikey=54
+loop_start=135765 loop_end=233324
+
+<region>
+sample=Tuba Long Samples/XFtuba long 02 G2.flac
+pitch_keycenter=55 tune=-12
+lokey=55 hikey=56
+loop_start=41606 loop_end=168696
+
+<region>
+sample=Tuba Long Samples/XFtuba long 02 A2.flac
+pitch_keycenter=57 tune=-12
+lokey=57 hikey=58
+loop_start=81581 loop_end=328746
+
+<region>
+sample=Tuba Long Samples/XFtuba long-02 02 B2.flac
+pitch_keycenter=59 tune=-6
+lokey=59 hikey=127
+loop_start=43244 loop_end=212647

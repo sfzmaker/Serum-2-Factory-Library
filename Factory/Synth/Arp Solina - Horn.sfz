@@ -1,0 +1,131 @@
+// Arp Solina - Horn
+// Serum 2 Factory Content
+// By Electric Himalaya
+
+<group>
+ampeg_release=0.4
+amp_veltrack=38.5
+loop_mode=loop_continuous
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn C1.flac
+pitch_keycenter=36
+lokey=0 hikey=38
+end=173747
+loop_start=30305 loop_end=169438
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn E1.flac
+pitch_keycenter=40
+lokey=39 hikey=41
+end=165260
+loop_start=21438 loop_end=159125
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+end=166927
+loop_start=28400 loop_end=160984
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+end=165584
+loop_start=28347 loop_end=161350
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn C2.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+end=171091
+loop_start=34143 loop_end=168958
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+end=172651
+loop_start=36068 loop_end=168150
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+end=182074
+loop_start=45675 loop_end=178048
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=59
+end=163463
+loop_start=27534 loop_end=159599
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn C3.flac
+pitch_keycenter=60
+lokey=60 hikey=62
+end=145753
+loop_start=78471 loop_end=144545
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+end=159845
+loop_start=26117 loop_end=156196
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+end=157519
+loop_start=22875 loop_end=154839
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+end=178479
+loop_start=42841 loop_end=174409
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn C4.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+end=183117
+loop_start=47201 loop_end=180001
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn E4.flac
+pitch_keycenter=76
+lokey=75 hikey=77
+end=174113
+loop_start=14062 loop_end=170526
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn G4.flac
+pitch_keycenter=79
+lokey=78 hikey=80
+end=163641
+loop_start=27164 loop_end=159762
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn A#4.flac
+pitch_keycenter=82
+lokey=81 hikey=83
+end=115597
+loop_start=45560 loop_end=111488
+
+<region>
+sample=Arp Solina - Horn Samples/XFArSol Horn C5.flac
+pitch_keycenter=84
+lokey=84 hikey=127
+end=117243
+loop_start=49773 loop_end=115580
+
+
+
+

@@ -1,0 +1,112 @@
+// MKS80 Zombie
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+loop_mode=loop_continuous
+ampeg_release=0.32
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs C-2.flac
+pitch_keycenter=20 lokey=0 hikey=22
+loop_start=155080 loop_end=218225 loop_crossfade=0.015
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs B-1.flac
+pitch_keycenter=23 lokey=23 hikey=25
+loop_start=129661 loop_end=197745 loop_crossfade=0.015
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs D0.flac
+pitch_keycenter=26 lokey=26 hikey=28
+loop_start=165199 loop_end=219944 loop_crossfade=0.010
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs F0.flac
+pitch_keycenter=29 lokey=29 hikey=31
+loop_start=65875 loop_end=222876 loop_crossfade=0.010
+loop_type=alternate
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs G#0.flac
+pitch_keycenter=32 lokey=32 hikey=34
+loop_start=129273 loop_end=213492 loop_crossfade=0.03
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs B0.flac
+pitch_keycenter=35 lokey=35 hikey=37
+loop_start=170756 loop_end=221234 loop_crossfade=0.005
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs D1.flac
+pitch_keycenter=38 lokey=38 hikey=40
+loop_start=88010 loop_end=217730 loop_crossfade=0.005
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs F1.flac
+pitch_keycenter=41 lokey=41 hikey=43
+loop_start=136006 loop_end=221158 loop_crossfade=0.0203
+// not great
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs G#1.flac
+pitch_keycenter=44 lokey=44 hikey=46
+loop_start=107702 loop_end=184603 loop_crossfade=0.003
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs B1.flac
+pitch_keycenter=47 lokey=47 hikey=49
+loop_start=130068 loop_end=222216 loop_crossfade=0.003
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs D2.flac
+pitch_keycenter=50 lokey=50 hikey=52
+loop_start=90574 loop_end=177877 loop_crossfade=0.005
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs F2.flac
+pitch_keycenter=53 lokey=53 hikey=55
+loop_start=119453 loop_end=213720 loop_crossfade=0.005
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs G#2.flac
+pitch_keycenter=56 lokey=56 hikey=58
+loop_start=69875 loop_end=189549 loop_crossfade=0.005
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs B2.flac
+pitch_keycenter=59 lokey=59 hikey=61
+loop_start=128070 loop_end=217139 loop_crossfade=0.005
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs D3.flac
+pitch_keycenter=62 lokey=62 hikey=64
+loop_start=52118 loop_end=176418 loop_crossfade=0.005
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs F3.flac
+pitch_keycenter=65 lokey=65 hikey=67
+loop_start=153186 loop_end=210765 loop_crossfade=0.0054
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs G#3.flac
+pitch_keycenter=68 lokey=68 hikey=70
+loop_start=131674 loop_end=222068 loop_crossfade=0.005
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs B3.flac
+pitch_keycenter=71 lokey=71 hikey=73
+loop_start=141831 loop_end=207873 loop_crossfade=0.005
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs D4.flac
+pitch_keycenter=74 lokey=74 hikey=76
+loop_start=126317 loop_end=212445 loop_crossfade=0.005
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs F4.flac
+pitch_keycenter=77 lokey=77 hikey=79
+loop_start=108825 loop_end=205308 loop_crossfade=0.005
+
+<region>
+sample=MKS80 Zombie Samples/XFCcwzs G#4.flac
+pitch_keycenter=80 lokey=80 hikey=127
+loop_start=62981 loop_end=205218 loop_crossfade=0.005

@@ -1,0 +1,103 @@
+// Guitar Acoustic Paracho Pluck 1
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+ampeg_attack=0
+ampeg_release=0.500
+volume=9
+
+<region>
+sample=Paracho Samples/XFParacho E1.flac
+pitch_keycenter=40
+lokey=0 hikey=42
+
+<region>
+sample=Paracho Samples/XFParacho A#1.flac
+pitch_keycenter=46
+lokey=43 hikey=46 tune=-2
+
+<region>
+sample=Paracho Samples/XFParacho C2.flac
+pitch_keycenter=48
+lokey=47 hikey=48 tune=1
+
+<region>
+sample=Paracho Samples/XFParacho D2.flac
+pitch_keycenter=50 tune=-1
+lokey=49 hikey=51
+
+<region>
+sample=Paracho Samples/XFParacho F2.flac
+pitch_keycenter=53 tune=-3
+lokey=52 hikey=53
+
+<region>
+sample=Paracho Samples/XFParacho G2.flac
+pitch_keycenter=55
+lokey=54 hikey=55
+
+<region>
+sample=Paracho Samples/XFParacho G#2.flac
+key=56 tune=-6
+
+<region>
+sample=Paracho Samples/XFParacho A#2.flac
+pitch_keycenter=58 tune=-5
+lokey=57 hikey=58
+
+<region>
+sample=Paracho Samples/XFParacho B2.flac
+key=59 tune=-8
+
+<region>
+sample=Paracho Samples/XFParacho C#3.flac
+pitch_keycenter=61 tune=-7
+lokey=60 hikey=61
+
+<region>
+sample=Paracho Samples/XFParacho D3.flac
+key=62 tune=-12
+
+<region>
+sample=Paracho Samples/XFParacho E3.flac
+pitch_keycenter=64 tune=-16
+lokey=63 hikey=64
+
+<region>
+sample=Paracho Samples/XFParacho F3.flac
+key=65 tune=-12
+
+<region>
+sample=Paracho Samples/XFParacho G3.flac
+pitch_keycenter=67 tune=-18
+lokey=66 hikey=67
+
+<region>
+sample=Paracho Samples/XFParacho G#3.flac
+key=68 tune=-15
+
+<region>
+sample=Paracho Samples/XFParacho A#3.flac
+pitch_keycenter=70 tune=-5
+lokey=69 hikey=70
+
+<region>
+sample=Paracho Samples/XFParacho B3.flac
+pitch_keycenter=71 tune=-19
+lokey=71 hikey=73
+
+<region>
+sample=Paracho Samples/XFParacho E4.flac
+pitch_keycenter=76 tune=-10
+lokey=74 hikey=77
+
+<region>
+sample=Paracho Samples/XFParacho G4.flac
+pitch_keycenter=79 tune=-5
+lokey=78 hikey=81
+
+<region>
+sample=Paracho Samples/XFParacho A#4.flac
+pitch_keycenter=82
+lokey=82 hikey=127 tune=-6

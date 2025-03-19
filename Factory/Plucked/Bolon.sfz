@@ -1,0 +1,68 @@
+// Bolon
+// Serum2 Factory Content
+
+<group>
+ampeg_release=0.5
+amp_veltrack=0.0001
+
+<region>lokey=0 hikey=23 pitch_keycenter=33 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 A2.flac
+<region>lokey=0 hikey=23 pitch_keycenter=33 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 A2.flac
+<region>lokey=0 hikey=23 pitch_keycenter=33 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 A2.flac
+<region>lokey=28 hikey=33 pitch_keycenter=33 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 A2.flac
+<region>lokey=28 hikey=33 pitch_keycenter=33 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 A2.flac
+<region>lokey=28 hikey=33 pitch_keycenter=33 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 A2.flac
+<region>lokey=24 hikey=25 pitch_keycenter=24 hivel=25 amp_velcurve_25=1 sample=Bolon Samples/XFBolon Hitlo 1.flac
+<region>lokey=24 hikey=25 pitch_keycenter=24 lovel=26 hivel=50 amp_velcurve_50=1 sample=Bolon Samples/XFBolon Hitlo 2.flac
+<region>lokey=24 hikey=25 pitch_keycenter=24 lovel=51 hivel=75 amp_velcurve_75=1 sample=Bolon Samples/XFBolon Hitlo 3.flac
+<region>lokey=24 hikey=25 pitch_keycenter=24 lovel=76 hivel=100 amp_velcurve_100=1 sample=Bolon Samples/XFBolon Hitlo 4.flac
+<region>lokey=24 hikey=25 pitch_keycenter=24 lovel=101 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon Hitlo 5.flac
+<region>lokey=26 hikey=27 pitch_keycenter=26 hivel=25 amp_velcurve_25=1 sample=Bolon Samples/XFBolon Hithi 1.flac
+<region>lokey=26 hikey=27 pitch_keycenter=26 lovel=26 hivel=50 amp_velcurve_50=1 sample=Bolon Samples/XFBolon Hithi 2.flac
+<region>lokey=26 hikey=27 pitch_keycenter=26 lovel=51 hivel=75 amp_velcurve_75=1 sample=Bolon Samples/XFBolon Hithi 3.flac
+<region>lokey=26 hikey=27 pitch_keycenter=26 lovel=76 hivel=100 amp_velcurve_100=1 sample=Bolon Samples/XFBolon Hithi 4.flac
+<region>lokey=26 hikey=27 pitch_keycenter=26 lovel=101 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon Hithi 5.flac
+
+
+<region>lokey=34 hikey=34 pitch_keycenter=34 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 A#2.flac
+<region>lokey=34 hikey=34 pitch_keycenter=34 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 A#2.flac
+<region>lokey=34 hikey=34 pitch_keycenter=34 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 A#2.flac
+<region>lokey=35 hikey=35 pitch_keycenter=35 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 B2.flac
+<region>lokey=35 hikey=35 pitch_keycenter=35 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 B2.flac
+<region>lokey=35 hikey=35 pitch_keycenter=35 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 B2.flac
+<region>lokey=36 hikey=36 pitch_keycenter=36 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 C3.flac
+<region>lokey=36 hikey=36 pitch_keycenter=36 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 C3.flac
+<region>lokey=36 hikey=36 pitch_keycenter=36 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 C3.flac
+<region>lokey=37 hikey=37 pitch_keycenter=37 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 C#3.flac
+<region>lokey=37 hikey=37 pitch_keycenter=37 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 C#3.flac
+<region>lokey=37 hikey=37 pitch_keycenter=37 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 C#3.flac
+<region>lokey=38 hikey=38 pitch_keycenter=38 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 D3.flac
+<region>lokey=38 hikey=38 pitch_keycenter=38 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 D3.flac
+<region>lokey=38 hikey=38 pitch_keycenter=38 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 D3.flac
+<region>lokey=39 hikey=39 pitch_keycenter=39 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 D#3.flac
+<region>lokey=39 hikey=39 pitch_keycenter=39 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 D#3.flac
+<region>lokey=39 hikey=39 pitch_keycenter=39 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 D#3.flac
+<region>lokey=40 hikey=40 pitch_keycenter=40 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 E3.flac
+<region>lokey=40 hikey=40 pitch_keycenter=40 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 E3.flac
+<region>lokey=40 hikey=40 pitch_keycenter=40 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 E3.flac
+<region>lokey=41 hikey=41 pitch_keycenter=41 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 F3.flac
+<region>lokey=41 hikey=41 pitch_keycenter=41 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 F3.flac
+<region>lokey=41 hikey=41 pitch_keycenter=41 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 F3.flac
+<region>lokey=42 hikey=42 pitch_keycenter=42 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 F#3.flac
+<region>lokey=42 hikey=42 pitch_keycenter=42 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 F#3.flac
+<region>lokey=42 hikey=42 pitch_keycenter=42 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 F#3.flac
+<region>lokey=43 hikey=43 pitch_keycenter=43 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 G3.flac
+<region>lokey=43 hikey=43 pitch_keycenter=43 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 G3.flac
+<region>lokey=43 hikey=43 pitch_keycenter=43 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 G3.flac
+<region>lokey=44 hikey=44 pitch_keycenter=44 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 G#3.flac
+<region>lokey=44 hikey=44 pitch_keycenter=44 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 G#3.flac
+<region>lokey=44 hikey=44 pitch_keycenter=44 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 G#3.flac
+<region>lokey=45 hikey=45 pitch_keycenter=45 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 A3.flac
+<region>lokey=45 hikey=45 pitch_keycenter=45 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 A3.flac
+<region>lokey=45 hikey=45 pitch_keycenter=45 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 A3.flac
+<region>lokey=46 hikey=46 pitch_keycenter=46 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 A#3.flac
+<region>lokey=46 hikey=46 pitch_keycenter=46 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 A#3.flac
+<region>lokey=46 hikey=127 pitch_keycenter=46 lovel=80 hivel=127 amp_velcurve_127=1 sample=Bolon Samples/XFBolon 03 A#3.flac
+<region>lokey=47 hikey=47 pitch_keycenter=47 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 B3.flac
+<region>lokey=47 hikey=47 pitch_keycenter=47 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 B3.flac
+<region>lokey=48 hikey=127 pitch_keycenter=48 hivel=54 amp_velcurve_54=1 sample=Bolon Samples/XFBolon 01 C4.flac
+<region>lokey=48 hikey=127 pitch_keycenter=48 lovel=55 hivel=79 amp_velcurve_79=1 sample=Bolon Samples/XFBolon 02 C4.flac

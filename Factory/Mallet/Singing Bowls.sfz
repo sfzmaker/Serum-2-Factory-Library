@@ -1,0 +1,58 @@
+// Singing Bowls
+// Serum2 Factory Content
+// By Steve Duda
+
+<group>
+ampeg_attack=0.0
+ampeg_release=0.7
+amp_veltrack=4
+volume=-3
+
+<region>
+sample=Singing Bowl Samples/XFSBowl C#3.flac
+pitch_keycenter=61
+lokey=0 hikey=61
+lovel=75
+end=607713
+tune=13
+
+<region>
+sample=Singing Bowl Samples/XFSBowl 01 C#3.flac
+pitch_keycenter=61
+lokey=0 hikey=61
+hivel=74
+end=513073
+tune=13
+
+<region>
+sample=Singing Bowl Samples/XFSBowl 01 G#3.flac
+pitch_keycenter=65
+lokey=62 hikey=71
+lovel=75
+end=432454
+tune=-27
+
+<region>
+sample=Singing Bowl Samples/XFSBowl 02 G#3.flac
+pitch_keycenter=68 tune=-8
+lokey=62 hikey=71
+hivel=74
+end=879107
+
+<region>
+sample=Singing Bowl Samples/XFSBowl D#4.flac
+pitch_keycenter=75
+lokey=72 hikey=127
+hivel=74
+end=677651
+tune=64
+
+<region>
+sample=Singing Bowl Samples/XFSBowl 01 D#4.flac
+pitch_keycenter=75
+lokey=72 hikey=127
+lovel=75
+end=455854
+tune=64
+
+

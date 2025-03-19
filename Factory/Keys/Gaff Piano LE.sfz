@@ -1,0 +1,238 @@
+// Gaff Piano Limited Edition
+// Serum 2 Factory Content
+
+<group>
+ampeg_attack=0.01
+ampeg_release=1.0
+amp_veltrack=0.0001
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 A0.flac
+pitch_keycenter=33
+lokey=32 hikey=34
+lovel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 A1.flac
+pitch_keycenter=45
+lokey=42 hikey=46
+lovel=0 hivel=63
+volume=-8
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 A1.flac
+pitch_keycenter=45
+lokey=44 hikey=46
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=60
+lovel=0 hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=60
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 A3.flac
+pitch_keycenter=69
+lokey=66 hikey=71
+lovel=0 hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 A3.flac
+pitch_keycenter=69
+lokey=66 hikey=70
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 A4.flac
+pitch_keycenter=81
+lokey=77 hikey=82
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 A5.flac
+pitch_keycenter=93
+lokey=91 hikey=94
+lovel=0 hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 A5.flac
+pitch_keycenter=93
+lokey=91 hikey=94
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 C#4.flac
+pitch_keycenter=73
+volume=-3
+lokey=71 hikey=76
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 01 C0.flac
+pitch_keycenter=24
+lokey=0 hikey=28
+hivel=62
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 C0.flac
+pitch_keycenter=24
+lokey=0 hikey=25
+lovel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 01 C1.flac
+pitch_keycenter=36
+lokey=34 hikey=37
+hivel=63
+volume=3
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 C1.flac
+pitch_keycenter=36
+lokey=35 hikey=39
+lovel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 C2.flac
+pitch_keycenter=48
+lokey=47 hikey=50
+lovel=0 hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 C2.flac
+pitch_keycenter=48
+lokey=47 hikey=50
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 C5.flac
+pitch_keycenter=84
+lokey=81 hikey=85
+lovel=0 hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 C5.flac
+pitch_keycenter=84
+lokey=83 hikey=85
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 C6.flac
+pitch_keycenter=96
+lokey=95 hikey=97
+lovel=0 hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 C6.flac
+pitch_keycenter=96
+lokey=95 hikey=97
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 D#0.flac
+pitch_keycenter=27
+lokey=26 hikey=28
+lovel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 01 D#1.flac
+pitch_keycenter=39
+lokey=38 hikey=41
+hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 D#3.flac
+pitch_keycenter=63
+lokey=61 hikey=65
+lovel=0 hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 D#3.flac
+pitch_keycenter=63
+lokey=61 hikey=65
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 D#4.flac
+pitch_keycenter=75
+lokey=72 hikey=76
+lovel=0 hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 D#5.flac
+pitch_keycenter=87
+lokey=86 hikey=90
+lovel=0 hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 D#5.flac
+pitch_keycenter=87
+lokey=86 hikey=90
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 01 D#6.flac
+pitch_keycenter=99
+lokey=98 hikey=100
+hivel=0 hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 D#6.flac
+pitch_keycenter=99
+lokey=98 hikey=100
+lovel=64 hivel=127
+
+<region>
+sample=Gaff Piano Samples/XFGaff 01 F#0.flac
+pitch_keycenter=30
+lokey=29 hikey=33
+hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 F#0.flac
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 F#1.flac
+pitch_keycenter=42
+lokey=40 hikey=43
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 F#2.flac
+pitch_keycenter=54
+lokey=51 hikey=55
+lovel=0 hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 03 F#2.flac
+pitch_keycenter=54
+lokey=51 hikey=55
+lovel=64
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 F#4.flac
+pitch_keycenter=78
+lokey=77 hikey=80
+lovel=0 hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 01 F#6.flac
+pitch_keycenter=102
+lokey=101 hikey=127
+hivel=63
+
+<region>
+sample=Gaff Piano Samples/XFGaff 02 F#6.flac
+pitch_keycenter=102
+lokey=101 hikey=127
+lovel=64

@@ -1,0 +1,65 @@
+// Violins Pizz Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.5
+amp_veltrack=35
+
+<group>
+seq_length=2
+<region>
+sample=Violins Pizz Samples/XFviolins pizz-10 03 G2.flac
+pitch_keycenter=55 tune=-20
+lokey=0 hikey=56
+seq_position=1
+<region>
+sample=Violins Pizz Samples/XFviolins pizz-14 03 G2.flac
+pitch_keycenter=55 tune=-20
+lokey=0 hikey=56
+seq_position=2
+
+<group>
+<region>
+sample=Violins Pizz Samples/XFviolins pizz 03 A2.flac
+pitch_keycenter=57 tune=-15
+lokey=57 hikey=58
+
+<region>
+sample=Violins Pizz Samples/XFviolins pizz-02 03 B2.flac
+pitch_keycenter=59 tune=-25
+lokey=59 hikey=62
+
+<region>
+sample=Violins Pizz Samples/XFviolins pizz-02 03 F3.flac
+pitch_keycenter=65 tune=-12
+lokey=63 hikey=66
+pan=60
+
+<region>
+sample=Violins Pizz Samples/XFviolins pizz-03 03 G3.flac
+pitch_keycenter=67 tune=-12
+lokey=67 hikey=69
+
+<region>
+sample=Violins Pizz Samples/XFviolins pizz 03 B3.flac
+pitch_keycenter=71 tune=-12
+lokey=70 hikey=72
+
+<region>
+sample=Violins Pizz Samples/XFviolins pizz-02 03 C#4.flac
+pitch_keycenter=73 tune=-5
+lokey=73 hikey=75
+
+<region>
+sample=Violins Pizz Samples/XFviolins pizz-04 03 F4.flac
+pitch_keycenter=77 tune=-5
+lokey=76 hikey=84
+
+
+<region>
+sample=Violins Pizz Samples/XFviolins pizz-03 03 C#5.flac
+pitch_keycenter=85
+lokey=85 hikey=127
+

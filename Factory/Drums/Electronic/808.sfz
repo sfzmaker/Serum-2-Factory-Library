@@ -1,0 +1,78 @@
+// 808 Drum Kit
+// Serum 2 Factory Content
+
+<global>
+ampeg_attack=0.001
+ampeg_release=32
+amp_veltrack=100
+<group> group=1 off_by=1 volume=1
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/808 Kick 1.flac key=35  hivel=64
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/808 Kick 2.flac key=35  lovel=65
+
+//C1
+<group> ampeg_release=32 tune=-20
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/808 Kick A 01.flac key=36  hivel=32
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/808 Kick A 02.flac key=36  lovel=33 hivel=64
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/808 Kick A 03.flac key=36  lovel=65 hivel=96
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/808 Kick A 04.flac key=36  lovel=97
+<group>  key=37
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Rim/808 Rim.flac hivel=64
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Rim/808 Rim 2.flac lovel=65
+<group>
+ key=38
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/808 Snare 01.flac hivel=19
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/808 Snare 02.flac lovel=20 hivel=38
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/808 Snare 03.flac lovel=39 hivel=57
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/808 Snare 04.flac lovel=58 hivel=76
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/808 Snare 05.flac lovel=77 hivel=95
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/808 Snare 06.flac lovel=96
+
+<group>
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Clap/808 Clap.flac key=39
+
+<group>
+key=40
+<region>sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/808 Snare B 01.flac hivel=16
+<region>sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/808 Snare B 02.flac lovel=17 hivel=32
+<region>sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/808 Snare B 03.flac lovel=33
+
+<group>
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/808 Tom low 01.flac key=41 pan=-60 tune=345
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/808 Tom mid 01.flac key=43 pan=-20
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/808 Tom high 01.flac key=45 pan=10 tune=-66
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/808 Tom high 02.flac key=47 tune=100 pan=30 tune=-100
+
+<group> group=4 off_by=3  ampeg_release=0.32
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/808 Hat Closed.flac key=42
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/808 Hat Closed 1.flac key=44
+<group>  
+group=3 off_by=4 key=46 ampeg_release=0.32
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/808 Hat Open 06.flac
+<group>
+ampeg_release=32
+//C2
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/808 Tom high 03.flac key=48 tune=280 pan=50
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/808 Cymbal 01.flac key=49
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/808 Cymbal 05.flac key=51
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/808 Cymbal 02.flac key=52
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cowbell/808 Cowbell.flac key=53
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/808 Clave.flac key=54
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Shaker/808 Maracas 2.flac key=55 tune=100 //extra Maracas
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cowbell/808 Cowbell 2.flac key=56 //[G#2] cowbell
+
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/808 Conga Mid.flac key=62
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/808 Conga High.flac key=63
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/808 Conga Low 1.flac key=64
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Shaker/808 Maracas 2.flac key=69 //[A3] Cabasa
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Shaker/808 Maracas.flac key=70 //[A#3] Maracas
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+// Guitar Acoustic Martin Pick
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+ampeg_attack=0
+ampeg_release=0.500
+volume=3
+
+<region>
+sample=MartinPickA Samples/XFMartin Pick E1.flac
+pitch_keycenter=40
+lokey=0 hikey=40
+
+<region>
+sample=MartinPickA Samples/XFMartin Pick F#1.flac
+pitch_keycenter=42
+lokey=41 hikey=43
+tune=-6
+
+<region>
+sample=MartinPickA Samples/XFMartin Pick A1.flac
+pitch_keycenter=45
+lokey=44 hikey=46
+tune=-12
+
+<region>
+sample=MartinPickA Samples/XFMartin Pick C2.flac
+pitch_keycenter=48
+lokey=47 hikey=49
+tune=-11
+
+<region>
+sample=MartinPickA Samples/XFMartin Pick F2.flac
+pitch_keycenter=53
+lokey=50 hikey=53
+tune=-2
+
+<region>
+sample=MartinPickA Samples/XFMartin Pick F#2.flac
+pitch_keycenter=54
+lokey=54 hikey=58
+tune=-8
+
+<region>
+sample=MartinPickA Samples/XFMartin Pick D3.flac
+pitch_keycenter=62
+lokey=59 hikey=63
+tune=-5
+
+<region>
+sample=MartinPickA Samples/XFMartin Pick E3.flac
+pitch_keycenter=64
+lokey=64 hikey=69
+tune=-6
+
+<region>
+sample=MartinPickA Samples/XFMartin Pick B3.flac
+pitch_keycenter=71
+lokey=70 hikey=76
+tune=-9
+
+<region>
+sample=MartinPickA Samples/XFMartin Pick A#4.flac
+pitch_keycenter=82
+lokey=77 hikey=127
+tune=-2

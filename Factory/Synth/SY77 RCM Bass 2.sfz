@@ -1,0 +1,99 @@
+// SY77 RCM Bass 2
+// Serum 2 Factory Content
+// By Electric Himalaya
+
+<group>
+ampeg_release=0.32
+amp_veltrack=38.5
+loop_mode=loop_continuous
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 C0.flac
+pitch_keycenter=24
+lokey=0 hikey=26
+end=68024
+loop_start=42686 loop_end=66963
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 E0.flac
+pitch_keycenter=28
+lokey=27 hikey=29
+end=107811
+loop_start=55589 loop_end=104842
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 G0.flac
+pitch_keycenter=31
+lokey=30 hikey=32
+end=116180
+loop_start=66663 loop_end=113480
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 A#0.flac
+pitch_keycenter=34
+lokey=33 hikey=35
+end=102919
+loop_start=67240 loop_end=99792
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 C1.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+end=79360
+loop_start=61224 loop_end=76732
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 E1.flac
+pitch_keycenter=40
+lokey=39 hikey=41
+end=88368
+loop_start=64223 loop_end=86168
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+end=77473
+loop_start=52987 loop_end=75495
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+end=94641
+loop_start=61869 loop_end=92529
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 C2.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+end=99281
+loop_start=65541 loop_end=96898
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+end=95443
+loop_start=46227 loop_end=93069
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+end=101954
+loop_start=46192 loop_end=99762
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=59
+end=72255
+loop_start=40291 loop_end=70005
+
+<region>
+sample=SY77 RCM Bass 2 Samples/XFSY77 RCM Bass2 C3.flac
+pitch_keycenter=60
+lokey=60 hikey=127
+end=56270
+loop_start=17267 loop_end=55032

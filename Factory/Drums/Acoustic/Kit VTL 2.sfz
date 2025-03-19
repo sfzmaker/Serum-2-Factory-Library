@@ -1,0 +1,572 @@
+// VTL Studio Kit 2
+// Serum 2 Factory Content
+// By Shreddward
+
+<global>
+loop_mode=one_shot
+ampeg_attack=0
+ampeg_release=0.500
+amp_veltrack=0
+
+// Kick 1 
+<group>key=35 lovel=1 hivel=29 seq_length=5 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Kick 2 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Kick 2 vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Kick 2 vl1 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Kick 2 vl1 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Kick 2 vl1 rr5.flac 
+
+<group>key=35 lovel=30 hivel=59 seq_length=5
+<region>seq_position=1 sample=VTL Drum Kit/VTL Kick 1 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Kick 1 vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Kick 1 vl2 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Kick 1 vl2 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Kick 1 vl2 rr5.flac
+
+<group>key=35 lovel=60 hivel=89 seq_length=5
+<region>seq_position=1 sample=VTL Drum Kit/VTL Kick 1 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Kick 1 vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Kick 1 vl3 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Kick 1 vl3 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Kick 1 vl3 rr5.flac
+
+<group>key=35 lovel=90 hivel=109 seq_length=5
+<region>seq_position=1 sample=VTL Drum Kit/VTL Kick 1 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Kick 1 vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Kick 1 vl4 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Kick 1 vl4 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Kick 1 vl4 rr5.flac
+
+<group>key=35 lovel=110 hivel=127 seq_length=5 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Kick 1 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Kick 1 vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Kick 1 vl5 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Kick 1 vl5 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Kick 1 vl5 rr5.flac
+
+
+//Kick 2
+<group>key=36 lovel=1 hivel=29 seq_length=5 volume=3
+<region>seq_position=1 sample=VTL Drum Kit/VTL Kick 2 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Kick 2 vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Kick 2 vl1 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Kick 2 vl1 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Kick 2 vl1 rr5.flac
+
+<group>key=36 lovel=30 hivel=59 seq_length=5 volume=3
+<region>seq_position=1 sample=VTL Drum Kit/VTL Kick 2 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Kick 2 vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Kick 2 vl2 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Kick 2 vl2 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Kick 2 vl2 rr5.flac
+
+<group>key=36 lovel=60 hivel=89 seq_length=5 volume=3
+<region>seq_position=1 sample=VTL Drum Kit/VTL Kick 2 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Kick 2 vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Kick 2 vl3 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Kick 2 vl3 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Kick 2 vl3 rr5.flac
+
+<group>key=36 lovel=90 hivel=109 seq_length=5 volume=3
+<region>seq_position=1 sample=VTL Drum Kit/VTL Kick 2 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Kick 2 vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Kick 2 vl4 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Kick 2 vl4 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Kick 2 vl4 rr5.flac
+
+<group>key=36 lovel=110 hivel=127 seq_length=5 volume=3
+<region>seq_position=1 sample=VTL Drum Kit/VTL Kick 2 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Kick 2 vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Kick 2 vl5 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Kick 2 vl5 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Kick 2 vl5 rr5.flac
+
+
+//SS 2
+
+<group>key=37 lovel=1 hivel=29 volume=5 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL SS 2 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL SS 2 vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL SS 2 vl1 rr3.flac
+
+<group>key=37 lovel=30 hivel=59 volume=5 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL SS 2 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL SS 2 vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL SS 2 vl2 rr3.flac
+
+<group>key=37 lovel=60 hivel=89 volume=5 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL SS 2 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL SS 2 vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL SS 2 vl3 rr3.flac
+
+<group>key=37 lovel=90 hivel=109 volume=5 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL SS 2 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL SS 2 vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL SS 2 vl4 rr3.flac
+
+<group>key=37 lovel=110 hivel=127 volume=5 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL SS 2 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL SS 2 vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL SS 2 vl5 rr3.flac
+
+
+//Snare 2
+<group>key=38 lovel=1 hivel=29 seq_length=5   
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare 2 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare 2 vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare 2 vl1 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Snare 2 vl1 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Snare 2 vl1 rr5.flac
+
+<group>key=38 lovel=30 hivel=59 seq_length=5 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare 2 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare 2 vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare 2 vl2 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Snare 2 vl2 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Snare 2 vl2 rr5.flac
+
+<group>key=38 lovel=60 hivel=89 seq_length=5 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare 2 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare 2 vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare 2 vl3 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Snare 2 vl3 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Snare 2 vl3 rr5.flac
+
+<group>key=38 lovel=90 hivel=109 seq_length=5 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare 2 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare 2 vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare 2 vl4 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Snare 2 vl4 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Snare 2 vl4 rr5.flac
+
+<group>key=38 lovel=110 hivel=127 seq_length=5 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare 2 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare 2 vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare 2 vl5 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL Snare 2 vl5 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL Snare 2 vl5 rr5.flac
+
+//Snare Drag 2
+
+<group>key=39 lovel=1 hivel=29 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare Drag 2 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare Drag 2 vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare Drag 2 vl1 rr3.flac
+
+<group>key=39 lovel=30 hivel=59 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare Drag 2 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare Drag 2 vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare Drag 2 vl2 rr3.flac
+
+<group>key=39 lovel=60 hivel=89 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare Drag 2 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare Drag 2 vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare Drag 2 vl3 rr3.flac
+
+<group>key=39 lovel=90 hivel=109 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare Drag 2 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare Drag 2 vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare Drag 2 vl4 rr3.flac
+
+<group>key=39 lovel=110 hivel=127 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare Drag 2 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare Drag 2 vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare Drag 2 vl5 rr3.flac
+
+
+//Snare Flam 2
+<group>key=40 lovel=1 hivel=29 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare Flam 2 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare Flam 2 vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare Flam 2 vl1 rr3.flac
+
+<group>key=40 lovel=30 hivel=59 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare Flam 2 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare Flam 2 vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare Flam 2 vl2 rr3.flac
+
+<group>key=40 lovel=60 hivel=89 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare Flam 2 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare Flam 2 vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare Flam 2 vl3 rr3.flac
+
+<group>key=40 lovel=90 hivel=109 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare Flam 2 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare Flam 2 vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare Flam 2 vl4 rr3.flac
+
+<group>key=40 lovel=110 hivel=127 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Snare Flam 2 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Snare Flam 2 vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Snare Flam 2 vl5 rr3.flac
+
+
+//Floor Tom 1
+<group>key=41 lovel=1 hivel=29 seq_length=3 tune=-400
+<region>seq_position=1 sample=VTL Drum Kit/VTL Floor Tom 1 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Floor Tom 1 vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Floor Tom 1 vl1 rr3.flac
+
+<group>key=41 lovel=30 hivel=59 seq_length=3 tune=-400
+<region>seq_position=1 sample=VTL Drum Kit/VTL Floor Tom 1 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Floor Tom 1 vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Floor Tom 1 vl2 rr3.flac
+
+<group>key=41 lovel=60 hivel=89 seq_length=3 tune=-400
+<region>seq_position=1 sample=VTL Drum Kit/VTL Floor Tom 1 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Floor Tom 1 vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Floor Tom 1 vl3 rr3.flac
+
+<group>key=41 lovel=90 hivel=109 seq_length=3 tune=-400
+<region>seq_position=1 sample=VTL Drum Kit/VTL Floor Tom 1 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Floor Tom 1 vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Floor Tom 1 vl4 rr3.flac
+
+<group>key=41 lovel=110 hivel=127 seq_length=3 tune=-400
+<region>seq_position=1 sample=VTL Drum Kit/VTL Floor Tom 1 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Floor Tom 1 vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Floor Tom 1 vl5 rr3.flac
+
+
+//HH Closed 
+<group>key=42 lovel=1 hivel=29 volume=-4 tune=400 group=2 off_mode=normal seq_length=5 
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Closed vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Closed vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Closed vl1 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL HH1 Closed vl1 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL HH1 Closed vl1 rr5.flac
+
+<group>key=42 lovel=30 hivel=59 volume=-6 tune=400 group=2 off_mode=normal seq_length=5
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Closed vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Closed vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Closed vl2 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL HH1 Closed vl2 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL HH1 Closed vl2 rr5.flac
+
+<group>key=42 lovel=60 hivel=89 volume=-4 tune=400 group=2 off_mode=normal seq_length=5
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Closed vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Closed vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Closed vl3 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL HH1 Closed vl3 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL HH1 Closed vl3 rr5.flac
+ 
+<group>key=42 lovel=90 hivel=109 volume=-4 tune=400 group=2 off_mode=normal seq_length=5
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Closed vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Closed vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Closed vl4 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL HH1 Closed vl4 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL HH1 Closed vl4 rr5.flac
+
+<group>key=42 lovel=110 hivel=127 volume=-4 tune=400  group=3  off_mode=normal seq_length=5
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Closed vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Closed vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Closed vl5 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL HH1 Closed vl5 rr4.flac
+<region>seq_position=5 sample=VTL Drum Kit/VTL HH1 Closed vl5 rr5.flac
+
+
+//Floor Tom 2
+<group>key=43 lovel=1 hivel=29 seq_length=3 tune=100
+<region>seq_position=1 sample=VTL Drum Kit/VTL Floor Tom 1 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Floor Tom 1 vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Floor Tom 1 vl1 rr3.flac
+
+<group>key=43 lovel=30 hivel=59 seq_length=3 tune=100
+<region>seq_position=1 sample=VTL Drum Kit/VTL Floor Tom 1 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Floor Tom 1 vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Floor Tom 1 vl2 rr3.flac
+
+<group>key=43 lovel=60 hivel=89 seq_length=3 tune=100
+<region>seq_position=1 sample=VTL Drum Kit/VTL Floor Tom 1 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Floor Tom 1 vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Floor Tom 1 vl3 rr3.flac
+
+<group>key=43 lovel=90 hivel=109 seq_length=3 tune=100
+<region>seq_position=1 sample=VTL Drum Kit/VTL Floor Tom 1 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Floor Tom 1 vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Floor Tom 1 vl4 rr3.flac
+
+<group>key=43 lovel=110 hivel=127 seq_length=3 tune=100
+<region>seq_position=1 sample=VTL Drum Kit/VTL Floor Tom 1 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Floor Tom 1 vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Floor Tom 1 vl5 rr3.flac
+
+//HH Closed 
+<group>key=44 lovel=1 hivel=29 volume=-4 tune=400 group=3 off_by=2 off_mode=normal seq_length=4 
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Half vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Half vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Half vl1 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL HH1 Half vl1 rr4.flac
+
+<group>key=44 lovel=30 hivel=59 volume=-4 tune=400 group=3 off_by=2 off_mode=normal seq_length=4
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Half vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Half vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Half vl2 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL HH1 Half vl2 rr4.flac
+
+<group>key=44 lovel=60 hivel=89 volume=-4 tune=400= group=3 off_by=2 off_mode=normal seq_length=4
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Half vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Half vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Half vl3 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL HH1 Half vl3 rr4.flac
+ 
+<group>key=44 lovel=90 hivel=109 volume=-4 tune=400 group=3 off_by=2 off_mode=normal seq_length=4
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Half vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Half vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Half vl4 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL HH1 Half vl4 rr4.flac
+
+<group>key=44 lovel=110 hivel=127 volume=-4 tune=400 group=3 off_by=2 off_mode=normal seq_length=4
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Half vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Half vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Half vl5 rr3.flac
+<region>seq_position=4 sample=VTL Drum Kit/VTL HH1 Half vl5 rr4.flac
+
+
+
+//Hi Tom 2
+<group>key=45 lovel=1 hivel=29  seq_length=3  
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl1 rr3.flac
+
+<group>key=45 lovel=30 hivel=59 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl2 rr3.flac
+
+<group>key=45 lovel=60 hivel=89 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl3 rr3.flac
+
+<group>key=45 lovel=90 hivel=109 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl4 rr3.flac
+
+<group>key=45 lovel=110 hivel=127 seq_length=3
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl5 rr3.flac
+
+
+
+//HH1 Open 
+<group>key=46 lovel=1 hivel=29 tune=400  volume=-4 group=3 off_by=2 off_mode=normal seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Open vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Open vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Open vl1 rr3.flac
+
+<group>key=46 lovel=30 hivel=59 tune=400  volume=-4 group=3 off_by=2 off_mode=normal seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Open vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Open vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Open vl2 rr3.flac
+
+<group>key=46 lovel=60 hivel=89 tune=400  volume=-4 group=3 off_by=2 off_mode=normal seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Open vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Open vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Open vl3 rr3.flac
+
+<group>key=46 lovel=90 hivel=109 tune=400  volume=-4 group=3 off_by=2 off_mode=normal seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Open vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Open vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Open vl4 rr3.flac
+
+<group>key=46 lovel=110 hivel=127 tune=400  volume=-4 group=3 off_by=2 off_mode=normal seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL HH1 Open vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL HH1 Open vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL HH1 Open vl5 rr3.flac
+
+
+//Rack Tom 1
+<group>key=47 lovel=1 hivel=29  seq_length=3 tune=300
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl1 rr3.flac
+
+<group>key=47 lovel=30 hivel=59 seq_length=3 tune=300
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl2 rr3.flac
+
+<group>key=47 lovel=60 hivel=89 seq_length=3 tune=300
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl3 rr3.flac
+
+<group>key=47 lovel=90 hivel=109 seq_length=3 tune=300
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl4 rr3.flac
+
+<group>key=47 lovel=110 hivel=127 seq_length=3 tune=300
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl5 rr3.flac
+
+
+//Hi Tom 1
+<group>key=48 lovel=1 hivel=29  seq_length=3 tune=600
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl1 rr3.flac
+
+<group>key=48 lovel=30 hivel=59 seq_length=3 tune=600
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl2 rr3.flac
+
+<group>key=48 lovel=60 hivel=89 seq_length=3 tune=600
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl3 rr3.flac
+
+<group>key=48 lovel=90 hivel=109 seq_length=3 tune=600
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl4 rr3.flac
+
+<group>key=48 lovel=110 hivel=127 seq_length=3 tune=600
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl5 rr3.flac
+
+
+//Cym 2 
+<group>key=49 lovel=1 hivel=29    
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl1.flac
+
+<group>key=49 lovel=30 hivel=59   
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl2.flac
+
+<group>key=49 lovel=60 hivel=89   
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl3.flac
+
+<group>key=49 lovel=90 hivel=109 
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl4.flac
+
+<group>key=49 lovel=110 hivel=127 
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl5.flac
+
+//Hi Tom 2 
+<group>key=50 lovel=1 hivel=29 tune=400 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl1 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl1 rr3.flac
+
+<group>key=50 lovel=30 hivel=59 tune=400 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl2 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl2 rr3.flac
+
+<group>key=50 lovel=60 hivel=89 tune=400 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl3 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl3 rr3.flac
+
+<group>key=50 lovel=90 hivel=109 tune=400 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl4 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl4 rr3.flac
+
+<group>key=50 lovel=110 hivel=127 tune=400 seq_length=3 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Hi Tom 1 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Hi Tom 1 vl5 rr2.flac
+<region>seq_position=3 sample=VTL Drum Kit/VTL Hi Tom 1 vl5 rr3.flac
+
+
+//Ride 2 
+<group>key=51 lovel=1 hivel=29  volume=-6 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride 2 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride 2 vl1 rr2.flac
+
+<group>key=51 lovel=30 hivel=59  volume=-6 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride 2 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride 2 vl2 rr2.flac
+
+<group>key=51 lovel=60 hivel=89  volume=-6 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride 2 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride 2 vl3 rr2.flac
+
+<group>key=51 lovel=90 hivel=109 volume=-6 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride 2 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride 2 vl4 rr2.flac
+
+<group>key=51 lovel=110 hivel=127  volume=-6 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride 2 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride 2 vl5 rr2.flac
+
+
+//China (Cym 2 tuned down) 
+//Cym 2 
+<group>key=49 lovel=1 hivel=29 tune=-1200
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl1.flac
+<group>key=49 lovel=30 hivel=59 tune=-1200
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl2.flac
+<group>key=49 lovel=60 hivel=89 tune=-1200
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl3.flac
+<group>key=49 lovel=90 hivel=109 tune=-1200
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl4.flac
+<group>key=49 lovel=110 hivel=127 tune=-1200
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl5.flac
+
+//Ride Bell 2
+<group>key=53 lovel=1 hivel=29  volume=-9  
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride Bell 2 vl1 rr1.flac
+
+<group>key=53 lovel=30 hivel=59 volume=-9 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride Bell 2 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride Bell 2 vl2 rr2.flac
+
+<group>key=53 lovel=60 hivel=89 volume=-9 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride Bell 2 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride Bell 2 vl3 rr2.flac
+
+<group>key=53 lovel=90 hivel=109  volume=-9 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride Bell 2 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride Bell 2 vl4 rr2.flac
+
+<group>key=53 lovel=110 hivel=127 volume=-9 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride Bell 2 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride Bell 2 vl5 rr2.flac
+
+//Cowbell 2 
+<group>key=54 volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl1.flac lovel=1 hivel=29  
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl2.flac lovel=30 hivel=59
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl3.flac lovel=60 hivel=89
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl4.flac lovel=90 hivel=109 
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl5.flac lovel=110 hivel=127
+
+//Splash (Cym 2 tuned up)
+<group>key=49 tune=700
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl1.flac lovel=1 hivel=2
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl2.flac lovel=30 hivel=59
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl3.flac lovel=60 hivel=89 
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl4.flac lovel=90 hivel=109
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl5.flac lovel=110 hivel=127
+
+//Cowbell 2 tuned up
+<group>key=56 tune=700  volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl1.flac lovel=1 hivel=29 
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl2.flac lovel=30 hivel=59
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl3.flac lovel=60 hivel=89
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl4.flac lovel=90 hivel=109
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl5.flac lovel=110 hivel=127
+
+//Cowbell 2 tune up +1200
+<group>key=58 tune=1200  volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl1.flac lovel=1 hivel=29    
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl2.flac lovel=30 hivel=59
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl3.flac lovel=60 hivel=89
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl4.flac lovel=90 hivel=109 
+<region>sample=VTL Drum Kit/VTL Cowbell 2 vl5.flac lovel=110 hivel=127
+
+
+
+
+
+
+
+

@@ -1,0 +1,224 @@
+// Trumpet Vibrato
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.07
+ampeg_release=0.25
+amp_veltrack=35
+loop_mode=loop_continuous
+loop_crossfade=0.001
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 F#2.flac
+pitch_keycenter=54 tune=12
+lokey=0 hikey=55
+lovel=1 hivel=100
+loop_start=164651 loop_end=190876
+loop_crossfade=0.005
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 03 F#2.flac
+pitch_keycenter=54 tune=12
+lokey=0 hikey=55
+lovel=101 hivel=127
+loop_start=117436 loop_end=160798
+loop_crossfade=0.009034
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 G#2.flac
+pitch_keycenter=56 tune=-6
+lokey=56 hikey=57
+lovel=1 hivel=100
+loop_crossfade=0.012
+loop_start=143917 loop_end=196885
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 03 G#2.flac
+pitch_keycenter=56
+lokey=56 hikey=57
+lovel=101 hivel=127
+loop_start=119949 loop_end=145837
+loop_crossfade=0.01
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 A#2.flac
+pitch_keycenter=58 tune=-14
+lokey=58 hikey=59
+lovel=1 hivel=100
+loop_start=131065 loop_end=221858
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-02 03 A#2.flac
+pitch_keycenter=58 tune=-14
+lokey=58 hikey=61
+lovel=101 hivel=127
+loop_start=127864 loop_end=173813
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 C3.flac
+pitch_keycenter=60 tune=-24
+lokey=60 hikey=61
+lovel=1 hivel=100
+loop_start=102632 loop_end=122128
+loop_crossfade=0.012
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 D3.flac
+pitch_keycenter=62 tune=-22
+lokey=62 hikey=63
+lovel=1 hivel=100
+loop_start=153269 loop_end=191197
+loop_crossfade=0.04
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-02 03 D3.flac
+pitch_keycenter=62 tune=-24
+lokey=62 hikey=63
+lovel=101 hivel=127
+loop_start=50306 loop_end=71752
+loop_crossfade=0.009
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 E3.flac
+pitch_keycenter=64 tune=-12
+lokey=64 hikey=65
+lovel=1 hivel=100
+loop_start=180718 loop_end=237668
+loop_crossfade=0.022
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-04 03 E3.flac
+pitch_keycenter=64 tune=-12
+lokey=64 hikey=65
+lovel=101 hivel=127
+loop_start=40114 loop_end=59778
+loop_crossfade=0.0164
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 F#3.flac
+pitch_keycenter=66 tune=-6
+lokey=66 hikey=67
+lovel=1 hivel=100
+loop_start=65628 loop_end=109628
+loop_crossfade=0.0183
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 03 F#3.flac
+pitch_keycenter=66 tune=-6
+lokey=66 hikey=67
+lovel=101 hivel=127
+loop_start=66103 loop_end=108023
+loop_crossfade=0.0087
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 G#3.flac
+pitch_keycenter=68 tune=-18
+lokey=68 hikey=69
+lovel=1 hivel=100
+loop_start=120086 loop_end=165606
+loop_crossfade=0.019
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 03 G#3.flac
+pitch_keycenter=68 tune=-20
+lokey=68 hikey=69
+lovel=101 hivel=127
+loop_start=101585 loop_end=121209
+loop_crossfade=0.0164
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 A#3.flac
+pitch_keycenter=70 tune=-18
+lokey=70 hikey=73
+lovel=1 hivel=100
+loop_start=150472 loop_end=205938
+loop_crossfade=0.0116
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 03 A#3.flac
+pitch_keycenter=70 tune=-10
+lokey=70 hikey=71
+lovel=101 hivel=127
+loop_start=40071 loop_end=76561
+loop_crossfade=0.0076
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-03 03 C4.flac
+pitch_keycenter=72
+lokey=72 hikey=73
+lovel=101 hivel=127
+loop_start=61658 loop_end=105970
+loop_crossfade=0.0185
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 D4.flac
+pitch_keycenter=74 tune=-12
+lokey=74 hikey=75
+lovel=1 hivel=100
+loop_start=94944 loop_end=114567
+loop_crossfade=0.0041
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 03 D4.flac
+pitch_keycenter=74 tune=-12
+lokey=74 hikey=75
+lovel=101 hivel=127
+loop_start=159477 loop_end=203777
+loop_crossfade=0.0185
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 E4.flac
+pitch_keycenter=76 tune=-18
+lokey=76 hikey=78
+lovel=1 hivel=100
+loop_start=218005 loop_end=272101
+loop_crossfade=0.0113
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 03 E4.flac
+pitch_keycenter=76 tune=-20
+lokey=76 hikey=78
+lovel=101 hivel=127
+loop_start=362824 loop_end=387092
+loop_crossfade=0.0051
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 G#4.flac
+pitch_keycenter=80 tune=-32
+lokey=79 hikey=81
+lovel=1 hivel=100
+loop_start=89899 loop_end=108504
+loop_crossfade=0.0195
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 03 G#4.flac
+pitch_keycenter=80 tune=-25
+lokey=79 hikey=81
+lovel=101 hivel=127
+loop_start=57802 loop_end=93258
+loop_crossfade=0.07
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 A#4.flac
+pitch_keycenter=82 tune=-24
+lokey=82 hikey=83
+lovel=1 hivel=100
+loop_start=125350 loop_end=180103
+loop_crossfade=0.020
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-02 03 A#4.flac
+pitch_keycenter=82 tune=-35
+lokey=82 hikey=127
+lovel=101 hivel=127
+loop_start=115963 loop_end=149856
+loop_crossfade=0.009
+
+<region>
+sample=Trumpet Vib Samples/XFTrumpet Vib-01 02 C5.flac
+pitch_keycenter=84 tune=-38
+lokey=84 hikey=127
+lovel=1 hivel=100
+loop_start=155787 loop_end=204035
+loop_crossfade=0.05

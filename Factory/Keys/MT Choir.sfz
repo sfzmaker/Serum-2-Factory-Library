@@ -1,0 +1,211 @@
+// MT Choir
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+loop_mode=loop_continuous
+ampeg_attack=0.0001
+ampeg_release=0.3
+amp_veltrack=0.0001
+
+<region>
+sample=MTChoir Samples/XFMellovox G1.flac
+pitch_keycenter=43
+lokey=0 hikey=43
+offset=5936 end=296280
+loop_start=261527 loop_end=307480
+
+<region>
+sample=MTChoir Samples/XFMellovox G#1.flac
+key=44
+offset=35400 end=334614
+loop_start=102194 loop_end=304574
+
+<region>
+sample=MTChoir Samples/XFMellovox A1.flac
+key=45
+offset=0 end=315458
+loop_start=26709 loop_end=271266
+
+<region>
+sample=MTChoir Samples/XFMellovox A#1.flac
+key=46
+offset=0 end=325149
+loop_start=77500 loop_end=300537
+
+<region>
+sample=MTChoir Samples/XFMellovox B1.flac
+key=47
+offset=0 end=297629
+loop_start=37798 loop_end=272255
+
+<region>
+sample=MTChoir Samples/XFMellovox C2.flac
+key=48
+offset=0 end=323616
+loop_start=9202 loop_end=282223
+
+<region>
+sample=MTChoir Samples/XFMellovox C#2.flac
+key=49
+offset=0 end=332326
+loop_start=20760 loop_end=318533
+
+<region>
+sample=MTChoir Samples/XFMellovox D2.flac
+key=50
+offset=0 end=333138
+loop_start=13377 loop_end=289599
+
+<region>
+sample=MTChoir Samples/XFMellovox D#2.flac
+key=51
+offset=0 end=322798
+loop_start=16685 loop_end=245713
+
+<region>
+sample=MTChoir Samples/XFMellovox E2.flac
+key=52
+offset=0 end=317434
+loop_start=31918 loop_end=264967
+
+<region>
+sample=MTChoir Samples/XFMellovox F2.flac
+key=53
+offset=0 end=335264
+loop_start=76679 loop_end=282799
+
+<region>
+sample=MTChoir Samples/XFMellovox G2.flac
+pitch_keycenter=55
+lokey=54 hikey=55
+offset=0 end=337905
+loop_start=27570 loop_end=319867
+
+<region>
+sample=MTChoir Samples/XFMellovox G#2.flac
+key=56
+offset=0 end=336043
+loop_start=32153 loop_end=277186
+
+<region>
+sample=MTChoir Samples/XFMellovox A2.flac
+key=57
+offset=14252 end=325782
+loop_start=25276 loop_end=277897
+
+<region>
+sample=MTChoir Samples/XFMellovox A#2.flac
+key=58
+offset=0 end=340113
+loop_start=39436 loop_end=215587
+
+<region>
+sample=MTChoir Samples/XFMellovox B2.flac
+key=59
+offset=0 end=332292
+loop_start=95476 loop_end=283453
+
+<region>
+sample=MTChoir Samples/XFMellovox C3.flac
+key=60
+offset=0 end=340706
+loop_start=12617 loop_end=297618
+
+<region>
+sample=MTChoir Samples/XFMellovox C#3.flac
+key=61
+offset=0 end=335467
+loop_start=167136 loop_end=311529
+
+<region>
+sample=MTChoir Samples/XFMellovox D3.flac
+key=62
+offset=0 end=339850
+loop_start=8182 loop_end=303945
+
+<region>
+sample=MTChoir Samples/XFMellovox D#3.flac
+key=63
+offset=0 end=323140
+loop_start=42896 loop_end=289566
+
+<region>
+sample=MTChoir Samples/XFMellovox E3.flac
+key=64
+offset=0 end=335404
+loop_start=14074 loop_end=258713
+
+<region>
+sample=MTChoir Samples/XFMellovox F3.flac
+key=65
+offset=0 end=322430
+loop_start=20024 loop_end=299462
+
+<region>
+sample=MTChoir Samples/XFMellovox F#3.flac
+key=66
+offset=0 end=320506
+loop_start=7329 loop_end=222480
+
+<region>
+sample=MTChoir Samples/XFMellovox G3.flac
+key=67
+offset=0 end=328457
+loop_start=31059 loop_end=290782
+
+<region>
+sample=MTChoir Samples/XFMellovox G#3.flac
+key=68
+offset=0 end=336860
+loop_start=32305 loop_end=306132
+
+<region>
+sample=MTChoir Samples/XFMellovox A3.flac
+key=69
+offset=0 end=322683
+loop_start=12080 loop_end=289842
+
+<region>
+sample=MTChoir Samples/XFMellovox A#3.flac
+key=70
+offset=0 end=308047
+loop_start=42106 loop_end=279164
+
+<region>
+sample=MTChoir Samples/XFMellovox B3.flac
+key=71
+offset=0 end=325360
+loop_start=17984 loop_end=268135
+
+<region>
+sample=MTChoir Samples/XFMellovox C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=73
+offset=0 end=327628
+loop_start=15390 loop_end=257972
+
+<region>
+sample=MTChoir Samples/XFMellovox D4.flac
+key=74
+offset=0 end=318402
+loop_start=12923 loop_end=281250
+
+<region>
+sample=MTChoir Samples/XFMellovox D#4.flac
+key=75
+offset=0 end=321000
+loop_start=70610 loop_end=302828
+
+<region>
+sample=MTChoir Samples/XFMellovox E4.flac
+key=76
+offset=0 end=325890
+loop_start=71495 loop_end=280039
+
+<region>
+sample=MTChoir Samples/XFMellovox F4.flac
+pitch_keycenter=77
+lokey=77
+offset=0 end=299219
+loop_start=60917 loop_end=235066

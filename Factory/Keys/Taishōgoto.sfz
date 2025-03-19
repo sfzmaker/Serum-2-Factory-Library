@@ -1,0 +1,101 @@
+// Taishōgoto
+// Serum 2 Factory Content
+// By Shreddward
+
+<group>
+volume=2
+ampeg_attack=0.001
+ampeg_release=0.7
+amp_veltrack=0.0001
+loop_mode=loop_continuous
+
+<region>
+sample=Taishōgoto Samples/XFTaishōgoto G2.flac
+tune=-8
+pitch_keycenter=55
+lokey=0 hikey=55
+end=284479
+loop_start=220444 loop_end=284479
+
+<region>
+sample=Taishōgoto Samples/XFTaishōgoto G#2.flac
+tune=-11
+pitch_keycenter=56
+lokey=56 hikey=57
+end=320512
+loop_start=161232 loop_end=270878
+
+<region>
+tune=-11
+sample=Taishōgoto Samples/XFTaishōgoto A#2.flac
+key=58
+end=243712
+loop_start=158652 loop_end=221139
+
+<region>
+sample=Taishōgoto Samples/XFTaishōgoto B2.flac
+tune=-8
+pitch_keycenter=59
+lokey=59 hikey=61
+end=296960
+loop_start=197761 loop_end=296960
+
+<region>
+tune=-13
+sample=Taishōgoto Samples/XFTaishōgoto D3.flac
+key=62
+end=313344
+loop_start=252093 loop_end=313344
+
+<region>
+tune=-11
+sample=Taishōgoto Samples/XFTaishōgoto D#3.flac
+key=63
+end=285696
+loop_start=232635 loop_end=285696
+
+<region>
+tune=-10
+sample=Taishōgoto Samples/XFTaishōgoto E3.flac
+key=64
+end=276480
+loop_start=224897 loop_end=276480
+
+<region>
+sample=Taishōgoto Samples/XFTaishōgoto F3.flac
+tune=-11
+pitch_keycenter=65
+lokey=65 hikey=66
+end=270336
+loop_start=214001 loop_end=270329
+
+<region>
+tune=-10
+sample=Taishōgoto Samples/XFTaishōgoto G3.flac
+key=67
+end=197632
+loop_start=128676 loop_end=197632
+
+<region>
+sample=Taishōgoto Samples/XFTaishōgoto G#3.flac
+tune=-21
+pitch_keycenter=68
+lokey=68 hikey=71
+end=188416
+loop_start=158296 loop_end=188416
+
+<region>
+sample=Taishōgoto Samples/XFTaishōgoto D4.flac
+tune=-25
+pitch_keycenter=74
+lokey=72 hikey=76
+end=228352
+loop_start=176157 loop_end=228352
+
+<region>
+sample=Taishōgoto Samples/XFTaishōgoto G4.flac
+tune=-36
+pitch_keycenter=79
+lokey=77 hikey=127
+end=160768
+loop_start=72138 loop_end=120609

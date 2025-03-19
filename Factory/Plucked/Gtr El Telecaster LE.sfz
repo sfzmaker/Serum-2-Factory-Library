@@ -1,0 +1,288 @@
+// Guitar Electric Telecaster Limited Edition
+// Serum 2 Factory Content
+
+<group>
+ampeg_release=0.5
+amp_veltrack=0.0001
+volume=-2
+
+<region>
+sample=Telecaster/XFTelecaster 01 F1.flac
+pitch_keycenter=41
+lokey=0 hikey=42
+hivel=41 tune=-4
+
+<region>
+sample=Telecaster/XFTelecaster 02 F1.flac
+pitch_keycenter=41
+lokey=0 hikey=42
+lovel=42 hivel=86 tune=-4
+
+<region>
+sample=Telecaster/XFTelecaster 03 F1.flac
+pitch_keycenter=41
+lokey=0 hikey=42
+lovel=87 hivel=127 tune=-4
+
+
+<region>
+sample=Telecaster/XFTelecaster 01 G#1.flac
+pitch_keycenter=44
+lokey=43 hikey=45
+hivel=41 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 02 G#1.flac
+pitch_keycenter=44
+lokey=43 hikey=45
+lovel=42 hivel=86 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 03 G#1.flac
+pitch_keycenter=44
+lokey=43 hikey=45
+lovel=87 hivel=127 tune=1
+
+
+<region>
+sample=Telecaster/XFTelecaster 01 B1.flac
+pitch_keycenter=47
+lokey=46 hikey=48
+hivel=41 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 02 B1.flac
+pitch_keycenter=47
+lokey=46 hikey=48
+lovel=42 hivel=86 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 03 B1.flac
+pitch_keycenter=47
+lokey=46 hikey=48
+lovel=87 hivel=127 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 01 D2.flac
+pitch_keycenter=50
+lokey=49 hikey=51
+hivel=41 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 02 D2.flac
+pitch_keycenter=50
+lokey=49 hikey=51
+lovel=42 hivel=86 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 03 D2.flac
+pitch_keycenter=50
+lokey=49 hikey=51
+lovel=87 hivel=127 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 01 F2.flac
+pitch_keycenter=53
+lokey=52 hikey=54
+hivel=41
+
+<region>
+sample=Telecaster/XFTelecaster 02 F2.flac
+pitch_keycenter=53
+lokey=52 hikey=54
+lovel=42 hivel=86
+
+<region>
+sample=Telecaster/XFTelecaster 03 F2.flac
+pitch_keycenter=53
+lokey=52 hikey=54
+lovel=87 hivel=127
+
+<region>
+sample=Telecaster/XFTelecaster 01 G#2.flac
+pitch_keycenter=56
+lokey=55 hikey=57
+hivel=41 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 02 G#2.flac
+pitch_keycenter=56
+lokey=55 hikey=57
+lovel=42 hivel=86 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 03 G#2.flac
+pitch_keycenter=56
+lokey=55 hikey=57
+lovel=87 hivel=127 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 01 B2.flac
+pitch_keycenter=59
+lokey=58 hikey=60
+hivel=41 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 02 B2.flac
+pitch_keycenter=59
+lokey=58 hikey=60
+lovel=42 hivel=86 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 03 B2.flac
+pitch_keycenter=59
+lokey=58 hikey=60
+lovel=87 hivel=127 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 01 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=63
+hivel=41 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 02 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=63
+lovel=42 hivel=86 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 03 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=63
+lovel=87 hivel=127 tune=1
+
+
+<region>
+sample=Telecaster/XFTelecaster 01 F3.flac
+pitch_keycenter=65
+lokey=64 hikey=66
+hivel=41
+
+<region>
+sample=Telecaster/XFTelecaster 02 F3.flac
+pitch_keycenter=65
+lokey=64 hikey=66
+lovel=42 hivel=86
+
+<region>
+sample=Telecaster/XFTelecaster 03 F3.flac
+pitch_keycenter=65
+lokey=64 hikey=66
+lovel=87 hivel=127
+
+
+<region>
+sample=Telecaster/XFTelecaster 01 G#3.flac
+pitch_keycenter=68
+lokey=67 hikey=69
+hivel=41 tune=-1
+
+<region>
+sample=Telecaster/XFTelecaster 02 G#3.flac
+pitch_keycenter=68
+lokey=67 hikey=69
+lovel=42 hivel=86 tune=-1
+
+<region>
+sample=Telecaster/XFTelecaster 03 G#3.flac
+pitch_keycenter=68
+lokey=67 hikey=69
+lovel=87 hivel=127 tune=-1
+
+
+<region>
+sample=Telecaster/XFTelecaster 01 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=72
+hivel=41
+
+<region>
+sample=Telecaster/XFTelecaster 02 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=72
+lovel=42 hivel=86
+
+<region>
+sample=Telecaster/XFTelecaster 03 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=72
+lovel=87 hivel=127
+
+
+<region>
+sample=Telecaster/XFTelecaster 01 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=75
+hivel=41 tune=4
+
+<region>
+sample=Telecaster/XFTelecaster 02 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=75
+lovel=42 hivel=86 tune=4
+
+<region>
+sample=Telecaster/XFTelecaster 03 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=75
+lovel=87 hivel=127 tune=4
+
+
+<region>
+sample=Telecaster/XFTelecaster 01 F4.flac
+pitch_keycenter=77
+lokey=76 hikey=78
+hivel=41 tune=2
+
+<region>
+sample=Telecaster/XFTelecaster 02 F4.flac
+pitch_keycenter=77
+lokey=76 hikey=78
+lovel=42 hivel=86 tune=2
+
+<region>
+sample=Telecaster/XFTelecaster 03 F4.flac
+pitch_keycenter=77
+lokey=76 hikey=78
+lovel=87 hivel=127 tune=2
+
+
+<region>
+sample=Telecaster/XFTelecaster 01 G#4.flac
+pitch_keycenter=80
+lokey=79 hikey=81
+hivel=41 tune=5
+
+<region>
+sample=Telecaster/XFTelecaster 02 G#4.flac
+pitch_keycenter=80
+lokey=79 hikey=81
+lovel=42 hivel=86 tune=5
+
+<region>
+sample=Telecaster/XFTelecaster 03 G#4.flac
+pitch_keycenter=80
+lokey=79 hikey=81
+lovel=87 hivel=127 tune=5
+
+
+<region>
+sample=Telecaster/XFTelecaster 01 C5.flac
+pitch_keycenter=84
+lokey=82 hikey=127
+hivel=41 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 02 C5.flac
+pitch_keycenter=84
+lokey=82 hikey=127
+lovel=42 hivel=86 tune=1
+
+<region>
+sample=Telecaster/XFTelecaster 03 C5.flac
+pitch_keycenter=84
+lokey=82 hikey=127
+lovel=87 hivel=127 tune=1
+
+

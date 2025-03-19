@@ -1,0 +1,31 @@
+// Cactus Bola
+// Serum 2 Factory Content
+// By Steve Duda, samples from Paco Rosas / http://elganzorecords.com/
+
+<group>
+volume=-2
+amp_veltrack=25
+
+<region>
+sample=CactusBola Samples/XFCactusbola E2.flac
+pitch_keycenter=64
+lokey=0 hikey=67
+tune=48
+
+<region>
+sample=CactusBola Samples/XFCactusbola D3.flac
+pitch_keycenter=74
+lokey=68 hikey=74
+tune=67
+
+<region>
+sample=CactusBola Samples/XFCactusbola E3.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+tune=26
+
+<region>
+sample=CactusBola Samples/XFCactusbola F3.flac
+pitch_keycenter=77
+lokey=77 hikey=127
+tune=8

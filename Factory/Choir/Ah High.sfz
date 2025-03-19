@@ -1,0 +1,73 @@
+// Choir Ah High
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.02
+ampeg_release=1.0
+amp_veltrack=25
+loop_mode=loop_continuous
+
+
+<region>
+sample=Choir Samples/XFChoir Ah High A#2.flac
+pitch_keycenter=58
+lokey=0 hikey=59
+loop_start=104856 loop_end=274924
+loop_crossfade=1.0629
+
+<region>
+sample=Choir Samples/XFChoir Ah High C#3.flac
+pitch_keycenter=61
+lokey=60 hikey=62
+loop_start=116736 loop_end=286804
+loop_crossfade=0.7086
+
+<region>
+sample=Choir Samples/XFChoir Ah High E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+loop_start=133445 loop_end=288053
+loop_crossfade=0.6442
+
+<region>
+sample=Choir Samples/XFChoir Ah High G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+loop_start=191208 loop_end=318984
+loop_crossfade=0.5324
+
+<region>
+sample=Choir Samples/XFChoir Ah High A#3.flac
+pitch_keycenter=70
+lokey=69 hikey=71
+loop_start=96491 loop_end=266559
+loop_crossfade=1.4172
+
+<region>
+sample=Choir Samples/XFChoir Ah High C#4.flac
+pitch_keycenter=73
+lokey=72 hikey=74
+loop_start=79950 loop_end=207726
+loop_crossfade=0.5324
+
+<region>
+sample=Choir Samples/XFChoir Ah High E4.flac
+pitch_keycenter=76
+lokey=75 hikey=77
+loop_start=196800 loop_end=312960
+loop_crossfade=0.7260
+
+<region>
+sample=Choir Samples/XFChoir Ah High G4.flac
+pitch_keycenter=79
+lokey=78 hikey=80
+loop_start=106912 loop_end=261520
+loop_crossfade=1.6105
+
+<region>
+sample=Choir Samples/XFChoir Ah High A#4.flac
+pitch_keycenter=82
+lokey=81 hikey=127
+loop_start=53248 loop_end=149248
+loop_crossfade=0.4000

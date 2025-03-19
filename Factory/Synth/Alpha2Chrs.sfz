@@ -1,0 +1,98 @@
+// Alpha2Choru
+// Serum 2 Factory Content
+// By 7 SKIES
+
+<group>
+ampeg_attack=0.01
+ampeg_release=0.32
+loop_mode=loop_continuous
+loop_crossfade=0.004
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO C-2.flac
+pitch_keycenter=24 lokey=0 hikey=27
+loop_start=796s
+loop_end=53310
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO E0.flac
+pitch_keycenter=28 lokey=28 hikey=31
+loop_end=78847
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO G#0.flac
+pitch_keycenter=32 lokey=32 hikey=35
+loop_start=1096
+loop_end=52690
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO C1.flac
+pitch_keycenter=36 lokey=36 hikey=39
+loop_start=4016 loop_end=52296
+loop_crossfade=0.0115
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO E1.flac
+pitch_keycenter=40 lokey=40 hikey=43
+loop_end=77751
+loop_crossfade=0
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO G#1.flac
+pitch_keycenter=44 lokey=44 hikey=47
+loop_start=2119 loop_end=53711
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO C2.flac
+pitch_keycenter=48 lokey=48 hikey=51
+loop_start=392 loop_end=38298
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO E2.flac
+pitch_keycenter=52 lokey=52 hikey=55
+loop_start=272 loop_end=110759
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO G#2.flac
+pitch_keycenter=56 lokey=56 hikey=59
+loop_start=3216 loop_end=75070
+loop_crossfade=0.05
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO C3.flac
+pitch_keycenter=60 lokey=60 hikey=63
+loop_start=2266  loop_end=76221
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO E3.flac
+pitch_keycenter=64 lokey=64 hikey=67
+loop_start=969 loop_end=55413
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO G#3.flac
+pitch_keycenter=68 lokey=68 hikey=71
+loop_start=506 loop_end=39386
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO C4.flac
+pitch_keycenter=72 lokey=72 hikey=75
+loop_start=211 loop_end=75526
+loop_crossfade=0.001
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO E4.flac
+pitch_keycenter=76 lokey=76 hikey=79
+loop_start=2309 loop_end=74644
+loop_crossfade=0.02
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO G#4.flac
+pitch_keycenter=80 lokey=80 hikey=83
+loop_end=65501
+loop_crossfade=0.0
+
+<region>
+sample=Alpha2Chrs Samples/Chrs JNO C5.flac
+pitch_keycenter=84 lokey=84 hikey=127
+loop_end=57181
+loop_crossfade=0.0

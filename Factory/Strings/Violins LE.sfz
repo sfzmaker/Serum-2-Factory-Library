@@ -1,0 +1,71 @@
+// Violins Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.01
+ampeg_release=0.7
+loop_crossfade=0.01
+amp_veltrack=35
+loop_mode=loop_continuous
+
+<region>
+sample=Violins Long Samples/XFviolins long 03 A2.flac
+pitch_keycenter=57 tune=-4
+lokey=0 hikey=58
+loop_start=96208 loop_end=272212
+
+<region>
+sample=Violins Long Samples/XFviolins long 03 B2.flac
+pitch_keycenter=59
+lokey=59 hikey=60
+loop_start=106245 loop_end=303490
+
+<region>
+sample=Violins Long Samples/XFviolins long-02 03 C#3.flac
+pitch_keycenter=61
+lokey=61 hikey=62
+loop_start=154108 loop_end=317805
+
+<region>
+sample=Violins Long Samples/XFviolins long-02 03 D#3.flac
+pitch_keycenter=63 tune=-4
+lokey=63 hikey=64
+loop_start=102305 loop_end=356050
+
+<region>
+sample=Violins Long Samples/XFviolins long-02 03 F3.flac
+pitch_keycenter=65 tune=-3
+lokey=65 hikey=66
+loop_start=160204 loop_end=370366
+
+<region>
+sample=Violins Long Samples/XFviolins long-02 03 G3.flac
+pitch_keycenter=67 tune=-4
+lokey=67 hikey=68
+loop_start=67472 loop_end=297630
+
+<region>
+sample=Violins Long Samples/XFviolins long-02 03 A3.flac
+pitch_keycenter=69 tune=-10
+lokey=69 hikey=70
+loop_start=122184 loop_end=325081
+
+<region>
+sample=Violins Long Samples/XFviolins long-02 03 B3.flac
+pitch_keycenter=71 tune=-8
+lokey=71 hikey=72
+loop_start=167234 loop_end=356333
+
+<region>
+sample=Violins Long Samples/XFviolins long-02 03 C#4.flac
+pitch_keycenter=73 tune=-5
+lokey=73 hikey=74
+loop_start=116122 loop_end=342005
+
+<region>
+sample=Violins Long Samples/XFviolins long 03 D#4.flac
+pitch_keycenter=75 tune=4
+lokey=75 hikey=127
+loop_start=6688 loop_end=241265
+

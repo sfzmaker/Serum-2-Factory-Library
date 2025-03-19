@@ -1,0 +1,451 @@
+// Kalimba
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+ampeg_attack=0.0
+ampeg_release=0.5
+amp_veltrack=0.0001
+volume=-2
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 F2.flac
+pitch_keycenter=53
+lokey=0 hikey=53
+hivel=33 tune=-9
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=55
+hivel=33 tune=-16
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=57
+hivel=33 tune=-16
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 B2.flac
+pitch_keycenter=59
+lokey=58 hikey=59
+hivel=33 tune=-33
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 C3.flac
+key=60
+hivel=33 tune=-2
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=62
+hivel=33 tune=-10
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 F3.flac
+pitch_keycenter=65
+lokey=63 hikey=65
+hivel=33 tune=-24
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=67
+hivel=33 tune=-43
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=69
+hivel=33 tune=-23
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=71
+hivel=33 tune=-17
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 C4.flac
+key=72
+hivel=33 tune=-25
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+hivel=33 tune=-23
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+hivel=33 tune=-23
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 F4.flac
+key=77
+hivel=33 tune=-29
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 G4.flac
+pitch_keycenter=79
+lokey=78 hikey=79
+hivel=33 tune=-19
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=81
+hivel=33 tune=-18
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 B4.flac
+pitch_keycenter=83
+lokey=82 hikey=83
+hivel=33 tune=-28
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 C5.flac
+key=84
+hivel=33 tune=-31
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 D5.flac
+pitch_keycenter=86
+lokey=85 hikey=86
+hivel=33 tune=-21
+
+<region>
+sample=Kalimba Samples/XFKalimba 01 E5.flac
+pitch_keycenter=88
+lokey=87 hikey=127
+hivel=33 tune=-6
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 F2.flac
+pitch_keycenter=53
+lokey=0 hikey=53
+lovel=34 hivel=66 tune=-9
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=55
+lovel=34 hivel=66 tune=-16
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=57
+lovel=34 hivel=66 tune=-16
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 C3.flac
+pitch_keycenter=60
+lokey=58 hikey=60
+lovel=34 hivel=66 tune=-2
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=62
+lovel=34 hivel=66 tune=-10
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=64
+lovel=34 hivel=66 tune=-20
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 F3.flac
+key=65
+lovel=34 hivel=66 tune=-24
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+lovel=34 hivel=66 tune=-43
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 B3.flac
+pitch_keycenter=71
+lokey=69 hikey=71
+lovel=34 hivel=66 tune=-17
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 C4.flac
+key=72
+lovel=34 hivel=66 tune=-25
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+lovel=34 hivel=66 tune=-23
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+lovel=34 hivel=66 tune=-23
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 F4.flac
+key=77
+lovel=34 hivel=66 tune=-29
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 G4.flac
+pitch_keycenter=79
+lokey=78 hikey=79
+lovel=34 hivel=66 tune=-19
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=81
+lovel=34 hivel=66 tune=-18
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 B4.flac
+pitch_keycenter=83
+lokey=82 hikey=83
+lovel=34 hivel=66 tune=-28
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 C5.flac
+key=84
+lovel=34 hivel=66 tune=-31
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 D5.flac
+pitch_keycenter=86
+lokey=85 hikey=86
+lovel=34 hivel=66 tune=-21
+
+<region>
+sample=Kalimba Samples/XFKalimba 02 E5.flac
+pitch_keycenter=88
+lokey=87 hikey=127
+lovel=34 hivel=66 tune=-6
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 F2.flac
+pitch_keycenter=53
+lokey=0 hikey=53
+lovel=67 hivel=93 tune=-9
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=55
+lovel=67 hivel=93 tune=-16
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=57
+lovel=67 hivel=93 tune=-16
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 B2.flac
+pitch_keycenter=59
+lokey=58 hikey=59
+lovel=67 hivel=93 tune=-33
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 C3.flac
+key=60
+lovel=67 hivel=93 tune=-2
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=62
+lovel=67 hivel=93 tune=-10
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=64
+lovel=67 hivel=93
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 F3.flac
+key=65
+lovel=67 hivel=93 tune=-24
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+lovel=67 hivel=93 tune=-43
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 B3.flac
+pitch_keycenter=71
+lokey=69 hikey=71
+lovel=67 hivel=93 tune=-17
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 C4.flac
+key=72
+lovel=67 hivel=93 tune=-25
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+lovel=67 hivel=93 tune=-23
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+lovel=67 hivel=93 tune=-23
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 F4.flac
+key=77
+lovel=67 hivel=93 tune=-29
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 G4.flac
+pitch_keycenter=79
+lokey=78 hikey=79
+lovel=67 hivel=93 tune=-19
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=81
+lovel=67 hivel=93 tune=-18
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 B4.flac
+pitch_keycenter=83
+lokey=82 hikey=83
+lovel=67 hivel=93 tune=-28
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 C5.flac
+key=84
+lovel=67 hivel=93 tune=-31
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 D5.flac
+pitch_keycenter=86
+lokey=85 hikey=86
+lovel=67 hivel=93 tune=-21
+
+<region>
+sample=Kalimba Samples/XFKalimba 03 E5.flac
+pitch_keycenter=88
+lokey=87 hikey=127
+lovel=67 hivel=93 tune=-6
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 F2.flac
+pitch_keycenter=53
+lokey=0 hikey=53
+lovel=94 tune=-9
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=55
+lovel=94 tune=-16
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=57
+lovel=94 tune=-16
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 B2.flac
+pitch_keycenter=59
+lokey=58 hikey=59
+lovel=94 tune=-33
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 C3.flac
+key=60
+lovel=94 tune=-2
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=62
+lovel=94 tune=-10
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+lovel=94
+
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=68
+lovel=94 tune=-43
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 B3.flac
+pitch_keycenter=71
+lokey=69 hikey=72
+lovel=94 tune=-17
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=75
+lovel=94 tune=-23
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 F4.flac
+pitch_keycenter=77
+lokey=76 hikey=77
+lovel=94 tune=-29
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 G4.flac
+pitch_keycenter=79
+lokey=78 hikey=79
+lovel=94 tune=-19
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=81
+lovel=94 tune=-18
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 B4.flac
+pitch_keycenter=83
+lokey=82 hikey=83
+lovel=94 tune=-28
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 C5.flac
+key=84
+lovel=94 tune=-31
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 D5.flac
+pitch_keycenter=86
+lokey=85 hikey=86
+lovel=94 tune=-21
+
+<region>
+sample=Kalimba Samples/XFKalimba 04 E5.flac
+pitch_keycenter=88
+lokey=87 hikey=127
+lovel=94 tune=-6

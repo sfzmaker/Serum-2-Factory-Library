@@ -1,0 +1,274 @@
+// Bass Pick Palm
+// Serum2 Factory Content
+// By Steve Duda
+
+<group>
+tune=-5
+ampeg_attack=0.0 ampeg_release=5.0
+amp_veltrack=0.0001
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 01 G0.flac
+pitch_keycenter=31
+hikey=32
+hivel=32
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 02 G0.flac
+pitch_keycenter=31
+hikey=32
+lovel=33 hivel=71
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 03 G0.flac
+pitch_keycenter=31
+hikey=32
+lovel=72 hivel=119
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 04 G0.flac
+pitch_keycenter=31
+hikey=32
+lovel=120
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 01 A#0.flac
+pitch_keycenter=34
+lokey=33 hikey=35
+hivel=32
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 02 A#0.flac
+pitch_keycenter=34
+lokey=33 hikey=35
+lovel=33 hivel=71
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 03 A#0.flac
+pitch_keycenter=34
+lokey=33 hikey=35
+lovel=72 hivel=119
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 04 A#0.flac
+pitch_keycenter=34
+lokey=33 hikey=35
+lovel=120
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 01 C#1.flac
+pitch_keycenter=37
+lokey=36 hikey=38
+hivel=32 tune=3
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 02 C#1.flac
+pitch_keycenter=37
+lokey=36 hikey=38
+lovel=33 hivel=71 tune=3
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 03 C#1.flac
+pitch_keycenter=37
+lokey=36 hikey=38
+lovel=72 hivel=119 tune=3
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 04 C#1.flac
+pitch_keycenter=37
+lokey=36 hikey=38
+lovel=120
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 01 E1.flac
+pitch_keycenter=40
+lokey=39 hikey=41
+hivel=32
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 02 E1.flac
+pitch_keycenter=40
+lokey=39 hikey=41
+lovel=33 hivel=71
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 03 E1.flac
+pitch_keycenter=40
+lokey=39 hikey=41
+lovel=72 hivel=119
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 04 E1.flac
+pitch_keycenter=40
+lokey=39 hikey=41
+lovel=120
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 01 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+hivel=32
+
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 02 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+lovel=33 hivel=71
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 03 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+lovel=72 hivel=119
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 04 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+lovel=120
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 01 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+hivel=32
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 02 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+lovel=33 hivel=71
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 03 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+lovel=72 hivel=119
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 04 A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+lovel=120
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 01 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+hivel=32
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 02 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+lovel=33 hivel=71
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 03 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+lovel=72 hivel=119
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 04 C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+lovel=120
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 01 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+hivel=32 tune=-1
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 02 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+lovel=33 hivel=71 tune=-1
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 03 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+lovel=72 hivel=119 tune=-1
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 04 E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+lovel=120 tune=-1
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 01 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+hivel=32 tune=-8
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 02 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+lovel=33 hivel=71 tune=-8
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 03 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+lovel=72 hivel=119 tune=-8
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 04 G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+lovel=120 tune=-8
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 01 A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=62
+hivel=32 tune=-17
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 02 A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=62
+lovel=33 hivel=71 tune=-17
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 03 A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=62
+lovel=72 hivel=119 tune=-17
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 04 A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=62
+lovel=120 tune=-17
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 01 E3.flac
+pitch_keycenter=64
+lokey=63
+hivel=32  tune=-21
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 02 E3.flac
+pitch_keycenter=64
+lokey=63
+lovel=33 hivel=71  tune=-21
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 03 E3.flac
+pitch_keycenter=64
+lokey=63
+lovel=72 hivel=119  tune=-21
+offset=0
+
+<region>
+sample=BassPickPalm Samples/XFBasspickpalm 04 E3.flac
+pitch_keycenter=64
+lokey=63
+lovel=120  tune=-21

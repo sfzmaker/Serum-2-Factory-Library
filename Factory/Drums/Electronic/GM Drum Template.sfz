@@ -1,0 +1,55 @@
+
+<global>
+ampeg_attack=0.001
+ampeg_release=32
+amp_veltrack=100
+
+<group>
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/Jazz Kick.flac key=35 //Kick Drum Alt.
+//C1
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/Kick Nerve.flac key=36 //[C1] Kick Drum 1
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Rim/Snare Rim 2.flac key=37 //[C#1] Side Stick
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Fire Cracker Double Stroke.flac offset=2215 key=38 //[D1] Snare Drum
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Clap/Clap Short.flac key=39 //[D#1] Clap
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Fire Cracker.flac key=40  //[E1] Snare Drum 2
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom Fl.flac key=41 tune=-100//[F1] TOM1 (Low Floor)
+//[F#1] below
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom Fl.flac key=43 tune=100 pan=-10 //[G1]TOM2 (Floor)
+//[G#1] below
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom Mid.flac key=45 tune=-300 //TOM3 (Low-Mid Tom)
+//[A#1] below
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom Mid.flac key=47 //[B1] TOM4 (Mid Tom)
+
+<group>
+group=2 off_by=3 ampeg_release=0.3
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/Hat Zinx.flac key=42 volume=-10 //[F#1] HiHat Closed
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/505 Hat Open.flac key=44 volume=-10 //[G#1] HiHat Pedal
+<group>
+group=3 off_by=2  ampeg_release=0.3
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/KC Dry Open.flac key=46 volume=-10 //[A#1] HiHat Open
+<group>  ampeg_release=32
+//C2
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom Mid.flac key=48 tune=200 //[C2] TOM5 (Hi Mid Tom)
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Cymbal Zunder.flac key=49 //[C#2] Crash 1
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom High.flac key=50 //[D2] TOM6 (Hi Tom)
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Uptown Ride Closed.flac key=51 //[D#2] ride
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Kerope Crash.flac key=52 //[E2] cym
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Uptown Ride Bell.flac key=53 //[F2] ride bell
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/LM2 Tamborine.flac  key=54 //[F#2] tamb
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Uptown Ride Closed.flac key=55 //[G2] splash
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/Bell Cowbell Small.flac key=56 //[G#2] cowbell
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/LM2 Cymbal Crash.flac key=57 //[A2] crash 2
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Dark Energy 1.flac key=58 //[A#2] vibraslap
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Cymbal Ride Long.flac key=59 //[B2] Ride Cymbal 2
+//C3
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/Bongo High.flac key=60 //[C3] Hi Bongo
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/Bongo Low.flac key=61 //[C#3] Lo Bongo
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/626 Conga Slap.flac key=62 //[D3] Cong mute hi
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/505 Conga Hi.flac key=63 //[D#3] Cong open hi
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/505 Conga Lo.flac key=64 //[E3] Cong lo
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/Nagado Daiko.flac tune=300 key=65 //[F3] Hi Timbale
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/Nagado Daiko.flac tune=-100 key=66 //[F#3] Low Timbale
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/Bell Mambo.flac key=67 tune=200//[G3] High Agogo
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/Bell Mambo.flac key=68 tune=-200//[G#3] Low Agogo
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Shaker/LM2 Cabasa.flac key=69 //[A3] Cabasa
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Shaker/Maracas Live.flac key=70 //[A#3] Maracas

@@ -1,0 +1,299 @@
+// Swarsangam
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+amp_veltrack=0.0001
+volume=4
+ampeg_attack=0.0001
+ampeg_release=0.7
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 01 C3.flac
+pitch_keycenter=60
+lokey=0 hikey=60
+hivel=30
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 01 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=62
+hivel=30 tune=4
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 01 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+hivel=30 tune=2
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 01 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=67
+hivel=30
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 01 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=69
+hivel=30 tune=-2
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 01 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=71
+hivel=30
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 01 C4.flac
+key=72
+hivel=30
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 01 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+hivel=30
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 01 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+hivel=30 tune=-1
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 01 F4.flac
+pitch_keycenter=77
+lokey=77 hikey=127
+hivel=30 tune=12
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 02 C3.flac
+pitch_keycenter=60
+lokey=0 hikey=60
+lovel=31 hivel=61
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 02 E3.flac
+pitch_keycenter=64
+lokey=61 hikey=65
+lovel=31 hivel=61 tune=2
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 02 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=67
+lovel=31 hivel=61
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 02 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=69
+lovel=31 hivel=61 tune=-2
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 02 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=71
+lovel=31 hivel=61
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 02 C4.flac
+key=72
+lovel=31 hivel=61
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 02 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+lovel=31 hivel=61 tune=-1
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 02 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+lovel=31 hivel=61 tune=-1
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 02 F4.flac
+pitch_keycenter=77
+lokey=77 hikey=127
+lovel=31 hivel=61 tune=12
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 03 C3.flac
+pitch_keycenter=60
+lokey=0 hikey=60
+lovel=62 hivel=94
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 03 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=62
+lovel=62 hivel=94 tune=4
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 03 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+lovel=62 hivel=94 tune=2
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 03 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=67
+lovel=62 hivel=94
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 03 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=69
+lovel=62 hivel=94 tune=-2
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 03 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=71
+lovel=62 hivel=94
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 03 C4.flac
+key=72
+lovel=62 hivel=94
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 03 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+lovel=62 hivel=94 tune=-1
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 03 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+lovel=62 hivel=94 tune=-1
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 03 F4.flac
+pitch_keycenter=77
+lokey=77 hikey=127
+lovel=62 hivel=94 tune=12
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 04 C3.flac
+pitch_keycenter=60
+lokey=0 hikey=60
+lovel=95 hivel=118
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 04 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=62
+lovel=95 hivel=118 tune=4
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 04 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+lovel=95 hivel=118 tune=2
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 04 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=67
+lovel=95 hivel=118 tune=-2
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 04 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=69
+lovel=95 hivel=118 tune=-2
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 04 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=71
+lovel=95 hivel=118
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 04 C4.flac
+key=72
+lovel=95 hivel=118
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 04 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+lovel=95 hivel=118 tune=-1
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 04 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+lovel=95 hivel=118 tune=-1
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 04 F4.flac
+pitch_keycenter=77
+lokey=77 hikey=127
+lovel=95 hivel=118 tune=12
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 05 C3.flac
+pitch_keycenter=60
+lokey=0 hikey=60
+lovel=119
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 05 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=62
+lovel=119 tune=4
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 05 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+lovel=119 tune=2
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 05 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=67
+lovel=119
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 05 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=69
+lovel=119 tune=-2
+
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 05 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=71
+lovel=119
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 05 C4.flac
+key=72
+lovel=119
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 05 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+lovel=119 tune=-1
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 05 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+lovel=119 tune=-1
+
+<region>
+sample=Swarsangam Samples/XFEG SWSN 05 F4.flac
+pitch_keycenter=77
+lokey=77 hikey=127
+lovel=119 tune=12

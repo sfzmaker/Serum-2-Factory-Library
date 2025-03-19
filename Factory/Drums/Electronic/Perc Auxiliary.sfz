@@ -1,0 +1,52 @@
+// Auxiliary Kit
+// Creator: Shreddward
+
+<global>
+ampeg_attack=0.001
+ampeg_release=32
+amp_veltrack=100
+
+<group>
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/Jazz Kick.flac key=59 tune=-300
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/Jazz Kick.flac key=60
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Brushes.flac key=61
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Fire Cracker.flac key=62
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Piccolo Roll.flac  key=63
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Piccolo Snare.flac key=64 tune=-300
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/Conga Low.flac key=65
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/Clave.flac key=66
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/Conga High.flac key=67
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/Woodblock.flac key=68
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/Bongo Low.flac key=69
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/Guerro.flac key=70
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/Bongo High.flac key=71 tune=350
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/Djembe Bass C.flac key=72
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Rim/Piccolo Cross Stick.flac key=73
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Piccolo Snare 2.flac key=74 tune=700
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Fire Cracker Double Stroke.flac key=75
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Fire Cracker.flac key=76 tune=300
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Floor Tom Soft.flac key=77 tune=1200
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Perc/Glass Bottle.flac key=78 tune=-300
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom Acoustic.flac key=79 tune=1200
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Uptown Ride Bell.flac key=80
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Tom/Tom High.flac key=81 tune=1200
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Uptown Ride Open.flac key=82
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/FX Snare.flac key=83 tune=1200
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Kerope Mallet Swell.flac key=84
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Kerope Mallet Crash.flac key=85
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Kerope Crash Swell.flac key=86
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Kerope Crash.flac key=87
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Dark Energy 1.flac key=88
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Dark Energy 2.flac key=89
+<group> group=3 off_mode=normal
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/K Custom Dry.flac key=90
+<group>
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Uptown Ride Closed.flac key=91
+<group> group=4 off_by=3 off_mode=normal ampeg_release=0.123
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/KC Dry Open.flac key=92
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Cymbal/Cymbal Scythe.flac key=94
+<group>
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/Conga Slap Low.flac key=93
+
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/Conga Slap High.flac key=95
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Conga/Conga Slap High.flac key=96 tune=350

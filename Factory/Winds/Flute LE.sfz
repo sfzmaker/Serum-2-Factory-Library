@@ -1,0 +1,113 @@
+// Flute Long LE
+
+<group>
+ampeg_attack=0.050
+ampeg_release=0.25
+loop_crossfade=0.01
+loop_mode=loop_continuous
+
+<region>
+sample=Flute Long Samples/XFflute long 02 C3.flac
+pitch_keycenter=60 tune=12
+lokey=0 hikey=61
+lovel=1 hivel=127
+loop_start=44057 loop_end=240092
+
+<region>
+sample=Flute Long Samples/XFflute long 02 D3.flac
+pitch_keycenter=62 tune=-8
+lokey=62 hikey=63
+lovel=1 hivel=127
+loop_start=49528 loop_end=244102
+
+<region>
+sample=Flute Long Samples/XFflute long-02 02 F3.flac
+pitch_keycenter=65 tune=-12
+lokey=64 hikey=66
+lovel=1 hivel=127
+loop_start=57725 loop_end=166206
+
+<region>
+sample=Flute Long Samples/XFflute long 02 G#3.flac
+pitch_keycenter=68 tune=-16
+lokey=67 hikey=69
+lovel=1 hivel=127
+loop_start=24558 loop_end=298651
+
+<region>
+sample=Flute Long Samples/XFflute long 02 A#3.flac
+pitch_keycenter=70 tune=-8
+lokey=70 hikey=71
+lovel=1 hivel=127
+loop_start=57983 loop_end=199868
+
+<region>
+sample=Flute Long Samples/XFflute long-02 02 C4.flac
+pitch_keycenter=72 tune=-18
+lokey=72 hikey=73
+lovel=1 hivel=127
+loop_start=41094 loop_end=224907
+
+<region>
+sample=Flute Long Samples/XFflute long-02 02 D4.flac
+pitch_keycenter=74 tune=-18
+lokey=74 hikey=75
+lovel=1 hivel=127
+loop_start=61649 loop_end=247039
+
+<region>
+sample=Flute Long Samples/XFflute long-02 02 E4.flac
+pitch_keycenter=76 tune=-16
+lokey=76 hikey=77
+lovel=1 hivel=127
+loop_start=28607 loop_end=265443
+
+<region>
+sample=Flute Long Samples/XFflute long-02 02 F#4.flac
+pitch_keycenter=78 tune=-10
+lokey=78 hikey=79
+lovel=1 hivel=127
+loop_start=23786 loop_end=348571
+
+<region>
+sample=Flute Long Samples/XFflute long 02 G#4.flac
+pitch_keycenter=80 tune=-8
+lokey=80 hikey=81
+lovel=1 hivel=127
+loop_start=25004 loop_end=325226
+
+<region>
+sample=Flute Long Samples/XFflute long-02 02 A#4.flac
+pitch_keycenter=82 tune=-8
+lokey=82 hikey=83
+lovel=1 hivel=127
+loop_start=33724 loop_end=331945
+
+<region>
+sample=Flute Long Samples/XFflute long 02 C5.flac
+pitch_keycenter=84 tune=-6
+lokey=84 hikey=86
+lovel=1 hivel=127
+loop_start=179343 loop_end=428132
+
+<region>
+sample=Flute Long Samples/XFflute long-02 02 E5.flac
+pitch_keycenter=88 tune=-24
+lokey=87 hikey=89
+lovel=1 hivel=127
+loop_start=51407 loop_end=302799
+
+<region>
+sample=Flute Long Samples/XFflute long 02 F#5.flac
+pitch_keycenter=90 tune=-24
+lokey=90 hikey=91
+lovel=1 hivel=127
+loop_start=17566 loop_end=330027
+
+<region>
+sample=Flute Long Samples/XFflute long-02 02 G#5.flac
+pitch_keycenter=92 tune=-24
+lokey=92 hikey=127
+lovel=1 hivel=127
+loop_start=37796 loop_end=183595
+

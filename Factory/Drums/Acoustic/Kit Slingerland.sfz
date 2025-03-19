@@ -1,0 +1,437 @@
+// Slingerland 24 bits
+// Serum 2 Factory Content
+// By Shreddward
+
+<global>
+loop_mode=one_shot
+ampeg_attack=0
+ampeg_release=0.500
+amp_veltrack=0
+
+
+//SL Kick tuned down 
+<group>key=35 lovel=1 hivel=29 volume=-0.5 seq_length=3 tune=-400
+<region>seq_position=1 sample=SLI Drum Kit/SL Kick vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Kick vl1 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Kick vl1 rr3.flac
+
+<group>key=35 lovel=30 hivel=59 volume=-0.5 seq_length=3 tune=-400
+<region>seq_position=1 sample=SLI Drum Kit/SL Kick vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Kick vl2 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Kick vl2 rr3.flac
+
+<group>key=35 lovel=60 hivel=89 volume=-0.5 seq_length=3 tune=-400
+<region>seq_position=1 sample=SLI Drum Kit/SL Kick vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Kick vl3 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Kick vl3 rr3.flac
+
+<group>key=35 lovel=90 hivel=109 volume=-0.5 seq_length=3 tune=-400
+<region>seq_position=1 sample=SLI Drum Kit/SL Kick vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Kick vl4 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Kick vl4 rr3.flac
+
+<group>key=35 lovel=110 hivel=127 volume=-0.5 seq_length=3 tune=-400
+<region>seq_position=1 sample=SLI Drum Kit/SL Kick vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Kick vl5 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Kick vl5 rr3.flac
+
+
+//SL Kick  
+<group>key=36 lovel=1 hivel=29 volume=-0.5 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Kick vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Kick vl1 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Kick vl1 rr3.flac
+
+
+<group>key=36 lovel=30 hivel=59 volume=-0.5 seq_length=3
+<region>seq_position=1 sample=SLI Drum Kit/SL Kick vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Kick vl2 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Kick vl2 rr3.flac
+
+<group>key=36 lovel=60 hivel=89 volume=-0.5 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Kick vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Kick vl3 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Kick vl3 rr3.flac
+
+<group>key=36 lovel=90 hivel=109 volume=-0.5 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Kick vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Kick vl4 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Kick vl4 rr3.flac
+
+<group>key=36 lovel=110 hivel=127 volume=-0.5 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Kick vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Kick vl5 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Kick vl5 rr3.flac
+
+
+
+//SL Snare Rim
+<group>key=37 lovel=1 hivel=29 volume=5 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Rim vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Rim vl1 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Snare Rim vl1 rr3.flac
+
+<group>key=37 lovel=30 hivel=59 volume=5 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Rim vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Rim vl2 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Snare Rim vl2 rr3.flac
+
+<group>key=37 lovel=60 hivel=89 volume=5 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Rim vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Rim vl3 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Snare Rim vl3 rr3.flac
+
+<group>key=37 lovel=90 hivel=109 volume=5 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Rim vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Rim vl4 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Snare Rim vl4 rr3.flac
+
+<group>key=37 lovel=110 hivel=127 volume=5 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Rim vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Rim vl5 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Snare Rim vl5 rr3.flac
+
+//SL Snare Hit 
+<group>key=38 lovel=1 hivel=29 volume=5 seq_length=3
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Hit vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Hit vl1 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Snare Hit vl1 rr3.flac
+
+<group>key=38 lovel=30 hivel=59 volume=5 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Hit vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Hit vl2 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Snare Hit vl2 rr3.flac
+
+<group>key=38 lovel=60 hivel=89 volume=5 seq_length=3
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Hit vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Hit vl3 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Snare Hit vl3 rr3.flac
+
+<group>key=38 lovel=90 hivel=109 volume=5 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Hit vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Hit vl4 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Snare Hit vl4 rr3.flac
+
+<group>key=38 lovel=110 hivel=127 volume=5 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Hit vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Hit vl5 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Snare Hit vl5 rr3.flac
+
+
+//SL Snare Drag
+<group>key=39 lovel=1 hivel=29 volume=5 seq_length=2 
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Drag vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Drag vl1 rr2.flac
+
+<group>key=39 lovel=30 hivel=59 volume=6 seq_length=2 
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Drag vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Drag vl2 rr2.flac
+
+<group>key=39 lovel=60 hivel=89 volume=7 seq_length=2 
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Drag vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Drag vl3 rr2.flac
+
+<group>key=39 lovel=90 hivel=109 volume=8 seq_length=2
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Drag vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Drag vl4 rr2.flac
+
+<group>key=39 lovel=110 hivel=127 volume=9 seq_length=2
+<region>seq_position=1 sample=SLI Drum Kit/SL Snare Drag vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Snare Drag vl5 rr2.flac
+
+
+//SL Snare Flam
+<group>key=40 
+<region>sample=SLI Drum Kit/SL Snare Flam vl1.flac lovel=1 hivel=29    volume=-3
+<region>sample=SLI Drum Kit/SL Snare Flam vl2.flac lovel=30 hivel=59   volume=-1
+<region>sample=SLI Drum Kit/SL Snare Flam vl3.flac lovel=60 hivel=89   volume=1
+<region>sample=SLI Drum Kit/SL Snare Flam vl4.flac lovel=90 hivel=109  volume=3
+<region>sample=SLI Drum Kit/SL Snare Flam vl4.flac lovel=110 hivel=127 volume=5
+
+
+//SL Floor Tom 1 tuned down 
+<group>key=41 lovel=1 hivel=29 seq_length=3 tune=-300 volume=1
+<region>seq_position=1 sample=SLI Drum Kit/SL Floor Tom vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Floor Tom vl1 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Floor Tom vl1 rr3.flac
+
+<group>key=41 lovel=30 hivel=59   seq_length=3 tune=-300 volume=1
+<region>seq_position=1 sample=SLI Drum Kit/SL Floor Tom vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Floor Tom vl2 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Floor Tom vl2 rr3.flac
+
+<group>key=41 lovel=60 hivel=89   seq_length=3 tune=-300 volume=1
+<region>seq_position=1 sample=SLI Drum Kit/SL Floor Tom vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Floor Tom vl3 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Floor Tom vl3 rr3.flac
+
+<group>key=41 lovel=90 hivel=109  seq_length=3 tune=-300 volume=1
+<region>seq_position=1 sample=SLI Drum Kit/SL Floor Tom vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Floor Tom vl4 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Floor Tom vl4 rr3.flac
+
+<group>key=41 lovel=110 hivel=127 seq_length=3 tune=-300 volume=1
+<region>seq_position=1 sample=SLI Drum Kit/SL Floor Tom vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Floor Tom vl5 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Floor Tom vl5 rr3.flac
+
+//SL HH Closed 
+<group>key=42 lovel=1 hivel=29 volume=-6.25  group=2  off_mode=normal seq_length=3
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Closed vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Closed vl1 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hat Closed vl1 rr3.flac
+
+<group>key=42 lovel=30 hivel=59 volume=-6.25   group=2  off_mode=normal seq_length=3
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Closed vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Closed vl2 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hat Closed vl2 rr3.flac
+
+<group>key=42 lovel=60 hivel=89 volume=-6.25   group=2  off_mode=normal seq_length=3
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Closed vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Closed vl3 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hat Closed vl3 rr3.flac
+ 
+<group>key=42 lovel=90 hivel=109 volume=-6.25  group=2  off_mode=normal seq_length=3
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Closed vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Closed vl4 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hat Closed vl4 rr3.flac
+
+<group>key=42 lovel=110 hivel=127 volume=-6.25 group=2  off_mode=normal seq_length=3
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Closed vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Closed vl5 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hat Closed vl5 rr3.flac
+
+
+//SL Floor Tom 1
+<group>key=43 lovel=1 hivel=29    seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Floor Tom vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Floor Tom vl1 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Floor Tom vl1 rr3.flac
+
+<group>key=43 lovel=30 hivel=59   seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Floor Tom vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Floor Tom vl2 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Floor Tom vl2 rr3.flac
+
+<group>key=43 lovel=60 hivel=89   seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Floor Tom vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Floor Tom vl3 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Floor Tom vl3 rr3.flac
+
+<group>key=43 lovel=90 hivel=109  seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Floor Tom vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Floor Tom vl4 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Floor Tom vl4 rr3.flac
+
+<group>key=43 lovel=110 hivel=127 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Floor Tom vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Floor Tom vl5 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Floor Tom vl5 rr3.flac
+
+
+//HH1 Half  
+<group>key=44 lovel=1 hivel=29 volume=-6.25 group=3 off_by=2 off_mode=normal seq_length=4 
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Half vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Half vl1 rr2.flac
+
+<group>key=44 lovel=30 hivel=59 volume=-6.25 group=3 off_by=2 off_mode=normal seq_length=4
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Half vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Half vl2 rr2.flac
+
+<group>key=44 lovel=60 hivel=89 volume=-6.25  group=3 off_by=2 off_mode=normal seq_length=4
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Half vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Half vl3 rr2.flac
+ 
+<group>key=44 lovel=90 hivel=109 volume=-6.25  group=3 off_by=2 off_mode=normal seq_length=4
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Half vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Half vl4 rr2.flac
+
+<group>key=44 lovel=110 hivel=127 volume=-6.25 group=3 off_by=2 off_mode=normal seq_length=4
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Half vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Half vl5 rr2.flac
+
+
+//SL Mid Tom tuned down 
+<group>key=45 lovel=1 hivel=29    seq_length=3 tune=-300
+<region>seq_position=1 sample=SLI Drum Kit/SL Mid Tom vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Mid Tom vl1 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Mid Tom vl1 rr3.flac
+
+<group>key=45 lovel=30 hivel=59   seq_length=3 tune=-300
+<region>seq_position=1 sample=SLI Drum Kit/SL Mid Tom vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Mid Tom vl2 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Mid Tom vl2 rr3.flac
+
+<group>key=45 lovel=60 hivel=89  seq_length=3 tune=-300
+<region>seq_position=1 sample=SLI Drum Kit/SL Mid Tom vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Mid Tom vl3 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Mid Tom vl3 rr3.flac
+
+<group>key=45 lovel=90 hivel=109 seq_length=3 tune=-300
+<region>seq_position=1 sample=SLI Drum Kit/SL Mid Tom vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Mid Tom vl4 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Mid Tom vl4 rr3.flac
+
+<group>key=45 lovel=110 hivel=127  seq_length=3 tune=-300
+<region>seq_position=1 sample=SLI Drum Kit/SL Mid Tom vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Mid Tom vl5 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Mid Tom vl5 rr3.flac
+
+
+//HH1 Open 
+<group>key=46 lovel=1 hivel=29    volume=-6.25 group=3 off_by=2 off_mode=normal seq_length=2 
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Open vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Open vl1 rr1.flac
+
+<group>key=46 lovel=30 hivel=59   volume=-6.25 group=3 off_by=2 off_mode=normal seq_length=2
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Open vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Open vl2 rr1.flac
+
+<group>key=46 lovel=60 hivel=89   volume=-6.25 group=3 off_by=2 off_mode=normal seq_length=2
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Open vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Open vl3 rr1.flac
+
+<group>key=46 lovel=90 hivel=109  volume=-6.25 group=3 off_by=2 off_mode=normal seq_length=2
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Open vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Open vl4 rr1.flac
+
+<group>key=46 lovel=110 hivel=127 volume=-6.25 group=3 off_by=2 off_mode=normal seq_length=2
+<region>seq_position=1 sample=SLI Drum Kit/SL Hat Open vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hat Open vl5 rr1.flac
+
+
+//Hi Tom 1
+<group>key=47 lovel=1 hivel=29 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Mid Tom vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Mid Tom vl1 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Mid Tom vl1 rr3.flac
+
+<group>key=47 lovel=30 hivel=59 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Mid Tom vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Mid Tom vl2 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Mid Tom vl2 rr3.flac
+
+<group>key=47 lovel=60 hivel=89 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Mid Tom vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Mid Tom vl3 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Mid Tom vl3 rr3.flac
+
+<group>key=47 lovel=90 hivel=109 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Mid Tom vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Mid Tom vl4 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Mid Tom vl4 rr3.flac
+
+<group>key=47 lovel=110 hivel=127  seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Mid Tom vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Mid Tom vl5 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Mid Tom vl5 rr3.flac
+
+
+//SL Hi Tom 
+<group>key=48 lovel=1 hivel=29    seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Hi Tom vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hi Tom vl1 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hi Tom vl1 rr3.flac
+
+<group>key=48 lovel=30 hivel=59   seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Hi Tom vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hi Tom vl2 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hi Tom vl2 rr3.flac
+
+<group>key=48 lovel=60 hivel=89   seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Hi Tom vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hi Tom vl3 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hi Tom vl3 rr3.flac
+
+<group>key=48 lovel=90 hive=109  seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Hi Tom vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hi Tom vl4 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hi Tom vl4 rr3.flac
+
+<group>key=48 lovel=110 hivel=127 seq_length=3 
+<region>seq_position=1 sample=SLI Drum Kit/SL Hi Tom vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hi Tom vl5 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hi Tom vl5 rr3.flac
+
+//SL Crash 1
+<group>key=49    
+<region>sample=SLI Drum Kit/SL Crash 1 vl1.flac lovel=1 hivel=29
+<region>sample=SLI Drum Kit/SL Crash 1 vl2.flac lovel=30 hivel=59
+<region>sample=SLI Drum Kit/SL Crash 1 vl3.flac lovel=60 hivel=89
+<region>sample=SLI Drum Kit/SL Crash 1 vl4.flac lovel=90 hivel=109
+<region>sample=SLI Drum Kit/SL Crash 1 vl5.flac lovel=110 hivel=127
+
+//SL Hi Tom tuned up
+<group>key=50lovel=1 hivel=29  seq_length=3 tune=+300
+<region>seq_position=1 sample=SLI Drum Kit/SL Hi Tom vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hi Tom vl1 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hi Tom vl1 rr3.flac
+
+<group>key=50 lovel=30 hivel=59  seq_length=3 tune=+300
+<region>seq_position=1 sample=SLI Drum Kit/SL Hi Tom vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hi Tom vl2 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hi Tom vl2 rr3.flac
+
+<group>key=50 lovel=60 hivel=89 seq_length=3 tune=+300
+<region>seq_position=1 sample=SLI Drum Kit/SL Hi Tom vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hi Tom vl3 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hi Tom vl3 rr3.flac
+
+<group>key=50 lovel=90 hive=109  seq_length=3 tune=+300
+<region>seq_position=1 sample=SLI Drum Kit/SL Hi Tom vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hi Tom vl4 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hi Tom vl4 rr3.flac
+
+<group>key=50 lovel=110 hivel=127 seq_length=3 tune=+300
+<region>seq_position=1 sample=SLI Drum Kit/SL Hi Tom vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Hi Tom vl5 rr2.flac
+<region>seq_position=3 sample=SLI Drum Kit/SL Hi Tom vl5 rr3.flac
+
+
+//SL Ride  
+<group>key=51 lovel=1 hivel=29   volume=-4  seq_length=2 
+<region>seq_position=1 sample=SLI Drum Kit/SL Ride vl1 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Ride vl1 rr2.flac
+
+<group>key=51 lovel=30 hivel=59  volume=-4 seq_length=2 
+<region>seq_position=1 sample=SLI Drum Kit/SL Ride vl2 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Ride vl2 rr2.flac
+
+<group>key=51 lovel=60 hivel=89  volume=-4 seq_length=2 
+<region>seq_position=1 sample=SLI Drum Kit/SL Ride vl3 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Ride vl3 rr2.flac
+
+<group>key=51 lovel=90 hivel=109 volume=-4 seq_length=2 
+<region>seq_position=1 sample=SLI Drum Kit/SL Ride vl4 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Ride vl4 rr2.flac
+
+<group>key=51 lovel=110 hivel=127 volume=-4 seq_length=2 
+<region>seq_position=1 sample=SLI Drum Kit/SL Ride vl5 rr1.flac
+<region>seq_position=2 sample=SLI Drum Kit/SL Ride vl5 rr2.flac
+
+//SL China (crash 1 tuned down) 
+<group>key=52  tune=-1200  volume=-12
+<region>sample=SLI Drum Kit/SL Crash 1 vl1.flac lovel=1 hivel=29
+<region>sample=SLI Drum Kit/SL Crash 1 vl2.flac lovel=30 hivel=59
+<region>sample=SLI Drum Kit/SL Crash 1 vl3.flac lovel=60 hivel=89
+<region>sample=SLI Drum Kit/SL Crash 1 vl4.flac lovel=90 hivel=109
+<region>sample=SLI Drum Kit/SL Crash 1 vl5.flac lovel=110 hivel=127
+
+//Ride Bell 1
+<group>key=53 volume=-5  
+<region>sample=SLI Drum Kit/SL Ride Bell vl1.flac lovel=1 hivel=29
+<region>sample=SLI Drum Kit/SL Ride Bell vl2.flac lovel=30 hivel=59
+<region>sample=SLI Drum Kit/SL Ride Bell vl3.flac lovel=60 hivel=89
+<region>sample=SLI Drum Kit/SL Ride Bell vl4.flac lovel=90 hivel=109
+<region>sample=SLI Drum Kit/SL Ride Bell vl5.flac lovel=110 hivel=127
+
+//Splash (Cym 1 tuned up)
+<group>key=55 tune=780
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl1.flac lovel=1 hivel=29
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl2.flac lovel=30 hivel=59
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl3.flac lovel=60 hivel=89
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl4.flac lovel=90 hivel=109
+<region>sample=SLI Drum Kit/SLVTL Cym 2 vl5.flac lovel=110 hivel=127
+
+
+

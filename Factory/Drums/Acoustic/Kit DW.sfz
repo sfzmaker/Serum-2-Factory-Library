@@ -1,0 +1,531 @@
+// DW
+// Serum 2 Factory Content
+// By Shreddward
+
+
+<global>
+loop_mode=one_shot
+ampeg_attack=0
+ampeg_release=0.500
+amp_veltrack=0
+
+
+//DW Kick 1 tuned down 
+<group>key=35 lovel=1 hivel=29  seq_length=2 tune=-400
+<region>seq_position=1 sample=DW Drum Kit/DW Kick 1 vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Kick 1 vl1 rr2.flac
+
+<group>key=35 lovel=30 hivel=59  seq_length=4 tune=-400
+<region>seq_position=1 sample=DW Drum Kit/DW Kick 1 vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Kick 1 vl2 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Kick 1 vl2 rr3.flac
+<region>seq_position=4 sample=DW Drum Kit/DW Kick 1 vl2 rr4.flac volume=-2
+
+<group>key=35 lovel=60 hivel=89  seq_length=3 tune=-400
+<region>seq_position=1 sample=DW Drum Kit/DW Kick 1 vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Kick 1 vl3 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Kick 1 vl3 rr3.flac
+
+<group>key=35 lovel=90 hivel=109 seq_length=4 tune=-400
+<region>seq_position=1 sample=DW Drum Kit/DW Kick 1 vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Kick 1 vl4 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Kick 1 vl4 rr3.flac
+<region>seq_position=4 sample=DW Drum Kit/DW Kick 1 vl4 rr4.flac
+
+<group>key=35 lovel=110 hivel=127 seq_length=5 tune=-400
+<region>seq_position=1 sample=DW Drum Kit/DW Kick 1 vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Kick 1 vl5 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Kick 1 vl5 rr3.flac
+<region>seq_position=4 sample=DW Drum Kit/DW Kick 1 vl5 rr4.flac
+<region>seq_position=5 sample=DW Drum Kit/DW Kick 1 vl5 rr5.flac
+
+
+// DW Kick 1  
+<group>key=36 lovel=1 hivel=29    seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Kick 1 vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Kick 1 vl1 rr2.flac
+
+<group>key=36 lovel=30 hivel=59   seq_length=4
+<region>seq_position=1 sample=DW Drum Kit/DW Kick 1 vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Kick 1 vl2 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Kick 1 vl2 rr3.flac
+<region>seq_position=4 sample=DW Drum Kit/DW Kick 1 vl2 rr4.flac volume=-2
+
+<group>key=36 lovel=60 hivel=89   seq_length=3 
+<region>seq_position=1 sample=DW Drum Kit/DW Kick 1 vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Kick 1 vl3 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Kick 1 vl3 rr3.flac
+
+<group>key=36 lovel=90 hivel=109  seq_length=4
+<region>seq_position=1 sample=DW Drum Kit/DW Kick 1 vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Kick 1 vl4 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Kick 1 vl4 rr3.flac
+<region>seq_position=4 sample=DW Drum Kit/DW Kick 1 vl4 rr4.flac
+
+<group>key=36 lovel=110 hivel=127 seq_length=5 
+<region>seq_position=1 sample=DW Drum Kit/DW Kick 1 vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Kick 1 vl5 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Kick 1 vl5 rr3.flac
+<region>seq_position=4 sample=DW Drum Kit/DW Kick 1 vl5 rr4.flac
+<region>seq_position=5 sample=DW Drum Kit/DW Kick 1 vl5 rr5.flac
+
+
+
+//DW Rim Shot
+<group>key=37 lovel=1 hivel=29  seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Rim vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Rim vl1 rr2.flac
+
+<group>key=37 lovel=30 hivel=59  seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Rim vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Rim vl2 rr2.flac
+
+<group>key=37 lovel=60 hivel=89  seq_length=2
+<region>seq_position=1 sample=DW Drum Kit/DW Rim vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Rim vl3 rr2.flac
+
+<group>key=37 lovel=90 hivel=109 seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Rim vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Rim vl4 rr2.flac
+
+<group>key=37 lovel=110 hivel=127 seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Rim vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Rim vl5 rr2.flac
+
+
+
+//DW Snare 1 tuned down 
+<group>key=38 lovel=1 hivel=29 seq_length=5   
+<region>seq_position=1 sample=DW Drum Kit/DW Snare 1 vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare 1 vl1 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare 1 vl1 rr3.flac
+<region>seq_position=4 sample=DW Drum Kit/DW Snare 1 vl1 rr4.flac
+<region>seq_position=5 sample=DW Drum Kit/DW Snare 1 vl1 rr5.flac
+
+<group>key=38 lovel=30 hivel=59 seq_length=4  
+<region>seq_position=1 sample=DW Drum Kit/DW Snare 1 vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare 1 vl2 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare 1 vl2 rr3.flac
+<region>seq_position=4 sample=DW Drum Kit/DW Snare 1 vl2 rr4.flac
+
+<group>key=38 lovel=60 hivel=89 seq_length=3  
+<region>seq_position=1 sample=DW Drum Kit/DW Snare 1 vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare 1 vl3 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare 1 vl3 rr3.flac
+
+<group>key=38 lovel=90 hivel=109 seq_length=3  
+<region>seq_position=1 sample=DW Drum Kit/DW Snare 1 vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare 1 vl4 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare 1 vl4 rr3.flac
+
+<group>key=38 lovel=110 hivel=127 seq_length=4 
+<region>seq_position=1 sample=DW Drum Kit/DW Snare 1 vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare 1 vl5 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare 1 vl5 rr3.flac
+<region>seq_position=4 sample=DW Drum Kit/DW Snare 1 vl5 rr4.flac
+
+//DW Snare Drag 1
+
+<group>key=39 lovel=1 hivel=29 seq_length=3 
+<region>seq_position=1 sample=DW Drum Kit/DW Snare Drag 1 vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare Drag 1 vl1 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare Drag 1 vl1 rr3.flac
+
+<group>key=39 lovel=30 hivel=59 seq_length=3 
+<region>seq_position=1 sample=DW Drum Kit/DW Snare Drag 1 vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare Drag 1 vl2 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare Drag 1 vl2 rr3.flac
+
+<group>key=39 lovel=60 hivel=89 seq_length=3 
+<region>seq_position=1 sample=DW Drum Kit/DW Snare Drag 1 vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare Drag 1 vl3 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare Drag 1 vl3 rr3.flac
+
+<group>key=39 lovel=90 hivel=109 seq_length=3 
+<region>seq_position=1 sample=DW Drum Kit/DW Snare Drag 1 vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare Drag 1 vl4 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare Drag 1 vl4 rr3.flac
+
+<group>key=39 lovel=110 hivel=127 seq_length=3 
+<region>seq_position=1 sample=DW Drum Kit/DW Snare Drag 1 vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare Drag 1 vl5 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare Drag 1 vl5 rr3.flac
+
+
+//DW Snare 1 
+<group>key=40 lovel=1 hivel=29 seq_length=5 tune=20 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW Snare 1 vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare 1 vl1 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare 1 vl1 rr3.flac
+<region>seq_position=4 sample=DW Drum Kit/DW Snare 1 vl1 rr4.flac
+<region>seq_position=5 sample=DW Drum Kit/DW Snare 1 vl1 rr5.flac
+
+<group>key=40 lovel=30 hivel=59 seq_length=4 tune=20 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW Snare 1 vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare 1 vl2 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare 1 vl2 rr3.flac
+<region>seq_position=4 sample=DW Drum Kit/DW Snare 1 vl2 rr4.flac
+
+<group>key=40 lovel=60 hivel=89 seq_length=3 tune=20 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW Snare 1 vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare 1 vl3 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare 1 vl3 rr3.flac
+
+<group>key=40 lovel=90 hivel=109 seq_length=3 tune=20 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW Snare 1 vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare 1 vl4 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare 1 vl4 rr3.flac
+
+<group>key=40 lovel=110 hivel=127 seq_length=4 tune=20 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW Snare 1 vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Snare 1 vl5 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW Snare 1 vl5 rr3.flac
+<region>seq_position=4 sample=DW Drum Kit/DW Snare 1 vl5 rr4.flac
+
+
+
+//DW Tom Floor 1
+<group>key=41 lovel=1 hivel=29 seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Floor vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Floor vl1 rr2.flac
+
+<group>key=41 lovel=30 hivel=59 seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Floor vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Floor vl2 rr2.flac
+
+<group>key=41 lovel=60 hivel=89 seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Floor vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Floor vl3 rr2.flac
+
+<group>key=41 lovel=90 hivel=109  seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Floor vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Floor vl4 rr2.flac
+
+<group>key=41 lovel=110 hivel=127 seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Floor vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Floor vl5 rr2.flac
+
+
+//DW HH Closed 
+<group>key=42 lovel=1 hivel=29 group=2 off_mode=normal seq_length=3 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Closed vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW HH1 Closed vl1 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW HH1 Closed vl1 rr3.flac
+
+<group>key=42 lovel=30 hivel=59 group=2 off_mode=normal seq_length=3 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Closed vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW HH1 Closed vl2 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW HH1 Closed vl2 rr3.flac
+
+<group>key=42 lovel=60 hivel=89 group=2 off_mode=normal seq_length=3 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Closed vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW HH1 Closed vl3 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW HH1 Closed vl3 rr3.flac
+
+ <group>key=42 lovel=90 hivel=109 group=2 off_mode=normal seq_length=3 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Closed vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW HH1 Closed vl4 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW HH1 Closed vl4 rr3.flac
+
+<group>key=42 lovel=110 hivel=127 group=2 off_mode=normal seq_length=3 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Closed vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW HH1 Closed vl5 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW HH1 Closed vl5 rr3.flac
+
+
+//DW Tom Floor 2
+<group>key=43 lovel=1 hivel=29 seq_length=2 tune=500
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Floor vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Floor vl1 rr2.flac
+
+<group>key=43 lovel=30 hivel=59 seq_length=2 tune=500
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Floor vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Floor vl2 rr2.flac
+
+<group>key=43 lovel=60 hivel=89 seq_length=2 tune=500
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Floor vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Floor vl3 rr2.flac
+
+<group>key=43 lovel=90 hivel=109  seq_length=2 tune=500
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Floor vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Floor vl4 rr2.flac
+
+<group>key=43 lovel=110 hivel=127 seq_length=2 tune=500
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Floor vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Floor vl5 rr2.flac
+
+
+//DW HH1 Half  
+<group>key=44 lovel=1 hivel=29 group=3 off_by=2 off_mode=normal seq_length=3 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Half vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW HH1 Half vl1 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW HH1 Half vl1 rr3.flac
+
+<group>key=44 lovel=30 hivel=59 group=3 off_by=2 off_mode=normal seq_length=3 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Half vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW HH1 Half vl2 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW HH1 Half vl2 rr3.flac
+
+<group>key=44 lovel=60 hivel=89 group=3 off_by=2 off_mode=normal seq_length=3 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Half vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW HH1 Half vl3 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW HH1 Half vl3 rr3.flac
+ 
+<group>key=44 lovel=90 hivel=109 group=3 off_by=2 off_mode=normal seq_length=3 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Half vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW HH1 Half vl4 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW HH1 Half vl4 rr3.flac
+
+<group>key=44 lovel=110 hivel=127 group=3 off_by=2 off_mode=normal seq_length=3 volume=3
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Half vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW HH1 Half vl5 rr2.flac
+<region>seq_position=3 sample=DW Drum Kit/DW HH1 Half vl5 rr3.flac
+
+
+//DW Tom Hi 1
+<group>key=45 lovel=1 hivel=29 seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl1 rr2.flac
+
+<group>key=45 lovel=30 hivel=59 seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl2 rr2.flac
+
+<group>key=45 lovel=60 hivel=89 seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl3 rr2.flac
+
+<group>key=45 lovel=90 hivel=109 seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl4 rr2.flac
+
+<group>key=45 lovel=110 hivel=127 seq_length=2 
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl5 rr2.flac
+
+
+
+
+//HH1 Open 
+<group>key=46 lovel=1 hivel=29       group=3 off_by=2 off_mode=normal
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Open vl1.flac 
+
+<group>key=46 lovel=30 hivel=59      group=3 off_by=2 off_mode=normal  
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Open vl2.flac
+
+<group>key=46 lovel=60 hivel=89      group=3 off_by=2 off_mode=normal  
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Open vl3.flac
+
+<group>key=46 lovel=90 hivel=109     group=3 off_by=2 off_mode=normal 
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Open vl4.flac
+
+<group>key=46 lovel=110 hivel=127    group=3 off_by=2 off_mode=normal  
+<region>seq_position=1 sample=DW Drum Kit/DW HH1 Open vl5.flac
+
+
+
+
+//DW Hi Tom 1
+<group>key=47 lovel=1 hivel=29            seq_length=2 tune=300
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl1 rr2.flac
+
+<group>key=47 lovel=30 hivel=59           seq_length=2 tune=300
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl2 rr2.flac
+
+<group>key=47 lovel=60 hivel=89           seq_length=2 tune=300
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl3 rr2.flac
+
+<group>key=47 lovel=90 hivel=109          seq_length=2 tune=300
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl4 rr2.flac
+
+<group>key=47 lovel=110 hivel=127         seq_length=2 tune=300
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl5 rr2.flac
+
+
+
+//DW Hi Tom 1 (tuned up)
+<group>key=48 lovel=1 hivel=29 seq_length=2 tune=600
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl1 rr2.flac
+
+<group>key=48 lovel=30 hivel=59 seq_length=2 tune=600
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl2 rr2.flac
+
+<group>key=48 lovel=60 hivel=89 seq_length=2 tune=600
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl3 rr2.flac
+
+<group>key=48 lovel=90 hivel=109 seq_length=2 tune=600
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl4 rr2.flac
+
+<group>key=48 lovel=110 hivel=127 seq_length=2 tune=600
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl5 rr2.flac
+
+
+//DW Cym 1 
+<group>key=49
+<region>sample=DW Drum Kit/DW Cym 1 vl1.flac lovel=1 hivel=29
+<region>sample=DW Drum Kit/DW Cym 1 vl2.flac lovel=30 hivel=59   
+<region>sample=DW Drum Kit/DW Cym 1 vl3.flac lovel=60 hivel=89  
+<region>sample=DW Drum Kit/DW Cym 1 vl4.flac lovel=90 hivel=109 
+<region>sample=DW Drum Kit/DW Cym 1 vl5.flac lovel=110 hivel=127 
+
+
+//DW Tom Hi 
+<group>key=50 lovel=1 hivel=29 seq_length=2 tune=900
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl1 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl1 rr2.flac
+
+
+<group>key=50 lovel=30 hivel=59 seq_length=2 tune=900
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl2 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl2 rr2.flac
+
+<group>key=50 lovel=60 hivel=89 seq_length=2 tune=900
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl3 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl3 rr2.flac
+
+<group>key=50 lovel=90 hivel=109 seq_length=2 tune=900
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl4 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl4 rr2.flac
+
+<group>key=50 lovel=110 hivel=127 seq_length=2 tune=900
+<region>seq_position=1 sample=DW Drum Kit/DW Tom Hi 1 vl5 rr1.flac
+<region>seq_position=2 sample=DW Drum Kit/DW Tom Hi 1 vl5 rr2.flac
+
+
+//Ride 1 
+<group>key=51 lovel=1 hivel=29    volume=-6  seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride 1 vl1 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride 1 vl1 rr2.flac
+
+<group>key=51 lovel=30 hivel=59    volume=-6 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride 1 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride 1 vl2 rr2.flac
+
+<group>key=51 lovel=60 hivel=89    volume=-6 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride 1 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride 1 vl3 rr2.flac
+
+<group>key=51 lovel=90 hivel=109   volume=-6 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride 1 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride 1 vl4 rr2.flac
+
+<group>key=51 lovel=110 hivel=127  volume=-6 seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride 1 vl5 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride 1 vl5 rr2.flac
+
+
+<group>key=52 
+<region>sample=DW Drum Kit/DW Cym 2 vl1.flac lovel=1 hivel=29 
+<region>sample=DW Drum Kit/DW Cym 2 vl2.flac lovel=30 hivel=59 
+<region>sample=DW Drum Kit/DW Cym 2 vl3.flac lovel=60 hivel=89  
+<region>sample=DW Drum Kit/DW Cym 2 vl4.flac lovel=90 hivel=109 
+<region>sample=DW Drum Kit/DW Cym 2 vl5.flac lovel=110 hivel=127 
+
+
+//Ride Bell 1
+<group>key=53 lovel=1 hivel=29    volume=-9  
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride Bell 1 vl1.flac 	
+
+<group>key=53 lovel=30 hivel=59   volume=-9   seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride Bell 1 vl2 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride Bell 1 vl2 rr2.flac
+
+<group>key=53 lovel=60 hivel=89   volume=-9   seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride Bell 1 vl3 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride Bell 1 vl3 rr2.flac
+
+<group>key=53 lovel=90 hivel=109  volume=-9   seq_length=2 
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride Bell 1 vl4 rr1.flac
+<region>seq_position=2 sample=VTL Drum Kit/VTL Ride Bell 1 vl4 rr2.flac
+
+<group>key=53 lovel=110 hivel=127 volume=-9   
+<region>seq_position=1 sample=VTL Drum Kit/VTL Ride Bell 1 vl5.flac 
+
+
+
+//Cowbell 1 
+<group>key=54 lovel=1 hivel=29   volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell 1 vl1.flac
+
+<group>key=54 lovel=30 hivel=59    volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell 1 vl2.flac
+
+<group>key=54 lovel=60 hivel=89  volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell 1 vl3.flac
+
+<group>key=54 lovel=90 hivel=109  volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell 1 vl4.flac
+
+<group>key=54 lovel=110 hivel=127   volume=-9    
+<region>sample=VTL Drum Kit/VTL Cowbell 1 vl5.flac
+
+
+//Splash (Cym 1 tuned up)
+<group>key=55 lovel=1 hivel=29 
+<region>sample=VTL Drum Kit/VTL Cym 1 vl1.flac
+
+<group>key=55 lovel=30 hivel=59   
+<region>sample=VTL Drum Kit/VTL Cym 1 vl2.flac
+
+<group>key=55 lovel=60 hivel=89
+<region>sample=VTL Drum Kit/VTL Cym 1 vl3.flac
+
+<group>key=55 lovel=90 hivel=109
+<region>sample=VTL Drum Kit/VTL Cym 1 vl4.flac
+
+<group>key=55 lovel=110 hivel=127 
+<region>sample=VTL Drum Kit/VTL Cym 1 vl5.flac
+
+
+//Cowbell 1 tuned up
+<group>key=56 lovel=1 hivel=29 tune=700  volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell vl1.flac
+
+<group>key=56 lovel=30 hivel=59 tune=700  volume=-9    
+<region>sample=VTL Drum Kit/VTL Cowbell vl2.flac
+
+<group>key=56 lovel=60 hivel=89 tune=700 volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell vl3.flac
+
+<group>key=56 lovel=90 hivel=109 tune=700 volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell vl4.flac
+
+<group>key=56 lovel=110 hivel=127 tune=700  volume=-9    
+<region>sample=VTL Drum Kit/VTL Cowbell vl5.flac
+
+
+
+//Cowbell 1 tune up +1200
+<group>key=58 lovel=1 hivel=29 tune=1200  volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell vl1.flac
+
+<group>key=58 lovel=30 hivel=59 tune=1200  volume=-9    
+<region>sample=VTL Drum Kit/VTL Cowbell vl2.flac
+
+<group>key=58 lovel=60 hivel=89 tune=1200 volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell vl3.flac
+
+<group>key=58 lovel=90 hivel=109 tune=1200 volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell vl4.flac
+
+<group>key=58 lovel=110 hivel=127 tune=1200   volume=-9   
+<region>sample=VTL Drum Kit/VTL Cowbell vl5.flac
+
+
+
+
+
+
+
+
+

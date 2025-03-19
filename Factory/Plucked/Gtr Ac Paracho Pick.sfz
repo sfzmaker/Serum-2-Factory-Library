@@ -1,0 +1,74 @@
+// Guitar Acoustic Paracho Pick
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+ampeg_attack=0
+ampeg_release=0.500
+volume=4
+amp_veltrack=0.0001
+
+<region>
+sample=Paracho Samples/XFParachop E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+tune=1
+
+<region>
+sample=Paracho Samples/XFParachop G1.flac
+pitch_keycenter=43
+lokey=42 hikey=47
+tune=-1
+
+<region>
+sample=Paracho Samples/XFParachop E2.flac
+pitch_keycenter=52
+lokey=48 hikey=52
+
+<region>
+sample=Paracho Samples/XFParachop F#2.flac
+pitch_keycenter=54
+lokey=53 hikey=56
+tune=-3
+
+<region>
+sample=Paracho Samples/XFParachop B2.flac
+pitch_keycenter=59
+lokey=57 hikey=61
+tune=-2
+
+<region>
+sample=Paracho Samples/XFParachop E3.flac
+pitch_keycenter=64
+lokey=62 hikey=64
+tune=-12
+
+<region>
+sample=Paracho Samples/XFParachop F3.flac
+pitch_keycenter=65
+lokey=65 hikey=66
+tune=-13
+
+<region>
+sample=Paracho Samples/XFParachop G3.flac
+pitch_keycenter=67
+lokey=67 hikey=71
+tune=-8
+
+<region>
+sample=Paracho Samples/XFParachop E4.flac
+pitch_keycenter=76
+lokey=72 hikey=77
+tune=-6
+
+<region>
+sample=Paracho Samples/XFParachop G4.flac
+pitch_keycenter=79
+lokey=78 hikey=80
+tune=-11
+
+<region>
+sample=Paracho Samples/XFParachop A#4.flac
+pitch_keycenter=82
+lokey=81 hikey=127
+tune=-13

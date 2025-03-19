@@ -1,0 +1,258 @@
+// DUP Live Kit
+// Serum 2 Factory Content
+// Creator: Shreddward
+
+<global>loop_mode=one_shot
+
+//kick1 tune down
+<group>key=35 lovel=1 hivel=80 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Kick vl1 rr1.flac tune=-500
+<region>seq_position=2 sample=DUP Live kit/Kick vl1 rr2.flac tune=-500
+<region>seq_position=3 sample=DUP Live kit/Kick vl1 rr3.flac tune=-500
+<region>seq_position=4 sample=DUP Live kit/Kick vl1 rr4.flac tune=-500
+
+<group>key=35 lovel=81 hivel=109 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Kick vl2 rr1.flac tune=-500
+<region>seq_position=2 sample=DUP Live kit/Kick vl2 rr2.flac tune=-500
+<region>seq_position=3 sample=DUP Live kit/Kick vl2 rr3.flac tune=-500
+<region>seq_position=4 sample=DUP Live kit/Kick vl2 rr4.flac tune=-500
+
+<group>key=35 lovel=110 hivel=127 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Kick vl3 rr1.flac tune=-500
+<region>seq_position=2 sample=DUP Live kit/Kick vl3 rr2.flac tune=-500
+<region>seq_position=3 sample=DUP Live kit/Kick vl3 rr3.flac tune=-500
+<region>seq_position=4 sample=DUP Live kit/Kick vl3 rr4.flac tune=-500
+
+
+//Kick1 Normal
+<group>key=36 lovel=1 hivel=80 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Kick vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Kick vl1 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Kick vl1 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Kick vl1 rr4.flac
+
+<group>key=36 lovel=81 hivel=109 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Kick vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Kick vl2 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Kick vl2 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Kick vl2 rr4.flac
+
+<group>key=36 lovel=110 hivel=127 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Kick vl3 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Kick vl3 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Kick vl3 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Kick vl3 rr4.flac
+
+//side stick
+<group>key=37 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Side Stick rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Side Stick rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Side Stick rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Side Stick rr4.flac
+
+//Snare Thick
+<group>key=38 lovel=1 hivel=50 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Snare Thick vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Snare Thick vl1 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Snare Thick vl1 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Snare Thick vl1 rr4.flac
+
+<group>key=38 lovel=51 hivel=109 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Snare Thick vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Snare Thick vl2 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Snare Thick vl2 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Snare Thick vl2 rr4.flac
+
+<group>key=38 lovel=110 hivel=127 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Snare Thick vl3 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Snare Thick vl3 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Snare Thick vl3 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Snare Thick vl3 rr4.flac
+
+//Side Stick 2
+<group>key=39 seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Side Stick 2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Side Stick 2 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Side Stick 2 rr3.flac
+
+
+//Snare2
+<group>key=40 lovel=1 hivel=50 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Snare vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Snare vl1 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Snare vl1 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Snare vl1 rr4.flac
+
+<group>key=40 lovel=50 hivel=109 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Snare vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Snare vl2 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Snare vl2 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Snare vl2 rr4.flac
+
+<group>key=40 lovel=110 hivel=127 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Snare vl3 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Snare vl3 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Snare vl3 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Snare vl3 rr4.flac
+
+//Low Floor Tom
+<group>key=41 lovel=1 hivel=109 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Floor Tom vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Floor Tom vl1 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Floor Tom vl1 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Floor Tom vl1 rr4.flac
+
+<group>key=41 lovel=110 hivel=127 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Floor Tom vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Floor Tom vl2 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Floor Tom vl2 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Floor Tom vl2 rr4.flac
+
+//Rack Tom
+<group>key=45 lovel=1 hivel=109 seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Rack Tom vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Rack Tom vl1 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Rack Tom vl1 rr3.flac
+
+<group>key=45 lovel=110 hivel=127 seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Rack Tom vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Rack Tom vl2 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Rack Tom vl2 rr3.flac
+
+//Rack Tom 2
+<group>key=48 lovel=1 hivel=109 seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Rack Tom 2 vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Rack Tom 2 vl1 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Rack Tom 2 vl1 rr3.flac
+
+<group>key=48 lovel=110 hivel=127 seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Rack Tom 2 vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Rack Tom 2 vl2 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Rack Tom 2 vl2 rr3.flac
+
+//Low Floor Tom pitched +300
+<group>key=43 lovel=1 hivel=109 tune=300 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Floor Tom vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Floor Tom vl1 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Floor Tom vl1 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Floor Tom vl1 rr4.flac
+
+<group>key=43 lovel=110 hivel=127 tune=300 seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Floor Tom vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Floor Tom vl2 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Floor Tom vl2 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Floor Tom vl2 rr4.flac
+
+
+//Rack Tom Pitched +300
+<group>key=47 lovel=1 hivel=109 tune=300  seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Rack Tom vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Rack Tom vl1 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Rack Tom vl1 rr3.flac
+
+<group>key=47 lovel=110 hivel=127 tune=300   seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Rack Tom vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Rack Tom vl2 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Rack Tom vl2 rr3.flac
+
+
+//Rack Tom 2 pitched +300.
+<group>key=50 lovel=1 hivel=109 tune=300 seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Rack Tom 2 vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Rack Tom 2 vl1 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Rack Tom 2 vl1 rr3.flac
+
+<group>key=50 lovel=110 hivel=127 tune=300 seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Rack Tom 2 vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Rack Tom 2 vl2 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Rack Tom 2 vl2 rr3.flac
+
+//Hi hat Closed
+<group>key=42 group=4 off_mode=normal seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Closed Hat rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Closed Hat rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Closed Hat rr3.flac
+
+
+//half open
+<group>key=44 group=2 off_by=4 off_mode=normal seq_length=4
+<region>seq_position=1 sample=DUP Live kit/Half Open Hat rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Half Open Hat rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Half Open Hat rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Half Open Hat rr4.flac
+
+//Open hat
+<group>key=46 group=3 off_by=4 off_mode=normal seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Open Hat rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Open Hat rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Open Hat rr3.flac
+
+//Crash Cymbal 1
+<group>key=49 lovel=1 hivel=109 seq_length=2
+<region>seq_position=1 sample=DUP Live kit/Crash Cymbal 1 vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Crash Cymbal 1 vl1 rr2.flac
+
+<group>key=49 lovel=110 hivel=127 seq_length=2
+<region>seq_position=1 sample=DUP Live kit/Crash Cymbal 1 vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Crash Cymbal 1 vl2 rr2.flac
+
+
+//Ride Cymbal
+<group>key=51 lovel=1 hivel=109 seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Ride Cymbal vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Ride Cymbal vl1 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Ride Cymbal vl1 rr3.flac
+
+<group>key=51 lovel=110 hivel=127 seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Ride Cymbal vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Ride Cymbal vl2 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Ride Cymbal vl2 rr3.flac
+
+//China Cymbal (crash pitched)
+<group>key=52 lovel=1 hivel=109 tune=-1200 seq_length=2
+<region>seq_position=1 sample=DUP Live kit/Crash Cymbal 1 vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Crash Cymbal 1 vl1 rr2.flac
+
+
+<group>key=52 lovel=110 hivel=127 tune=-1200 seq_length=2
+<region>seq_position=1 sample=DUP Live kit/Crash Cymbal 1 vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Crash Cymbal 1 vl2 rr2.flac
+
+//Ride Bell
+<group>key=51 lovel=1 hivel=109 seq_length=3
+<region>seq_position=1 sample=DUP Live kit/Ride Bell vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Ride Bell vl1 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Ride Bell vl1 rr3.flac
+
+<group>key=51 lovel=110 hivel=127
+<region>sample=DUP Live kit/Ride Bell vl2.flac
+
+//Crash Cymbal 2
+<group>key=57 lovel=1 hivel=109 tune=200 seq_length=2
+<region>seq_position=1 sample=DUP Live kit/Crash Cymbal 2 vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Crash Cymbal 2 vl1 rr2.flac
+
+<group>key=57 lovel=110 hivel=127 tune=200 seq_length=2
+<region>seq_position=1 sample=DUP Live kit/Crash Cymbal 2 vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Crash Cymbal 2 vl2 rr2.flac
+
+//Snare Thick -600
+<group>key=53 lovel=1 hivel=50 seq_length=4 tune=-600
+<region>seq_position=1 sample=DUP Live kit/Snare Thick vl1 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Snare Thick vl1 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Snare Thick vl1 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Snare Thick vl1 rr4.flac
+
+<group>key=53 lovel=51 hivel=109 seq_length=4 tune=-600
+<region>seq_position=1 sample=DUP Live kit/Snare Thick vl2 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Snare Thick vl2 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Snare Thick vl2 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Snare Thick vl2 rr4.flac
+
+<group>key=53 lovel=110 hivel=127 seq_length=4 tune=-600
+<region>seq_position=1 sample=DUP Live kit/Snare Thick vl3 rr1.flac
+<region>seq_position=2 sample=DUP Live kit/Snare Thick vl3 rr2.flac
+<region>seq_position=3 sample=DUP Live kit/Snare Thick vl3 rr3.flac
+<region>seq_position=4 sample=DUP Live kit/Snare Thick vl3 rr4.flac
+
+

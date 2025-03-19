@@ -1,0 +1,95 @@
+// Charango
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+volume=-6.02
+ampeg_attack=0.001
+ampeg_release=0.7
+
+<region>
+sample=Charango Samples/XFCharangopl E3.flac
+pitch_keycenter=64
+lokey=0 hikey=64
+
+<region>
+sample=Charango Samples/XFCharangopl F3.flac
+key=65 tune=-4
+
+<region>
+sample=Charango Samples/XFCharangopl F#3.flac
+key=66 tune=-1
+
+<region>
+sample=Charango Samples/XFCharangopl G3.flac
+key=67 tune=-6
+
+<region>
+sample=Charango Samples/XFCharangopl G#3.flac
+pitch_keycenter=68
+lokey=68 hikey=69 tune=-7
+
+
+<region>
+sample=Charango Samples/XFCharangopl A#3.flac
+key=70 tune=-9
+
+<region>
+sample=Charango Samples/XFCharangopl B3.flac
+key=71  tune=-11
+
+
+<region>
+sample=Charango Samples/XFCharangopl C4.flac
+key=72 tune=-12
+
+<region>
+sample=Charango Samples/XFCharangopl D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74 tune=-17
+
+<region>
+sample=Charango Samples/XFCharangopl D#4.flac
+pitch_keycenter=75
+lokey=75 hikey=76 tune=-20
+
+<region>
+sample=Charango Samples/XFCharangopl F4.flac
+pitch_keycenter=77
+lokey=77 hikey=79 tune=-7
+
+<region>
+sample=Charango Samples/XFCharangopl B4.flac
+pitch_keycenter=83
+lokey=80 hikey=82 tune=-16
+
+<region>
+sample=Charango Samples/XFCharangopl D#5.flac
+pitch_keycenter=87
+lokey=87 hikey=88 tune=-20
+
+
+
+<region>
+sample=Charango Samples/XFCharangopl C5.flac
+pitch_keycenter=84
+lokey=83 hikey=84 tune=-14
+
+<region>
+sample=Charango Samples/XFCharangopl C#5.flac
+key=85 tune=-18
+
+<region>
+sample=Charango Samples/XFCharangopl D5.flac
+key=86 tune=-19
+
+<region>
+sample=Charango Samples/XFCharangopl F#5.flac
+pitch_keycenter=90
+lokey=89 hikey=90 tune=-8
+
+<region>
+sample=Charango Samples/XFCharangopl G#5.flac
+pitch_keycenter=92
+lokey=91 hikey=127 tune=-15
+

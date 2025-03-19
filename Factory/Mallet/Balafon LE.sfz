@@ -1,0 +1,446 @@
+// Balafon Limited Edition
+// Serum2 Factory Content
+// By Steve Duda
+
+<group>
+ampeg_attack=0.001
+amp_veltrack=0.0001
+
+<region>
+sample=Balafon Samples/XFBalafon 03 G2.flac
+pitch_keycenter=55
+lokey=0 hikey=55
+hivel=59
+end=42752
+
+<region>
+sample=Balafon Samples/XFBalafon 03 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=57
+hivel=59
+end=70500
+
+<region>
+sample=Balafon Samples/XFBalafon 03 B2.flac
+pitch_keycenter=59
+lokey=58 hikey=59
+hivel=59
+end=44032
+
+<region>
+sample=Balafon Samples/XFBalafon 03 C3.flac
+key=60
+hivel=59
+end=58112
+
+<region>
+sample=Balafon Samples/XFBalafon 03 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=62
+hivel=59
+end=68608
+
+<region>
+sample=Balafon Samples/XFBalafon 03 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=64
+hivel=59
+end=47104
+
+<region>
+sample=Balafon Samples/XFBalafon 03 F3.flac
+key=65
+hivel=59
+end=47104
+
+<region>
+sample=Balafon Samples/XFBalafon 03 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=67
+hivel=59
+end=53760
+
+<region>
+sample=Balafon Samples/XFBalafon 03 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=69
+hivel=59
+end=46080
+
+<region>
+sample=Balafon Samples/XFBalafon 03 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=71
+hivel=59
+end=32000
+
+<region>
+sample=Balafon Samples/XFBalafon 03 C4.flac
+key=72
+hivel=59
+end=30720
+
+<region>
+sample=Balafon Samples/XFBalafon 03 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+hivel=59
+end=43008
+
+<region>
+sample=Balafon Samples/XFBalafon 03 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+hivel=59
+end=31232
+
+<region>
+sample=Balafon Samples/XFBalafon 03 F4.flac
+key=77
+hivel=59
+end=22784
+
+<region>
+sample=Balafon Samples/XFBalafon 03 G4.flac
+pitch_keycenter=79
+lokey=78 hikey=79
+hivel=59
+end=31906
+
+<region>
+sample=Balafon Samples/XFBalafon 03 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=81
+hivel=59
+end=29440
+
+<region>
+sample=Balafon Samples/XFBalafon 03 B4.flac
+pitch_keycenter=83
+lokey=82 hikey=83
+hivel=59
+end=29184
+
+<region>
+sample=Balafon Samples/XFBalafon 03 C5.flac
+key=84
+hivel=59
+end=20608
+
+<region>
+sample=Balafon Samples/XFBalafon 03 D5.flac
+pitch_keycenter=86
+lokey=85 hikey=86
+hivel=59
+end=26624
+
+<region>
+sample=Balafon Samples/XFBalafon 03 E5.flac
+pitch_keycenter=88
+lokey=87 hikey=88
+hivel=59
+end=12032
+
+<region>
+sample=Balafon Samples/XFBalafon 03 F5.flac
+key=89
+hivel=59
+end=14976
+
+<region>
+sample=Balafon Samples/XFBalafon 03 G5.flac
+pitch_keycenter=91
+lokey=90 hikey=127
+hivel=59
+end=13056
+
+
+<region>
+sample=Balafon Samples/XFBalafon 05 G2.flac
+pitch_keycenter=55
+lokey=0 hikey=55
+lovel=60 hivel=89
+end=41984
+
+<region>
+sample=Balafon Samples/XFBalafon 05 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=57
+lovel=60 hivel=89
+end=73352
+
+<region>
+sample=Balafon Samples/XFBalafon 05 B2.flac
+pitch_keycenter=59
+lokey=58 hikey=59
+lovel=60 hivel=89
+end=39936
+
+<region>
+sample=Balafon Samples/XFBalafon 05 C3.flac
+key=60
+lovel=60 hivel=89
+end=63488
+
+<region>
+sample=Balafon Samples/XFBalafon 05 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=62
+lovel=60 hivel=89
+end=69632
+
+<region>
+sample=Balafon Samples/XFBalafon 05 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=64
+lovel=60 hivel=89
+end=50688
+
+<region>
+sample=Balafon Samples/XFBalafon 05 F3.flac
+key=65
+lovel=60 hivel=89
+end=54272
+
+<region>
+sample=Balafon Samples/XFBalafon 05 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=67
+lovel=60 hivel=89
+end=51200
+
+<region>
+sample=Balafon Samples/XFBalafon 05 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=69
+lovel=60 hivel=89
+end=54272
+
+<region>
+sample=Balafon Samples/XFBalafon 05 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=71
+lovel=60 hivel=89
+end=33024
+
+<region>
+sample=Balafon Samples/XFBalafon 05 C4.flac
+key=72
+lovel=60 hivel=89
+end=39168
+
+<region>
+sample=Balafon Samples/XFBalafon 05 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+lovel=60 hivel=89
+end=48128
+
+<region>
+sample=Balafon Samples/XFBalafon 05 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+lovel=60 hivel=89
+end=29696
+
+<region>
+sample=Balafon Samples/XFBalafon 05 F4.flac
+key=77
+lovel=60 hivel=89
+end=33646
+
+<region>
+sample=Balafon Samples/XFBalafon 05 G4.flac
+pitch_keycenter=79
+lokey=78 hikey=79
+lovel=60 hivel=89
+end=39424
+
+<region>
+sample=Balafon Samples/XFBalafon 05 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=81
+lovel=60 hivel=89
+end=27904
+
+<region>
+sample=Balafon Samples/XFBalafon 05 B4.flac
+pitch_keycenter=83
+lokey=82 hikey=83
+lovel=60 hivel=89
+end=33792
+
+<region>
+sample=Balafon Samples/XFBalafon 05 C5.flac
+key=84
+lovel=60 hivel=89
+end=26112
+
+<region>
+sample=Balafon Samples/XFBalafon 05 D5.flac
+pitch_keycenter=86
+lokey=85 hikey=86
+lovel=60 hivel=89
+end=28544
+
+<region>
+sample=Balafon Samples/XFBalafon 05 E5.flac
+pitch_keycenter=88
+lokey=87 hikey=88
+lovel=60 hivel=89
+end=11680
+
+<region>
+sample=Balafon Samples/XFBalafon 05 F5.flac
+key=89
+lovel=60 hivel=89
+end=21120
+
+<region>
+sample=Balafon Samples/XFBalafon 05 G5.flac
+pitch_keycenter=91
+lokey=90 hikey=127
+lovel=60 hivel=89
+end=13376
+
+<region>
+sample=Balafon Samples/XFBalafon 07 G2.flac
+pitch_keycenter=55
+lokey=0 hikey=55
+lovel=90 hivel=127
+end=39936
+
+<region>
+sample=Balafon Samples/XFBalafon 07 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=57
+lovel=90 hivel=127
+end=66560
+
+<region>
+sample=Balafon Samples/XFBalafon 07 B2.flac
+pitch_keycenter=59
+lokey=58 hikey=59
+lovel=90 hivel=127
+end=41984
+
+<region>
+sample=Balafon Samples/XFBalafon 07 C3.flac
+key=60
+lovel=90 hivel=127
+end=73728
+
+<region>
+sample=Balafon Samples/XFBalafon 07 D3.flac
+pitch_keycenter=62
+lokey=61 hikey=62
+lovel=90 hivel=127
+end=78848
+
+<region>
+sample=Balafon Samples/XFBalafon 07 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=64
+lovel=90 hivel=127
+end=50176
+
+<region>
+sample=Balafon Samples/XFBalafon 07 F3.flac
+key=65
+lovel=90 hivel=127
+end=54784
+
+<region>
+sample=Balafon Samples/XFBalafon 07 G3.flac
+pitch_keycenter=67
+lokey=66 hikey=67
+lovel=90 hivel=127
+end=54272
+
+<region>
+sample=Balafon Samples/XFBalafon 07 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=69
+lovel=90 hivel=127
+end=46080
+
+<region>
+sample=Balafon Samples/XFBalafon 07 B3.flac
+pitch_keycenter=71
+lokey=70 hikey=71
+lovel=90 hivel=127
+end=37888
+
+<region>
+sample=Balafon Samples/XFBalafon 07 C4.flac
+key=72
+lovel=90 hivel=127
+end=46592
+
+<region>
+sample=Balafon Samples/XFBalafon 07 D4.flac
+pitch_keycenter=74
+lokey=73 hikey=74
+lovel=90 hivel=127
+end=53248
+
+<region>
+sample=Balafon Samples/XFBalafon 07 E4.flac
+pitch_keycenter=76
+lokey=75 hikey=76
+lovel=90 hivel=127
+end=30464
+
+<region>
+sample=Balafon Samples/XFBalafon 07 F4.flac
+key=77
+lovel=90 hivel=127
+end=33610
+
+<region>
+sample=Balafon Samples/XFBalafon 07 G4.flac
+pitch_keycenter=79
+lokey=78 hikey=79
+lovel=90 hivel=127
+end=39424
+
+<region>
+sample=Balafon Samples/XFBalafon 07 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=81
+lovel=90 hivel=127
+end=30208
+
+<region>
+sample=Balafon Samples/XFBalafon 07 B4.flac
+pitch_keycenter=83
+lokey=82 hikey=83
+lovel=90 hivel=127
+end=37120
+
+<region>
+sample=Balafon Samples/XFBalafon 07 C5.flac
+key=84
+lovel=90 hivel=127
+end=24960
+
+<region>
+sample=Balafon Samples/XFBalafon 07 D5.flac
+pitch_keycenter=86
+lokey=85 hikey=87
+lovel=90 hivel=127
+end=26624
+
+<region>
+sample=Balafon Samples/XFBalafon 07 F5.flac
+pitch_keycenter=89
+lokey=88 hikey=89
+lovel=90 hivel=127
+end=19456
+
+<region>
+sample=Balafon Samples/XFBalafon 07 G5.flac
+pitch_keycenter=91
+lokey=90 hikey=127
+lovel=90 hivel=127
+end=13376

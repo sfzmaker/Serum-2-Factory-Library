@@ -1,0 +1,82 @@
+// Violins Finger Gliss Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.7
+loop_crossfade=0.01
+amp_veltrack=35
+loop_mode=loop_continuous
+
+<region>
+sample=Violins Finger Gliss Samples/XFviolins finger gliss 01 G3.flac
+pitch_keycenter=67
+lokey=0 hikey=68
+loop_start=108176 loop_end=252047
+
+<region>
+sample=Violins Finger Gliss Samples/XFviolins finger gliss-02 01 A3.flac
+pitch_keycenter=69
+lokey=69 hikey=70
+loop_start=75575 loop_end=194280
+
+<region>
+sample=Violins Finger Gliss Samples/XFviolins finger gliss-02 01 B3.flac
+pitch_keycenter=71
+lokey=71 hikey=72
+loop_start=146919 loop_end=213909
+
+<region>
+sample=Violins Finger Gliss Samples/XFviolins finger gliss-02 01 C#4.flac
+pitch_keycenter=73
+lokey=73 hikey=75
+loop_start=110375 loop_end=246684
+
+<region>
+sample=Violins Finger Gliss Samples/XFviolins finger gliss-02 01 F4.flac
+pitch_keycenter=77
+lokey=76 hikey=78
+loop_start=113176 loop_end=253655
+
+<region>
+sample=Violins Finger Gliss Samples/XFviolins finger gliss 01 G4.flac
+pitch_keycenter=79
+lokey=79 hikey=80
+loop_start=95440 loop_end=251455
+
+<region>
+sample=Violins Finger Gliss Samples/XFviolins finger gliss 01 A4.flac
+pitch_keycenter=81
+lokey=81 hikey=82
+loop_start=78479 loop_end=255016
+
+<region>
+sample=Violins Finger Gliss Samples/XFviolins finger gliss 01 B4.flac
+pitch_keycenter=83
+lokey=83 hikey=84
+loop_start=131330 loop_end=281778
+
+<region>
+sample=Violins Finger Gliss Samples/XFviolins finger gliss-02 01 D#5.flac
+pitch_keycenter=87
+lokey=85 hikey=88
+loop_start=134812 loop_end=290293
+
+<region>
+sample=Violins Finger Gliss Samples/XFviolins finger gliss 01 F5.flac
+pitch_keycenter=89
+lokey=89 hikey=90
+loop_start=151276 loop_end=333909
+
+<region>
+sample=Violins Finger Gliss Samples/XFviolins finger gliss-02 01 G5.flac
+pitch_keycenter=91
+lokey=91 hikey=92
+loop_start=100703 loop_end=317066
+
+<region>
+sample=Violins Finger Gliss Samples/XFviolins finger gliss-02 01 A5.flac
+pitch_keycenter=93
+lokey=93 hikey=127
+loop_start=149074 loop_end=309615

@@ -1,0 +1,70 @@
+// Cello Pizz Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.001
+ampeg_release=1.0
+amp_veltrack=35
+
+<region>
+sample=Cello Pizz Samples/XFcello pizz 02 C1.flac
+pitch_keycenter=36 tune=-6
+lokey=0 hikey=37
+
+<region>
+sample=Cello Pizz Samples/XFcello pizz 02 D1.flac
+pitch_keycenter=38 tune=-16
+lokey=38 hikey=40
+
+<region>
+sample=Cello Pizz Samples/XFcello pizz 02 A#1.flac
+pitch_keycenter=46 tune=12
+lokey=41 hikey=47
+
+<region>
+sample=Cello Pizz Samples/XFcello pizz 02 D2.flac
+pitch_keycenter=50 tune=-8
+lokey=48 hikey=51
+
+<region>
+sample=Cello Pizz Samples/XFcello pizz 02 E2.flac
+pitch_keycenter=52 tune=18
+lokey=52 hikey=53
+
+<region>
+sample=Cello Pizz Samples/XFcello pizz 02 F#2.flac
+pitch_keycenter=54 tune=-6
+lokey=54 hikey=55
+
+<region>
+sample=Cello Pizz Samples/XFcello pizz 02 G#2.flac
+pitch_keycenter=56 tune=-16
+lokey=56 hikey=58
+
+<region>
+sample=Cello Pizz Samples/XFcello pizz 02 C3.flac
+pitch_keycenter=60 tune=18
+lokey=59 hikey=61
+end=61640  // cut the noise at the end
+ampeg_release=0.3
+
+<region>
+sample=Cello Pizz Samples/XFcello pizz-02 02 D3.flac
+pitch_keycenter=62 tune=12
+lokey=62 hikey=65
+
+<region>
+sample=Cello Pizz Samples/XFcello pizz 02 F#3.flac
+pitch_keycenter=66
+lokey=66 hikey=67
+
+<region>
+sample=Cello Pizz Samples/XFcello pizz 02 G#3.flac
+pitch_keycenter=68 tune=20
+lokey=68 hikey=69
+
+<region>
+sample=Cello Pizz Samples/XFcello pizz 02 A#3.flac
+pitch_keycenter=70 tune=14
+lokey=70 hikey=127

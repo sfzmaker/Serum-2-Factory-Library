@@ -1,0 +1,131 @@
+// Violins Mute Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.07
+ampeg_release=0.7
+loop_crossfade=0.01
+amp_veltrack=35
+loop_mode=loop_continuous
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 G2.flac
+pitch_keycenter=55 tune=-3
+lokey=0 hikey=56
+lovel=1 hivel=127
+loop_start=66261
+loop_end=266674
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 A2.flac
+pitch_keycenter=57 tune=-3
+lokey=57 hikey=59
+lovel=1 hivel=127
+loop_start=107455
+loop_end=282254
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 C#3.flac
+pitch_keycenter=61 tune=12
+lokey=60 hikey=62
+lovel=1 hivel=127
+loop_start=67329
+loop_end=292281
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 D#3.flac
+pitch_keycenter=63
+lokey=63 hikey=64
+lovel=1 hivel=127
+loop_start=61393
+loop_end=238673
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 F3.flac
+pitch_keycenter=65 tune=4
+lokey=65 hikey=67
+lovel=1 hivel=127
+loop_start=114561
+loop_end=290691
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 A3.flac
+pitch_keycenter=69 tune=-6
+lokey=68 hikey=70
+lovel=1 hivel=127
+loop_start=112162
+loop_end=301017
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 B3.flac
+pitch_keycenter=71 tune=-6
+lokey=71 hikey=72
+lovel=1 hivel=127
+loop_start=84997
+loop_end=356402
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 C#4.flac
+pitch_keycenter=73 tune=-3
+lokey=73 hikey=74
+lovel=1 hivel=127
+loop_start=99284
+loop_end=303056
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 D#4.flac
+pitch_keycenter=75 tune=2
+lokey=75 hikey=76
+lovel=1 hivel=127
+loop_start=86620
+loop_end=273550
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 F4.flac
+pitch_keycenter=77
+lokey=77 hikey=79
+lovel=1 hivel=127
+loop_start=138723
+loop_end=374148
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 A4.flac
+pitch_keycenter=81 tune=-5
+lokey=80 hikey=82
+lovel=1 hivel=127
+loop_start=60815
+loop_end=264922
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 B4.flac
+pitch_keycenter=83 tune=-3
+lokey=83 hikey=86
+lovel=1 hivel=127
+loop_start=87797
+loop_end=298352
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 F5.flac
+pitch_keycenter=89 tune=6
+lokey=87 hikey=90
+lovel=1 hivel=127
+loop_start=219109
+loop_end=363490
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 G5.flac
+pitch_keycenter=91 tune=-12
+lokey=91 hikey=92
+lovel=1 hivel=127
+loop_start=191212
+loop_end=356539
+
+<region>
+sample=Violins Long Mute Samples/XFviolins long mute 01 B5.flac
+pitch_keycenter=95 tune=-20
+lokey=93 hikey=127
+lovel=1 hivel=127
+loop_start=118471
+loop_end=328397
+

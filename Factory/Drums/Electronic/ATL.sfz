@@ -1,0 +1,30 @@
+// ATL drum kit
+// Serum 2 Factory Content
+// By Matt Aimonetti
+
+<global>
+loop_mode=one_shot
+
+<group>
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/Kick Nyx.flac key=35
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Kick/Kick Aether.flac key=36
+
+<group>
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Clap/Snap Bellatrix.flac key=37
+
+<group> group=1
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Snare Astrae.flac key=38
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Snare/Snare Buffetier.flac key=40
+
+<group> group=2
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Clap/Clap Mid.flac key=39
+
+<group> group=4
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/Hat Closed eisen.flac key=42
+
+<group> group=5 off_by=4
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Shaker/Shaker Crisp.flac key=44 vol=-10
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/Hat 8bit.flac key=45 vol=-10 tune=-400
+
+<group> group=5 off_by=4
+<region> sample=../../../../Samples/Factory Non-Tonal/Drum/Hat/Hat 8bit.flac key=46

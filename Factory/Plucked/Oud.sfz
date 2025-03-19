@@ -1,0 +1,551 @@
+// Oud
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+amp_veltrack=0.0001
+ampeg_attack=0.0
+ampeg_release=0.7
+
+<region>
+sample=Oud Samples/XFOud Kt 01 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+hivel=14
+
+<region>
+sample=Oud Samples/XFOud Kt 02 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=15 hivel=28
+
+<region>
+sample=Oud Samples/XFOud Kt 03 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=29 hivel=42
+
+<region>
+sample=Oud Samples/XFOud Kt 04 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=43 hivel=56
+
+<region>
+sample=Oud Samples/XFOud Kt 05 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=57 hivel=70
+
+<region>
+sample=Oud Samples/XFOud Kt 06 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=71 hivel=84
+
+<region>
+sample=Oud Samples/XFOud Kt 07 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=85 hivel=98
+
+<region>
+sample=Oud Samples/XFOud Kt 08 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=99 hivel=112
+
+<region>
+sample=Oud Samples/XFOud Kt 09 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=113
+
+<region>
+sample=Oud Samples/XFOud Kt 01 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=45
+hivel=10
+
+<region>
+sample=Oud Samples/XFOud Kt 02 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=45
+lovel=11 hivel=21
+
+<region>
+sample=Oud Samples/XFOud Kt 03 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=45
+lovel=22 hivel=31
+
+<region>
+sample=Oud Samples/XFOud Kt 04 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=45 
+lovel=32 hivel=42
+
+<region>
+sample=Oud Samples/XFOud Kt 05 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=45
+lovel=43 hivel=52
+
+<region>
+sample=Oud Samples/XFOud Kt 06 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=45
+lovel=53 hivel=63
+
+<region>
+sample=Oud Samples/XFOud Kt 07 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=45
+lovel=64 hivel=73
+
+<region>
+sample=Oud Samples/XFOud Kt 08 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=45
+lovel=74 hivel=84
+
+<region>
+sample=Oud Samples/XFOud Kt 09 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=45
+lovel=85 hivel=94
+
+<region>
+sample=Oud Samples/XFOud Kt 10 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=45
+lovel=95 hivel=105
+
+<region>
+sample=Oud Samples/XFOud Kt 11 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=45
+lovel=106 hivel=115
+
+<region>
+sample=Oud Samples/XFOud Kt 12 G1.flac
+pitch_keycenter=43
+lokey=42 hikey=45
+lovel=116
+
+<region>
+sample=Oud Samples/XFOud Kt 01 A#1.flac
+pitch_keycenter=46
+lokey=46 hikey=48
+hivel=12
+
+<region>
+sample=Oud Samples/XFOud Kt 02 A#1.flac
+pitch_keycenter=46
+lokey=46 hikey=48
+lovel=13 hivel=25
+
+<region>
+sample=Oud Samples/XFOud Kt 03 A#1.flac
+pitch_keycenter=46
+lokey=46 hikey=48
+lovel=26 hivel=37
+
+<region>
+sample=Oud Samples/XFOud Kt 04 A#1.flac
+pitch_keycenter=46
+lokey=46 hikey=48
+lovel=38 hivel=50
+
+<region>
+sample=Oud Samples/XFOud Kt 05 A#1.flac
+pitch_keycenter=46
+lokey=46 hikey=48
+lovel=51 hivel=63
+
+<region>
+sample=Oud Samples/XFOud Kt 06 A#1.flac
+pitch_keycenter=46
+lokey=46 hikey=48
+lovel=64 hivel=75
+
+<region>
+sample=Oud Samples/XFOud Kt 07 A#1.flac
+pitch_keycenter=46
+lokey=46 hikey=48
+lovel=76 hivel=88
+
+<region>
+sample=Oud Samples/XFOud Kt 08 A#1.flac
+pitch_keycenter=46
+lokey=46 hikey=48
+lovel=89 hivel=100
+
+<region>
+sample=Oud Samples/XFOud Kt 09 A#1.flac
+pitch_keycenter=46
+lokey=46 hikey=48
+lovel=101 hivel=113
+
+<region>
+sample=Oud Samples/XFOud Kt 10 A#1.flac
+pitch_keycenter=46
+lokey=46 hikey=48
+lovel=114
+
+<region>
+sample=Oud Samples/XFOud Kt 01 C#2.flac
+pitch_keycenter=49
+lokey=49 hikey=51
+hivel=14
+
+<region>
+sample=Oud Samples/XFOud Kt 02 C#2.flac
+pitch_keycenter=49
+lokey=49 hikey=51
+lovel=15 hivel=28
+
+<region>
+sample=Oud Samples/XFOud Kt 03 C#2.flac
+pitch_keycenter=49
+lokey=49 hikey=51
+lovel=29 hivel=42
+
+<region>
+sample=Oud Samples/XFOud Kt 04 C#2.flac
+pitch_keycenter=49
+lokey=49 hikey=51
+lovel=43 hivel=56
+
+<region>
+sample=Oud Samples/XFOud Kt 05 C#2.flac
+pitch_keycenter=49
+lokey=49 hikey=51
+lovel=57 hivel=70
+
+<region>
+sample=Oud Samples/XFOud Kt 06 C#2.flac
+pitch_keycenter=49
+lokey=49 hikey=51
+lovel=71 hivel=84
+
+<region>
+sample=Oud Samples/XFOud Kt 07 C#2.flac
+pitch_keycenter=49
+lokey=49 hikey=51
+lovel=85 hivel=98
+
+<region>
+sample=Oud Samples/XFOud Kt 08 C#2.flac
+pitch_keycenter=49
+lokey=49 hikey=51
+lovel=99 hivel=112
+
+<region>
+sample=Oud Samples/XFOud Kt 09 C#2.flac
+pitch_keycenter=49
+lokey=49 hikey=51
+lovel=113
+
+<region>
+sample=Oud Samples/XFOud Kt 01 E2.flac
+pitch_keycenter=52
+lokey=52 hikey=54
+hivel=14
+
+<region>
+sample=Oud Samples/XFOud Kt 02 E2.flac
+pitch_keycenter=52
+lokey=52 hikey=54
+lovel=15 hivel=28
+
+<region>
+sample=Oud Samples/XFOud Kt 03 E2.flac
+pitch_keycenter=52
+lokey=52 hikey=54
+lovel=29 hivel=42
+
+<region>
+sample=Oud Samples/XFOud Kt 04 E2.flac
+pitch_keycenter=52
+lokey=52 hikey=54
+lovel=43 hivel=56
+
+<region>
+sample=Oud Samples/XFOud Kt 05 E2.flac
+pitch_keycenter=52
+lokey=52 hikey=54
+lovel=57 hivel=70
+
+<region>
+sample=Oud Samples/XFOud Kt 06 E2.flac
+pitch_keycenter=52
+lokey=52 hikey=54
+lovel=71 hivel=84
+
+<region>
+sample=Oud Samples/XFOud Kt 07 E2.flac
+pitch_keycenter=52
+lokey=52 hikey=54
+lovel=85 hivel=98
+
+<region>
+sample=Oud Samples/XFOud Kt 08 E2.flac
+pitch_keycenter=52
+lokey=52 hikey=54
+lovel=99 hivel=112
+
+<region>
+sample=Oud Samples/XFOud Kt 09 E2.flac
+pitch_keycenter=52
+lokey=52 hikey=54
+lovel=113
+
+<region>
+sample=Oud Samples/XFOud Kt 01 G2.flac
+pitch_keycenter=55
+lokey=55 hikey=57
+hivel=14
+
+<region>
+sample=Oud Samples/XFOud Kt 02 G2.flac
+pitch_keycenter=55
+lokey=55 hikey=57
+lovel=15 hivel=34
+
+<region>
+sample=Oud Samples/XFOud Kt 03 G2.flac
+pitch_keycenter=55
+lokey=55 hikey=57
+lovel=35 hivel=54
+
+<region>
+sample=Oud Samples/XFOud Kt 04 G2.flac
+pitch_keycenter=55
+lokey=55 hikey=57
+lovel=55 hivel=72
+
+<region>
+sample=Oud Samples/XFOud Kt 05 G2.flac
+pitch_keycenter=55
+lokey=55 hikey=57
+lovel=73 hivel=94
+
+<region>
+sample=Oud Samples/XFOud Kt 06 G2.flac
+pitch_keycenter=55
+lokey=55 hikey=57
+lovel=95 hivel=112
+
+<region>
+sample=Oud Samples/XFOud Kt 07 G2.flac
+pitch_keycenter=55
+lokey=55 hikey=57
+lovel=113
+
+<region>
+sample=Oud Samples/XFOud Kt 01 A#2.flac
+pitch_keycenter=58
+lokey=58 hikey=61
+hivel=14 tune=-6
+
+<region>
+sample=Oud Samples/XFOud Kt 03 A#2.flac
+pitch_keycenter=58
+lokey=58 hikey=61
+lovel=15 hivel=34 tune=-6
+
+<region>
+sample=Oud Samples/XFOud Kt 07 A#2.flac
+pitch_keycenter=58
+lokey=58 hikey=61
+lovel=35 hivel=56 tune=-6
+
+<region>
+sample=Oud Samples/XFOud Kt 12 A#2.flac
+pitch_keycenter=58
+lokey=58 hikey=61 tune=-6
+lovel=57 hivel=71
+
+<region>
+sample=Oud Samples/XFOud Kt 13 A#2.flac
+pitch_keycenter=58
+lokey=58 hikey=61
+lovel=72 hivel=112 tune=-6
+
+<region>
+sample=Oud Samples/XFOud Kt 16 A#2.flac
+pitch_keycenter=58
+lokey=58 hikey=61
+lovel=113
+
+
+<region>
+sample=Oud Samples/XFOud Kt 01 E3.flac
+pitch_keycenter=64
+lokey=62 hikey=66
+hivel=18
+offset=140 end=88938
+volume=-3.60
+
+<region>
+sample=Oud Samples/XFOud Kt 03 E3.flac
+pitch_keycenter=64
+lokey=62 hikey=66
+lovel=18 hivel=42
+
+<region>
+sample=Oud Samples/XFOud Kt 04 E3.flac
+pitch_keycenter=64
+lokey=62 hikey=66
+lovel=43 hivel=56
+
+<region>
+sample=Oud Samples/XFOud Kt 05 E3.flac
+pitch_keycenter=64
+lokey=62 hikey=66
+lovel=57 hivel=70
+
+<region>
+sample=Oud Samples/XFOud Kt 06 E3.flac
+pitch_keycenter=64
+lokey=62 hikey=66
+lovel=71 hivel=84
+
+<region>
+sample=Oud Samples/XFOud Kt 07 E3.flac
+pitch_keycenter=64
+lokey=62 hikey=66
+lovel=85 hivel=98
+
+<region>
+sample=Oud Samples/XFOud Kt 08 E3.flac
+pitch_keycenter=64
+lokey=62 hikey=66
+lovel=99 hivel=112
+
+<region>
+sample=Oud Samples/XFOud Kt 09 E3.flac
+pitch_keycenter=64
+lokey=62 hikey=66
+lovel=113
+
+<region>
+sample=Oud Samples/XFOud Kt 01 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+hivel=12
+
+<region>
+sample=Oud Samples/XFOud Kt 02 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+lovel=13 hivel=25
+
+<region>
+sample=Oud Samples/XFOud Kt 03 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+lovel=26 hivel=37
+
+<region>
+sample=Oud Samples/XFOud Kt 04 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+lovel=38 hivel=50
+
+<region>
+sample=Oud Samples/XFOud Kt 05 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+lovel=51 hivel=63
+
+<region>
+sample=Oud Samples/XFOud Kt 06 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+lovel=64 hivel=75
+
+<region>
+sample=Oud Samples/XFOud Kt 07 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+lovel=76 hivel=88
+
+<region>
+sample=Oud Samples/XFOud Kt 08 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+lovel=89 hivel=100
+
+<region>
+sample=Oud Samples/XFOud Kt 09 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+lovel=101 hivel=113
+
+<region>
+sample=Oud Samples/XFOud Kt 10 G3.flac
+pitch_keycenter=67
+lokey=67 hikey=69
+lovel=114
+
+<region>
+sample=Oud Samples/XFOud Kt 01 A#3.flac
+pitch_keycenter=70
+lokey=70 hikey=127
+hivel=12
+
+<region>
+sample=Oud Samples/XFOud Kt 02 A#3.flac
+pitch_keycenter=70
+lokey=70 hikey=127
+lovel=13 hivel=25
+
+<region>
+sample=Oud Samples/XFOud Kt 03 A#3.flac
+pitch_keycenter=70
+lokey=70 hikey=127
+lovel=26 hivel=37
+
+<region>
+sample=Oud Samples/XFOud Kt 04 A#3.flac
+pitch_keycenter=70
+lokey=70 hikey=127
+lovel=38 hivel=50
+
+<region>
+sample=Oud Samples/XFOud Kt 05 A#3.flac
+pitch_keycenter=70
+lokey=70 hikey=127
+lovel=51 hivel=63
+
+<region>
+sample=Oud Samples/XFOud Kt 06 A#3.flac
+pitch_keycenter=70
+lokey=70 hikey=127
+lovel=64 hivel=75
+
+<region>
+sample=Oud Samples/XFOud Kt 07 A#3.flac
+pitch_keycenter=70
+lokey=70 hikey=127
+lovel=76 hivel=88
+
+<region>
+sample=Oud Samples/XFOud Kt 08 A#3.flac
+pitch_keycenter=70
+lokey=70 hikey=127
+lovel=89 hivel=100
+
+<region>
+sample=Oud Samples/XFOud Kt 09 A#3.flac
+pitch_keycenter=70
+lokey=70 hikey=127
+lovel=101 hivel=113
+
+<region>
+sample=Oud Samples/XFOud Kt 10 A#3.flac
+pitch_keycenter=70
+lokey=70 hikey=127
+lovel=114

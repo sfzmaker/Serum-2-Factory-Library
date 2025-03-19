@@ -1,0 +1,314 @@
+// Electric Guitar Nero
+// Serum 2 Factory Content
+// By 7Skies & Matt Aimonetti
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.7
+amp_veltrack=35
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero-02 C-2.flac
+pitch_keycenter=38
+lokey=0 hikey=38
+lovel=0 hivel=99
+<region>
+
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 E1.flac
+pitch_keycenter=40
+lokey=39 hikey=40
+hivel=99
+tune=-15
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 F1.flac
+pitch_keycenter=41
+lokey=41 hikey=42
+hivel=99
+tune=-10
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 G#1.flac
+pitch_keycenter=44
+lokey=43 hikey=44
+hivel=99
+tune=-16
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 A1.flac
+key=45
+hivel=99
+tune=-4
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 A#1.flac
+key=46
+hivel=99
+tune=-10
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 B1.flac
+pitch_keycenter=47
+lokey=47 hikey=48
+hivel=99
+tune=-9
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 D2.flac
+pitch_keycenter=50
+lokey=49 hikey=50
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 F2.flac
+pitch_keycenter=53
+lokey=51 hikey=53
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 F#2.flac
+key=54
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 G2.flac
+key=55
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 G#2.flac
+key=56
+hivel=99
+tune=-6
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 A2.flac
+pitch_keycenter=57
+lokey=57 hikey=58
+hivel=99
+tune=-4
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 C3.flac
+pitch_keycenter=60
+lokey=59 hikey=60
+hivel=99
+tune=-3
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 C#3.flac
+key=61
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 D3.flac
+key=62
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 D#3.flac
+key=63
+hivel=99
+tune=-2
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 E3.flac
+key=64
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 F3.flac
+pitch_keycenter=65
+lokey=65 hikey=66
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 G#3.flac
+pitch_keycenter=68
+lokey=67 hikey=68
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 A3.flac
+pitch_keycenter=69
+lokey=69 hikey=70
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 B3.flac
+key=71
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 C4.flac
+pitch_keycenter=72
+lokey=72 hikey=73
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 D4.flac
+key=74
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 D#4.flac
+key=75
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 02 E4.flac
+pitch_keycenter=76
+lokey=76 hikey=127
+hivel=99
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+lovel=100
+tune=-14
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 A1.flac
+pitch_keycenter=44
+lokey=42 hikey=45
+lovel=100
+tune=-16
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 A#1.flac
+pitch_keycenter=45
+lokey=46 hikey=46
+lovel=100
+tune=-19
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 B1.flac
+pitch_keycenter=46
+lokey=47 hikey=47
+lovel=100
+tune=-21
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 C2.flac
+pitch_keycenter=47
+lokey=48 hikey=48
+lovel=100
+tune=-22
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 D2.flac
+pitch_keycenter=49
+lokey=49 hikey=50
+lovel=100
+tune=-22
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 F2.flac
+pitch_keycenter=52
+lokey=50 hikey=53
+lovel=100
+tune=-9
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 F#2.flac
+pitch_keycenter=54
+lokey=54 hikey=55
+lovel=100
+tune=-10
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 G#2.flac
+pitch_keycenter=55
+lokey=56 hikey=56
+lovel=100
+tune=-12
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 A2.flac
+pitch_keycenter=56
+lokey=57 hikey=57
+lovel=100
+tune=-6
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 A#2.flac
+pitch_keycenter=57
+lokey=58 hikey=59
+lovel=100
+tune=-11
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 C3.flac
+pitch_keycenter=59
+lokey=60 hikey=60
+lovel=100
+tune=-7
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 D3.flac
+pitch_keycenter=61
+lokey=61 hikey=62
+lovel=100
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 D#3.flac
+pitch_keycenter=62
+lokey=63 hikey=63
+lovel=100
+tune=-7
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 E3.flac
+pitch_keycenter=63
+lokey=64 hikey=64
+lovel=100
+tune=-11
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 F#3.flac
+pitch_keycenter=65
+lokey=65 hikey=66
+lovel=100
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 G3.flac
+pitch_keycenter=66
+lokey=67 hikey=67
+lovel=100
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 A#3.flac
+pitch_keycenter=69
+lokey=68 hikey=70
+lovel=100
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 B3.flac
+pitch_keycenter=70
+lokey=71 hikey=71
+lovel=100
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 C4.flac
+pitch_keycenter=71
+lokey=72 hikey=73
+lovel=100
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 D4.flac
+pitch_keycenter=73
+lokey=74 hikey=75
+lovel=100
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 E4.flac
+pitch_keycenter=75
+lokey=76 hikey=76
+lovel=100
+
+<region>
+sample=Electric Guitar Nero Samples/XFGtrElNero 03 F4.flac
+pitch_keycenter=76
+lokey=77 hikey=127
+lovel=100

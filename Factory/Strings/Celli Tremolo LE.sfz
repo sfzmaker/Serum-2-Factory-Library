@@ -1,0 +1,86 @@
+// Celli Tremolo Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.01
+ampeg_release=1.0
+amp_veltrack=35
+loop_crossfade=0.01
+loop_mode=loop_continuous
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 C1.flac
+pitch_keycenter=36 lokey=0 hikey=38
+loop_start=126050 loop_end=343113
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 E1.flac
+pitch_keycenter=40 lokey=39 hikey=41
+loop_start=92517 loop_end=309312
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 F#1.flac
+pitch_keycenter=42 lokey=42 hikey=45
+loop_start=124275 loop_end=421879
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 C2.flac
+pitch_keycenter=48 lokey=46 hikey=49
+loop_start=105150 loop_end=325397
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 D2.flac
+pitch_keycenter=50 lokey=50 hikey=51
+loop_start=103182 loop_end=309128
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 E2.flac
+pitch_keycenter=52 lokey=52 hikey=53
+loop_start=120377 loop_end=459583
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 F#2.flac
+pitch_keycenter=54 tune=10 lokey=54 hikey=55
+loop_start=159228 loop_end=436181
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 G#2.flac
+pitch_keycenter=56 tune=10 lokey=56 hikey=57
+loop_start=45717 loop_end=271631
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 A#2.flac
+pitch_keycenter=58 tune=16 lokey=58 hikey=59
+loop_start=103724 loop_end=282924
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo-03 02 C3.flac
+pitch_keycenter=60 tune=10 lokey=60 hikey=61
+loop_start=76653 loop_end=297369
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 D3.flac
+pitch_keycenter=62 lokey=62 hikey=63
+loop_start=65122 loop_end=245800
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 E3.flac
+pitch_keycenter=64 lokey=64 hikey=65
+loop_start=74481 loop_end=346329
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 F#3.flac
+pitch_keycenter=66 tune=14 lokey=66 hikey=67
+loop_start=83662 loop_end=276330
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 G#3.flac
+pitch_keycenter=68 tune=8 lokey=68 hikey=69
+loop_start=92182 loop_end=307353
+
+<region>
+sample=Celli Tremolo Samples/XFcelli tremolo 02 A#3.flac
+pitch_keycenter=70 tune=10 lokey=70 hikey=127
+loop_start=83177 loop_end=328720
+

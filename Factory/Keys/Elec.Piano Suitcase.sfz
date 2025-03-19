@@ -1,0 +1,794 @@
+// Electric Piano Suitcase
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+ampeg_attack=0.0
+ampeg_release=0.7
+amp_veltrack=0.0001
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 A-1.flac
+pitch_keycenter=21
+lokey=0 hikey=22
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 C0.flac
+pitch_keycenter=24
+lokey=23 hikey=25
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 D#0.flac
+pitch_keycenter=27
+lokey=26 hikey=28
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 F#0.flac
+pitch_keycenter=30
+lokey=29 hikey=31
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 A0.flac
+pitch_keycenter=33 tune=11
+lokey=32 hikey=34
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 C1.flac
+pitch_keycenter=36
+lokey=35 hikey=37
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 D#1.flac
+pitch_keycenter=39
+lokey=38 hikey=40
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 F#1.flac
+pitch_keycenter=42
+lokey=41 hikey=43
+hivel=33
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 A1.flac
+pitch_keycenter=45 tune=4
+lokey=44 hikey=46
+hivel=46 tune=4
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 C2.flac
+pitch_keycenter=48
+lokey=47 hikey=49
+hivel=25 tune=2
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 D#2.flac
+pitch_keycenter=51
+lokey=50 hikey=52
+hivel=25 tune=4
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 F#2.flac
+pitch_keycenter=54
+lokey=53 hikey=55
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=58
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 C3.flac
+pitch_keycenter=60
+lokey=59 hikey=61
+hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 D#3.flac
+pitch_keycenter=63
+lokey=62 hikey=64
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 F#3.flac
+pitch_keycenter=66
+lokey=65 hikey=67
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=70
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=74
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 F#4.flac
+pitch_keycenter=78
+lokey=75 hikey=79
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=82
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 C5.flac
+pitch_keycenter=84
+lokey=83 hikey=85
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 D#5.flac
+pitch_keycenter=87
+lokey=86 hikey=88
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 F#5.flac
+pitch_keycenter=90
+lokey=89 hikey=91
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 A5.flac
+pitch_keycenter=93
+lokey=92 hikey=94
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 C6.flac
+pitch_keycenter=96
+lokey=95 hikey=97
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 D#6.flac
+pitch_keycenter=99
+lokey=98 hikey=100
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 F#6.flac
+pitch_keycenter=102
+lokey=101 hikey=103
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 A6.flac
+pitch_keycenter=105
+lokey=104 hikey=106
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V1 C7.flac
+pitch_keycenter=108
+lokey=107 hikey=127
+hivel=25
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 A-1.flac
+pitch_keycenter=21
+lokey=0 hikey=22
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 C0.flac
+pitch_keycenter=24
+lokey=23 hikey=25
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 D#0.flac
+pitch_keycenter=27
+lokey=26 hikey=28
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 F#0.flac
+pitch_keycenter=30
+lokey=29 hikey=32
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 C1.flac
+pitch_keycenter=36
+lokey=33 hikey=37
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 D#1.flac
+pitch_keycenter=39
+lokey=38 hikey=40
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 F#1.flac
+pitch_keycenter=42
+lokey=41 hikey=43
+lovel=34 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 A1.flac
+pitch_keycenter=45
+lokey=44 hikey=46
+lovel=47 hivel=63
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 C2.flac
+pitch_keycenter=48
+lokey=47 hikey=49
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 D#2.flac
+pitch_keycenter=51
+lokey=50 hikey=52
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 F#2.flac
+pitch_keycenter=54
+lokey=53 hikey=55
+lovel=26 hivel=75
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=58
+lovel=26 hivel=67
+
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 D#3.flac
+pitch_keycenter=63
+lokey=62 hikey=64
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 F#3.flac
+pitch_keycenter=66
+lokey=65 hikey=67
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=70
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=74
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 F#4.flac
+pitch_keycenter=78
+lokey=75 hikey=79
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=82
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 C5.flac
+pitch_keycenter=84
+lokey=83 hikey=85
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 D#5.flac
+pitch_keycenter=87
+lokey=86 hikey=88
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 F#5.flac
+pitch_keycenter=90
+lokey=89 hikey=91
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 A5.flac
+pitch_keycenter=93
+lokey=92 hikey=94
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 C6.flac
+pitch_keycenter=96
+lokey=95 hikey=97
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 D#6.flac
+pitch_keycenter=99
+lokey=98 hikey=100
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 F#6.flac
+pitch_keycenter=102
+lokey=101 hikey=103
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 A6.flac
+pitch_keycenter=105
+lokey=104 hikey=106
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V2 C7.flac
+pitch_keycenter=108
+lokey=107 hikey=127
+lovel=26 hivel=54
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 A-1.flac
+pitch_keycenter=21
+lokey=0 hikey=22
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 C0.flac
+pitch_keycenter=24
+volume=-4
+lokey=23 hikey=25
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 D#0.flac
+pitch_keycenter=27
+lokey=26 hikey=28
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 F#0.flac
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 A0.flac
+pitch_keycenter=33
+lokey=32 hikey=34
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 C1.flac
+pitch_keycenter=36
+lokey=35 hikey=37
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 D#1.flac
+pitch_keycenter=39
+lokey=38 hikey=40
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 F#1.flac
+pitch_keycenter=42
+lokey=41 hikey=43
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 A1.flac
+pitch_keycenter=45
+lokey=44 hikey=46
+lovel=64 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 C2.flac
+pitch_keycenter=48
+lokey=47 hikey=49
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 D#2.flac
+pitch_keycenter=51
+lokey=50 hikey=52
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 F#2.flac
+pitch_keycenter=54
+lokey=53 hikey=55
+lovel=76 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=58
+lovel=68 hivel=96
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 C3.flac
+pitch_keycenter=60
+lokey=59 hikey=61
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 D#3.flac
+pitch_keycenter=63
+lokey=62 hikey=64
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 F#3.flac
+pitch_keycenter=66
+lokey=65 hikey=67
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 A3.flac
+pitch_keycenter=69
+volume=-1
+lokey=68 hikey=70
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=74
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 F#4.flac
+pitch_keycenter=78
+lokey=75 hikey=79
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=82
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 C5.flac
+pitch_keycenter=84
+lokey=83 hikey=85
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 D#5.flac
+pitch_keycenter=87
+lokey=86 hikey=88
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 F#5.flac
+pitch_keycenter=90
+lokey=89 hikey=91
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 A5.flac
+pitch_keycenter=93
+lokey=92 hikey=94
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 C6.flac
+pitch_keycenter=96
+lokey=95 hikey=97
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 D#6.flac
+pitch_keycenter=99
+lokey=98 hikey=100
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 F#6.flac
+pitch_keycenter=102
+lokey=101 hikey=103
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 A6.flac
+pitch_keycenter=105
+lokey=104 hikey=106
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V3 C7.flac
+pitch_keycenter=108
+lokey=107 hikey=127
+lovel=55 hivel=83
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 C0.flac
+pitch_keycenter=24
+lokey=0 hikey=25
+lovel=84
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 D#0.flac
+pitch_keycenter=27
+lokey=26 hikey=28
+lovel=84
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 F#0.flac
+pitch_keycenter=30
+lokey=29 hikey=31
+lovel=84
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 A0.flac
+pitch_keycenter=33
+lokey=32 hikey=34
+lovel=84
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 C1.flac
+pitch_keycenter=36
+lokey=35 hikey=37
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 D#1.flac
+pitch_keycenter=39
+lokey=38 hikey=40
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 F#1.flac
+pitch_keycenter=42
+lokey=41 hikey=43
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 A1.flac
+pitch_keycenter=45
+lokey=44 hikey=46
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 C2.flac
+pitch_keycenter=48
+lokey=47 hikey=49
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 D#2.flac
+pitch_keycenter=51
+lokey=50 hikey=52
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 F#2.flac
+pitch_keycenter=54
+lokey=53 hikey=55
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=58
+lovel=97 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 C3.flac
+pitch_keycenter=60
+lokey=59 hikey=61
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 D#3.flac
+pitch_keycenter=63
+lokey=62 hikey=64
+lovel=84 hivel=105
+volume=3
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 F#3.flac
+pitch_keycenter=66
+lokey=65 hikey=67
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=70
+lovel=84 hivel=106
+volume=3
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=74
+lovel=84 hivel=114
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 F#4.flac
+pitch_keycenter=78
+lokey=75 hikey=79
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=82
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 C5.flac
+pitch_keycenter=84
+lokey=83 hikey=85
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 D#5.flac
+pitch_keycenter=87
+lokey=86 hikey=88
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 F#5.flac
+pitch_keycenter=90
+lokey=89 hikey=91
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 A5.flac
+pitch_keycenter=93
+lokey=92 hikey=94
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 C6.flac
+pitch_keycenter=96
+lokey=95 hikey=97
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V4 D#6.flac
+pitch_keycenter=99
+lokey=98 hikey=127
+lovel=84 hivel=105
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 C1.flac
+pitch_keycenter=36
+lokey=35 hikey=37
+lovel=106
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 D#1.flac
+pitch_keycenter=39
+lokey=38 hikey=40
+lovel=106
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 F#1.flac
+pitch_keycenter=42
+lokey=41 hikey=44
+lovel=106
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 C2.flac
+pitch_keycenter=48
+lokey=45 hikey=49
+lovel=106 hivel=115
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 D#2.flac
+pitch_keycenter=51
+lokey=50 hikey=55
+lovel=106
+
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 D#3.flac
+pitch_keycenter=63
+lokey=62 hikey=64
+lovel=106 hivel=115
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 F#3.flac
+pitch_keycenter=66
+lokey=65 hikey=67
+lovel=106
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=70
+lovel=106
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=77
+lovel=115
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 F#4.flac
+pitch_keycenter=78
+lokey=75 hikey=79
+lovel=106 hivel=115
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 A4.flac
+pitch_keycenter=81
+lokey=80 hikey=82
+lovel=106 hivel=115
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 C5.flac
+pitch_keycenter=84
+lokey=83 hikey=85
+lovel=106 hivel=116
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 D#5.flac
+pitch_keycenter=87
+lokey=86 hikey=88
+lovel=106 hivel=116
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 F#5.flac
+pitch_keycenter=90
+lokey=89 hikey=91
+lovel=106 hivel=116
+
+<region>
+sample=RDE88_V Samples/XFRde88 V5 A5.flac
+pitch_keycenter=93
+lokey=92 hikey=127
+lovel=106 hivel=116
+
+<region>
+sample=RDE88_V Samples/XFRde88 V6 C2.flac
+pitch_keycenter=48
+lokey=45 hikey=49
+lovel=116
+
+<region>
+sample=RDE88_V Samples/XFRde88 V6 C3.flac
+pitch_keycenter=60
+lokey=56 hikey=61
+lovel=106
+
+<region>
+sample=RDE88_V Samples/XFRde88 V6 D#3.flac
+pitch_keycenter=63
+lokey=62 hikey=64
+lovel=116
+
+<region>
+sample=RDE88_V Samples/XFRde88 V7 A4.flac
+pitch_keycenter=81
+lokey=78 hikey=82
+lovel=117
+
+<region>
+sample=RDE88_V Samples/XFRde88 V6 C5.flac
+pitch_keycenter=84
+lokey=83 hikey=127
+lovel=117

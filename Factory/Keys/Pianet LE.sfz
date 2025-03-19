@@ -1,0 +1,178 @@
+// Pianet Limited Edition
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+volume=-2
+amp_veltrack=25
+ampeg_release=0.400
+ampeg_attack=0.002
+
+<region>
+sample=Pianet Samples/XFPianet 02 F#0.flac
+pitch_keycenter=30
+lokey=0 hikey=31
+lovel=0 hivel=63
+end=653877
+
+<region>
+sample=Pianet Samples/XFPianet 02 A0.flac
+volume=3.16
+pitch_keycenter=33
+lokey=32 hikey=44
+lovel=0 hivel=63
+end=635676
+
+<region>
+sample=Pianet Samples/XFPianet 02 C2.flac
+pitch_keycenter=48
+lokey=45 hikey=51
+lovel=0 hivel=63
+end=332336
+
+<region>
+sample=Pianet Samples/XFPianet 02 F#2.flac
+pitch_keycenter=54
+lokey=52 hikey=55
+lovel=0 hivel=63
+end=188744
+
+<region>
+sample=Pianet Samples/XFPianet 02 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=58
+lovel=0 hivel=63
+end=253219
+
+<region>
+sample=Pianet Samples/XFPianet 02 C3.flac
+pitch_keycenter=60
+lokey=59 hikey=62
+lovel=0 hivel=63
+end=246912
+
+<region>
+sample=Pianet Samples/XFPianet 02 F#3.flac
+pitch_keycenter=66
+lokey=63 hikey=67
+lovel=0 hivel=63
+end=244128
+
+<region>
+sample=Pianet Samples/XFPianet 02 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=70
+lovel=0 hivel=63
+end=111481
+
+<region>
+sample=Pianet Samples/XFPianet 02 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=73
+lovel=0 hivel=63
+end=162085
+
+<region>
+sample=Pianet Samples/XFPianet 02 D#4.flac
+pitch_keycenter=75
+lokey=74 hikey=77
+lovel=0 hivel=63
+end=124985
+
+<region>
+sample=Pianet Samples/XFPianet 02 A4.flac
+pitch_keycenter=81
+lokey=78 hikey=82
+lovel=0 hivel=63
+end=132907
+
+<region>
+sample=Pianet Samples/XFPianet 02 C5.flac
+pitch_keycenter=84
+lokey=83 hikey=127
+lovel=0 hivel=63
+end=87610
+
+<region>
+sample=Pianet Samples/XFPianet 03 F#0.flac
+pitch_keycenter=30
+lokey=0 hikey=31
+lovel=64
+end=820224
+
+<region>
+sample=Pianet Samples/XFPianet 03 A1.flac
+pitch_keycenter=45
+lokey=32 hikey=46
+lovel=64
+end=482137
+
+<region>
+sample=Pianet Samples/XFPianet 03 C2.flac
+pitch_keycenter=48
+lokey=47 hikey=51
+lovel=64
+end=383058
+
+<region>
+sample=Pianet Samples/XFPianet 03 F#2.flac
+pitch_keycenter=54
+lokey=52 hikey=55
+lovel=64
+end=202051
+
+<region>
+sample=Pianet Samples/XFPianet 03 A2.flac
+pitch_keycenter=57
+lokey=56 hikey=58
+lovel=64
+end=278017
+
+<region>
+sample=Pianet Samples/XFPianet 03 C3.flac
+pitch_keycenter=60
+lokey=59 hikey=62
+lovel=64
+end=260728
+
+<region>
+sample=Pianet Samples/XFPianet 03 F#3.flac
+pitch_keycenter=66
+lokey=63 hikey=67
+lovel=64
+end=286474
+
+<region>
+sample=Pianet Samples/XFPianet 03 A3.flac
+pitch_keycenter=69
+lokey=68 hikey=70
+lovel=64
+end=134053
+
+<region>
+sample=Pianet Samples/XFPianet 03 C4.flac
+pitch_keycenter=72
+lokey=71 hikey=73
+lovel=64
+end=168836
+
+<region>
+sample=Pianet Samples/XFPianet 03 D#4.flac
+pitch_keycenter=75
+lokey=74 hikey=77
+lovel=64
+end=132491
+
+<region>
+sample=Pianet Samples/XFPianet 03 A4.flac
+pitch_keycenter=81
+lokey=78 hikey=82
+lovel=64
+end=145153
+
+<region>
+sample=Pianet Samples/XFPianet 03 C5.flac
+pitch_keycenter=84
+lokey=83 hikey=127
+lovel=64
+end=96668

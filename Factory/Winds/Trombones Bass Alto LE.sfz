@@ -1,0 +1,100 @@
+// Trombones Bass Alto Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.01
+ampeg_release=1.2
+amp_veltrack=35
+loop_crossfade=0.01
+loop_mode=loop_continuous
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto 02 E0.flac
+pitch_keycenter=28 tune=-30
+lokey=0 hikey=29
+loop_start=35352 loop_end=132801
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto-02 02 F#0.flac
+pitch_keycenter=30
+lokey=30 hikey=31
+loop_start=40198 loop_end=119200
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto-05 02 G#0.flac
+pitch_keycenter=32 tune=-12
+lokey=32 hikey=34
+loop_start=52675 loop_end=114845
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto-03 02 C1.flac
+pitch_keycenter=36 tune=-22
+lokey=35 hikey=38
+loop_start=50919 loop_end=136721
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto 02 E1.flac
+pitch_keycenter=40 tune=-30
+lokey=39 hikey=42
+loop_start=79033 loop_end=140849
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto-02 02 G#1.flac
+pitch_keycenter=44 tune=-22
+lokey=43 hikey=45
+loop_start=64082 loop_end=149584
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto 02 A#1.flac
+pitch_keycenter=46 tune=-10
+lokey=46 hikey=47
+loop_start=87797 loop_end=161581
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto-02 02 C2.flac
+pitch_keycenter=48 tune=-12
+lokey=48 hikey=49
+loop_start=61901 loop_end=154571
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto 02 D2.flac
+pitch_keycenter=50
+lokey=50 hikey=54
+loop_start=76123 loop_end=137540
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto-02 02 A#2.flac
+pitch_keycenter=58 tune=-14
+lokey=55 hikey=59
+loop_start=40218 loop_end=228131
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto 02 C3.flac
+pitch_keycenter=60 tune=18
+lokey=60 hikey=62
+loop_start=77226 loop_end=216442
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto 02 E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+loop_start=64158 loop_end=226829
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto 02 F#3.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+loop_start=61044 loop_end=260232
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto 02 A#3.flac
+pitch_keycenter=70 tune=-12
+lokey=69 hikey=71
+loop_start=74783 loop_end=192224
+
+<region>
+sample=Trombones Bass Alto Samples/XFTrombones Bass Alto-02 02 C4.flac
+pitch_keycenter=72 tune=-6
+lokey=72 hikey=127
+loop_start=73554 loop_end=172494

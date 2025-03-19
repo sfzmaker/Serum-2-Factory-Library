@@ -1,0 +1,100 @@
+// Trumpets Long Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.07
+ampeg_release=0.25
+amp_veltrack=35
+loop_crossfade=0.01
+loop_mode=loop_continuous
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long-02 03 F#2.flac
+pitch_keycenter=54 tune=8
+lokey=0 hikey=55
+loop_start=111649 loop_end=423707
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long-02 03 G#2.flac
+pitch_keycenter=56 tune=-8
+lokey=56 hikey=57
+loop_start=124928 loop_end=417523
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long 03 A#2.flac
+pitch_keycenter=58 tune=-14
+lokey=58 hikey=59
+loop_start=79981 loop_end=374659
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long-02 03 C3.flac
+pitch_keycenter=60 tune=-16
+lokey=60 hikey=61
+loop_start=33600 loop_end=262079
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long-03 03 D3.flac
+pitch_keycenter=62 tune=-12
+lokey=62 hikey=63
+loop_start=72000 loop_end=287999
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long-04 03 E3.flac
+pitch_keycenter=64 tune=-16
+lokey=64 hikey=66
+loop_start=52800 loop_end=377294
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long-02 03 G#3.flac
+pitch_keycenter=68 tune=-20
+lokey=67 hikey=69
+loop_start=79686 loop_end=472058
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long-02 03 A#3.flac
+pitch_keycenter=70 tune=-24
+lokey=70 hikey=71
+loop_start=80238 loop_end=243503
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long 03 C4.flac
+pitch_keycenter=72 tune=-18
+lokey=72 hikey=73
+loop_start=86400 loop_end=478079
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long 03 D4.flac
+pitch_keycenter=74 tune=-12
+lokey=74 hikey=75
+loop_start=81600 loop_end=454079
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long 03 E4.flac
+pitch_keycenter=76 tune=-16
+lokey=76 hikey=77
+loop_start=67200 loop_end=353271
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long 03 F#4.flac
+pitch_keycenter=78 tune=-22
+lokey=78 hikey=79
+loop_start=66048 loop_end=284158
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long-02 03 G#4.flac
+pitch_keycenter=80 tune=-22
+lokey=80 hikey=81
+loop_start=101376 loop_end=339967
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long 03 A#4.flac
+pitch_keycenter=82 tune=-33
+lokey=82 hikey=83
+loop_start=90158 loop_end=232088
+
+<region>
+sample=Trumpets Long Samples/XFtrumpets long-08 03 C5.flac
+pitch_keycenter=84 tune=-26
+lokey=84 hikey=127
+loop_start=47294 loop_end=179251

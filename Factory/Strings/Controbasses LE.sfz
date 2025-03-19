@@ -1,0 +1,77 @@
+// Controbasses Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.001
+ampeg_release=1.2
+loop_crossfade=0.01
+amp_veltrack=35
+loop_mode=loop_continuous
+
+<region>
+sample=Controbasses Long Samples/XFcontrobasses long-02 02 E0.flac
+pitch_keycenter=28 tune=12
+lokey=0 hikey=29
+loop_start=85516 loop_end=410790
+
+<region>
+sample=Controbasses Long Samples/XFcontrobasses long 02 F#0.flac
+pitch_keycenter=30  tune=30
+lokey=30 hikey=31
+loop_start=72846 loop_end=411745
+
+<region>
+sample=Controbasses Long Samples/XFcontrobasses long 02 G#0.flac
+pitch_keycenter=32 tune=40
+lokey=32 hikey=34
+loop_start=110466 loop_end=401172
+
+<region>
+sample=Controbasses Long Samples/XFcontrobasses long 02 C1.flac
+pitch_keycenter=36 tune=32
+lokey=35 hikey=37
+loop_start=208190 loop_end=455841
+
+<region>
+sample=Controbasses Long Samples/XFcontrobasses long 02 D1.flac
+pitch_keycenter=38 tune=22
+lokey=38 hikey=39
+loop_start=187023 loop_end=423689
+
+<region>
+sample=Controbasses Long Samples/XFcontrobasses long 02 E1.flac
+pitch_keycenter=40 tune=34
+lokey=40 hikey=41
+loop_start=80896 loop_end=483470
+
+<region>
+sample=Controbasses Long Samples/XFcontrobasses long 02 F#1.flac
+pitch_keycenter=42 tune=38
+lokey=42 hikey=44
+loop_start=87247 loop_end=471294
+
+<region>
+sample=Controbasses Long Samples/XFcontrobasses long 02 A#1.flac
+pitch_keycenter=46 tune=26
+lokey=45 hikey=47
+loop_start=64893 loop_end=438025
+
+<region>
+sample=Controbasses Long Samples/XFcontrobasses long 02 C2.flac
+pitch_keycenter=48 tune=18
+lokey=48 hikey=49
+loop_start=102356 loop_end=387934
+
+<region>
+sample=Controbasses Long Samples/XFcontrobasses long-02 02 D2.flac
+pitch_keycenter=50 tune=18
+lokey=50 hikey=51
+loop_start=96561 loop_end=401844
+
+<region>
+sample=Controbasses Long Samples/XFcontrobasses long 02 E2.flac
+pitch_keycenter=52 tune=12
+lokey=52 hikey=127
+loop_start=97084 loop_end=474113
+

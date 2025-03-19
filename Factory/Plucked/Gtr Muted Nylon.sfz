@@ -1,0 +1,167 @@
+// Muted Nylon Guitar
+// Serum 2 Factory Content
+// By 7Skies
+
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.7
+volume=-6.02
+amp_veltrack=35
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon C-2.flac
+pitch_keycenter=40
+lokey=0 hikey=40
+tune=-22
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon F1.flac
+key=41
+tune=-22
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon F#1.flac
+key=42
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon G1.flac
+key=43
+tune=-10
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon G#1.flac
+key=44
+tune=-7
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon A1.flac
+key=45
+tune=-15
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon A#1.flac
+key=46
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon B1.flac
+key=47
+tune=-18
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon C2.flac
+key=48
+tune=-12
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon C#2.flac
+key=49
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon D2.flac
+key=50
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon D#2.flac
+key=51
+tune=-14
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon E2.flac
+key=52
+tune=-9
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon F2.flac
+key=53
+tune=-4
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon F#2.flac
+key=54
+tune=-17
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon G2.flac
+key=55
+tune=-12
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon G#2.flac
+key=56
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon A2.flac
+pitch_keycenter=57
+lokey=57 hikey=58
+tune=-13
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon B2.flac
+pitch_keycenter=60
+lokey=59 hikey=60
+tune=-2
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon C#3.flac
+key=61
+tune=11
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon D3.flac
+key=62
+tune=-9
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon D#3.flac
+pitch_keycenter=64
+lokey=63 hikey=64
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon F3.flac
+key=65
+tune=-4
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon F#3.flac
+key=66
+tune=-19
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon G3.flac
+pitch_keycenter=67
+lokey=67 hikey=68
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon A3.flac
+pitch_keycenter=70
+lokey=69 hikey=70
+tune=-7
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon B3.flac
+pitch_keycenter=72
+lokey=71 hikey=72
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon C#4.flac
+key=73
+tune=3
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon D4.flac
+key=74
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon D#4.flac
+key=75
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon E4.flac
+key=76
+
+<region>
+sample=Muted Nylon Samples/XFGtrMutNylon F4.flac
+pitch_keycenter=77
+lokey=77 hikey=127
+tune=-8

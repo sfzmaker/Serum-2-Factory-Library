@@ -1,0 +1,23 @@
+// Serum 2 Factory Content
+
+<group>
+ampeg_attack=0.0
+ampeg_release=0.32
+loop_mode=loop_continuous
+
+pitch_keycenter=48
+offset=0
+loop_start=184894
+loop_end=200852
+
+<region>
+sample=../../../Samples/Factory/Synth/DX Brass3 C2.flac
+tune=12 pan=50
+
+<region>
+sample=../../../Samples/Factory/Synth/DX Brass3 C2.flac
+tune=-12 pan=-50
+
+<region>
+sample=../../../Samples/Factory/Synth/DX Brass3 C2.flac
+lokey=72

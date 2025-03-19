@@ -1,0 +1,668 @@
+
+<group>
+ampeg_attack=0
+ampeg_release=0.850
+amp_veltrack=0.0001
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 A-1.flac
+pitch_keycenter=21
+lokey=0 hikey=23
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 A-1.flac
+pitch_keycenter=21
+lokey=0 hikey=23
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 A-1.flac
+pitch_keycenter=21
+lokey=0 hikey=25
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 A-1.flac
+pitch_keycenter=21
+lokey=0 hikey=23
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 C0.flac
+pitch_keycenter=24
+lokey=24 hikey=26
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 C0.flac
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 C0.flac
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 D#0.flac
+pitch_keycenter=27
+lokey=27 hikey=29
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 D#0.flac
+pitch_keycenter=27
+lokey=27 hikey=29
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 D#0.flac
+pitch_keycenter=27
+lokey=27 hikey=29
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 G0.flac
+pitch_keycenter=31
+lokey=30 hikey=32
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 G0.flac
+pitch_keycenter=31
+lokey=30 hikey=32
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 G0.flac
+pitch_keycenter=31
+lokey=26 hikey=32
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 G0.flac
+pitch_keycenter=31
+lokey=30 hikey=32
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 A0.flac
+pitch_keycenter=33
+lokey=33 hikey=35
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 A0.flac
+pitch_keycenter=33
+lokey=33 hikey=35
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 A0.flac
+pitch_keycenter=33
+lokey=33 hikey=35
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 A0.flac
+pitch_keycenter=33
+lokey=33 hikey=35
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 C1.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 C1.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 C1.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 C1.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 D#1.flac
+pitch_keycenter=39
+lokey=39 hikey=41
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 D#1.flac
+pitch_keycenter=39
+lokey=39 hikey=41
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 D#1.flac
+pitch_keycenter=39
+lokey=39 hikey=41
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 D#1.flac
+pitch_keycenter=39
+lokey=39 hikey=41
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 F#1.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 F#1.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 F#1.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 F#1.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 A1.flac
+pitch_keycenter=45
+lokey=45 hikey=47
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 A1.flac
+pitch_keycenter=45
+lokey=45 hikey=47
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 A1.flac
+pitch_keycenter=45
+lokey=45 hikey=47
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 A1.flac
+pitch_keycenter=45
+lokey=45 hikey=47
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 C2.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 C2.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 C2.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 C2.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 D#2.flac
+pitch_keycenter=51
+lokey=51 hikey=53
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 D#2.flac
+pitch_keycenter=51
+lokey=51 hikey=53
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 D#2.flac
+pitch_keycenter=51
+lokey=51 hikey=53
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 D#2.flac
+pitch_keycenter=51
+lokey=51 hikey=53
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 F#2.flac
+pitch_keycenter=54
+lokey=54 hikey=56
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 F#2.flac
+pitch_keycenter=54
+lokey=54 hikey=56
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 F#2.flac
+pitch_keycenter=54
+lokey=54 hikey=56
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 F#2.flac
+pitch_keycenter=54
+lokey=54 hikey=56
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 A2.flac
+pitch_keycenter=57
+lokey=57 hikey=59
+hivel=41
+tune=4
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 A2.flac
+pitch_keycenter=57
+lokey=57 hikey=59
+lovel=42 hivel=69
+tune=4
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 A2.flac
+pitch_keycenter=57
+lokey=57 hikey=59
+lovel=70 hivel=100
+tune=4
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 A2.flac
+pitch_keycenter=57
+lokey=57 hikey=59
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 C3.flac
+pitch_keycenter=60
+lokey=60 hikey=62
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 C3.flac
+pitch_keycenter=60
+lokey=60 hikey=62
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 C3.flac
+pitch_keycenter=60
+lokey=60 hikey=62
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 C3.flac
+pitch_keycenter=60
+lokey=60 hikey=62
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 D#3.flac
+pitch_keycenter=63
+lokey=63 hikey=65
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 D#3.flac
+pitch_keycenter=63
+lokey=63 hikey=65
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 D#3.flac
+pitch_keycenter=63 volume=-3
+lokey=63 hikey=65
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 D#3.flac
+pitch_keycenter=63
+lokey=63 hikey=65
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 F#3.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 F#3.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 F#3.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 F#3.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 A3.flac
+pitch_keycenter=69
+lokey=69 hikey=71
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 A3.flac
+pitch_keycenter=69
+lokey=69 hikey=71
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 A3.flac
+pitch_keycenter=69
+lokey=69 hikey=71
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 A3.flac
+pitch_keycenter=69
+lokey=69 hikey=71
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 C4.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 C4.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 C4.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 C4.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 D#4.flac
+pitch_keycenter=75
+lokey=75 hikey=77
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 D#4.flac
+pitch_keycenter=75
+lokey=75 hikey=77
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 D#4.flac
+pitch_keycenter=75
+lokey=75 hikey=77
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 D#4.flac
+pitch_keycenter=75
+lokey=75 hikey=77
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 F#4.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 F#4.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 F#4.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 F#4.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 A4.flac
+pitch_keycenter=81
+lokey=81 hikey=83
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 A4.flac
+pitch_keycenter=81
+lokey=81 hikey=83
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 A4.flac
+pitch_keycenter=81
+lokey=81 hikey=83
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 A4.flac
+pitch_keycenter=81
+lokey=81 hikey=83
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 C5.flac
+pitch_keycenter=84
+lokey=84 hikey=88
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 C5.flac
+pitch_keycenter=84 volume=-3
+lokey=84 hikey=88
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 C5.flac
+pitch_keycenter=84
+lokey=84 hikey=88
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 C5.flac
+pitch_keycenter=84
+lokey=84 hikey=88
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 F#5.flac
+pitch_keycenter=90
+lokey=89 hikey=92
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 F#5.flac
+pitch_keycenter=90
+lokey=89 hikey=92
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 F#5.flac
+pitch_keycenter=90
+lokey=89 hikey=92
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 F#5.flac
+pitch_keycenter=90
+lokey=89 hikey=92
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 A5.flac
+pitch_keycenter=93
+lokey=93 hikey=95
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 A5.flac
+pitch_keycenter=93
+lokey=93 hikey=95
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 A5.flac
+pitch_keycenter=93
+lokey=93 hikey=95
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 A5.flac
+pitch_keycenter=93
+lokey=93 hikey=95
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 C6.flac
+pitch_keycenter=96
+lokey=96 hikey=98
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 C6.flac
+pitch_keycenter=96
+lokey=96 hikey=98
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 C6.flac
+pitch_keycenter=96
+lokey=96 hikey=98
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 C6.flac
+pitch_keycenter=96
+lokey=96 hikey=98
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 D#6.flac
+pitch_keycenter=99
+lokey=99 hikey=101
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 D#6.flac
+pitch_keycenter=99
+lokey=99 hikey=101
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 D#6.flac
+pitch_keycenter=99
+lokey=99 hikey=101
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 D#6.flac
+pitch_keycenter=99
+lokey=99 hikey=101
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 F#6.flac
+pitch_keycenter=102
+lokey=102 hikey=106
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 F#6.flac
+pitch_keycenter=102
+lokey=102 hikey=106
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 F#6.flac
+pitch_keycenter=102
+lokey=102 hikey=106
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 F#6.flac
+pitch_keycenter=102
+lokey=102 hikey=106
+lovel=101
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 04 C7.flac
+pitch_keycenter=108
+lokey=107 hikey=127
+hivel=41
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 05 C7.flac
+pitch_keycenter=108
+lokey=107 hikey=127
+lovel=42 hivel=69
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 06 C7.flac
+pitch_keycenter=108
+lokey=107 hikey=127
+lovel=70 hivel=100
+
+<region>
+sample=Baby Grand Samples/XFBabyGrand 07 C7.flac
+pitch_keycenter=108
+lokey=107 hikey=127
+lovel=101

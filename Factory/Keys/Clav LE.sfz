@@ -1,0 +1,52 @@
+// Clav LE
+// Serum 2 Factory Content
+
+<group>
+loop_mode=one_shot
+ampeg_attack=0.001
+ampeg_release=0.12
+amp_veltrack=0.0001
+
+<region>
+sample=Clav Samples/XFClav 01 F#0.flac
+pitch_keycenter=30 lokey=0 hikey=32
+lovel=1 hivel=31 volume=1
+
+<region>
+sample=Clav Samples/XFClav 02 F#0.flac
+pitch_keycenter=30 lokey=0 hikey=32
+lovel=32 hivel=63 volume=1
+
+<region>
+sample=Clav Samples/XFClav 03 F#0.flac
+pitch_keycenter=30 lokey=0 hikey=32
+lovel=64 hivel=127 volume=1
+
+<region>
+sample=Clav Samples/XFClav 01 A0.flac
+pitch_keycenter=33 lokey=33 hikey=38
+lovel=1 hivel=63 volume=1
+
+<region>
+sample=Clav Samples/XFClav 02 A0.flac
+pitch_keycenter=33 lokey=33 hikey=38
+lovel=64 hivel=127 volume=1
+
+<region>
+sample=Clav Samples/XFClav 01 D#1.flac
+pitch_keycenter=39 lokey=39 hikey=47
+lovel=1 hivel=63 volume=1
+<region>
+sample=Clav Samples/XFClav 02 D#1.flac
+pitch_keycenter=39 lokey=39 hikey=47
+lovel=64 hivel=127 volume=1
+
+<region>
+sample=Clav Samples/XFClav 01 D#2.flac
+pitch_keycenter=51 lokey=48 hikey=127
+lovel=1 hivel=63 volume=1
+
+<region>
+sample=Clav Samples/XFClav 05 D#2.flac
+pitch_keycenter=51 lokey=48 hikey=127
+lovel=64 hivel=127 volume=-12

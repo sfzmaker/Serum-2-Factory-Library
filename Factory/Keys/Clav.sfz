@@ -1,0 +1,269 @@
+// Clav
+// Serum 2 Factory Content
+
+<group>loop_mode=one_shot
+ampeg_attack=0.001
+ampeg_release=0.12
+amp_veltrack=0.0001
+
+<region>
+lokey=0 hikey=32 pitch_keycenter=30
+sample=Clav Samples/XFClav 01 F#0.flac
+volume=1 lovel=1 hivel=31
+
+<region>
+lokey=0 hikey=32 pitch_keycenter=30
+sample=Clav Samples/XFClav 02 F#0.flac
+volume=1 lovel=32 hivel=63
+
+<region>
+lokey=0 hikey=32 pitch_keycenter=30
+sample=Clav Samples/XFClav 03 F#0.flac
+volume=1 lovel=64 hivel=127
+
+<region>
+lokey=33 hikey=38 pitch_keycenter=33
+sample=Clav Samples/XFClav 01 A0.flac
+volume=1 lovel=1 hivel=63
+
+<region>
+lokey=33 hikey=38 pitch_keycenter=33
+sample=Clav Samples/XFClav 02 A0.flac
+volume=1 lovel=64 hivel=127
+
+
+<region>
+lokey=39 hikey=43 pitch_keycenter=39
+sample=Clav Samples/XFClav 01 D#1.flac
+volume=1 lovel=1 hivel=63
+
+<region>
+lokey=39 hikey=43 pitch_keycenter=39
+sample=Clav Samples/XFClav 02 D#1.flac
+volume=1 lovel=64 hivel=127
+
+<region>
+lokey=44 hikey=47 pitch_keycenter=45
+sample=Clav Samples/XFClav 01 A1.flac
+volume=1 lovel=1 hivel=31
+
+<region>
+lokey=44 hikey=47 pitch_keycenter=45
+sample=Clav Samples/XFClav 02 A1.flac
+volume=1 lovel=32 hivel=46
+
+<region>
+lokey=44 hikey=47 pitch_keycenter=45
+sample=Clav Samples/XFClav 03 A1.flac
+volume=1 lovel=47 hivel=69
+
+<region>
+lokey=44 hikey=47 pitch_keycenter=45
+sample=Clav Samples/XFClav 04 A1.flac
+volume=1 lovel=70 hivel=95
+
+<region>
+lokey=44 hikey=47 pitch_keycenter=45
+sample=Clav Samples/XFClav 05 A1.flac
+volume=1 lovel=96 hivel=127
+
+<region>
+lokey=48 hikey=50 pitch_keycenter=48
+sample=Clav Samples/XFClav 01 C2.flac
+volume=1 lovel=1 hivel=31
+
+<region>
+lokey=48 hikey=50 pitch_keycenter=48
+sample=Clav Samples/XFClav 02 C2.flac
+volume=1 lovel=32 hivel=63
+
+<region>
+lokey=48 hikey=50 pitch_keycenter=48
+sample=Clav Samples/XFClav 03 C2.flac
+volume=1 lovel=64 hivel=96
+
+<region>
+lokey=48 hikey=50 pitch_keycenter=48
+sample=Clav Samples/XFClav 04 C2.flac
+volume=1 lovel=97 hivel=127
+
+<region>
+lokey=51 hikey=53 pitch_keycenter=51
+sample=Clav Samples/XFClav 01 D#2.flac
+volume=1 lovel=1 hivel=25
+
+<region>
+lokey=51 hikey=53 pitch_keycenter=51
+sample=Clav Samples/XFClav 02 D#2.flac
+volume=1 lovel=26 hivel=46
+
+<region>
+lokey=51 hikey=53 pitch_keycenter=51
+sample=Clav Samples/XFClav 03 D#2.flac
+volume=1 lovel=47 hivel=69
+
+<region>
+lokey=51 hikey=53 pitch_keycenter=51
+sample=Clav Samples/XFClav 05 D#2.flac
+volume=1 lovel=70 hivel=127
+
+<region>
+lokey=54 hikey=59 pitch_keycenter=54
+sample=Clav Samples/XFClav 01 F#2.flac
+volume=1 lovel=1 hivel=31
+
+<region>
+lokey=54 hikey=59 pitch_keycenter=54
+sample=Clav Samples/XFClav 02 F#2.flac
+volume=1 lovel=32 hivel=63
+
+<region>
+lokey=54 hikey=59 pitch_keycenter=54
+sample=Clav Samples/XFClav 03 F#2.flac
+volume=1 lovel=64 hivel=96
+
+<region>
+lokey=54 hikey=59 pitch_keycenter=54
+sample=Clav Samples/XFClav 04 F#2.flac
+volume=1 lovel=97 hivel=127
+
+<region>
+lokey=60 hikey=65 pitch_keycenter=63
+sample=Clav Samples/XFClav 01 D#3.flac
+volume=1 lovel=1 hivel=31
+
+<region>
+lokey=60 hikey=65 pitch_keycenter=63
+sample=Clav Samples/XFClav 02 D#3.flac
+volume=1 lovel=32 hivel=63
+
+<region>
+lokey=60 hikey=65 pitch_keycenter=63
+sample=Clav Samples/XFClav 03 D#3.flac
+volume=1 lovel=64 hivel=96
+
+<region>
+lokey=60 hikey=65 pitch_keycenter=63
+sample=Clav Samples/XFClav 04 D#3.flac
+volume=1 lovel=97 hivel=127
+
+<region>
+lokey=66 hikey=68 pitch_keycenter=66
+sample=Clav Samples/XFClav 01 F#3.flac
+volume=1 lovel=1 hivel=31
+
+<region>
+lokey=66 hikey=68 pitch_keycenter=66
+sample=Clav Samples/XFClav 02 F#3.flac
+volume=1 lovel=32 hivel=63
+
+<region>
+lokey=66 hikey=68 pitch_keycenter=66
+sample=Clav Samples/XFClav 03 F#3.flac
+volume=1 lovel=64 hivel=96
+
+<region>
+lokey=66 hikey=68 pitch_keycenter=66
+sample=Clav Samples/XFClav 04 F#3.flac
+volume=1 lovel=97 hivel=127
+
+<region>
+lokey=69 hikey=71 pitch_keycenter=69
+sample=Clav Samples/XFClav 01 A3.flac
+volume=1 lovel=1 hivel=31
+
+<region>
+lokey=69 hikey=71 pitch_keycenter=69
+sample=Clav Samples/XFClav 02 A3.flac
+volume=1 lovel=32 hivel=63
+
+<region>
+lokey=69 hikey=71 pitch_keycenter=69
+sample=Clav Samples/XFClav 03 A3.flac
+volume=1 lovel=64 hivel=96
+
+<region>
+lokey=69 hikey=71 pitch_keycenter=69
+sample=Clav Samples/XFClav 04 A3.flac
+volume=1 lovel=97 hivel=127
+
+<region>
+lokey=72 hikey=74 pitch_keycenter=72
+sample=Clav Samples/XFClav 01 C4.flac
+volume=1 lovel=1 hivel=48
+
+<region>
+lokey=72 hikey=74 pitch_keycenter=72
+sample=Clav Samples/XFClav 02 C4.flac
+volume=1 lovel=49 hivel=96
+
+<region>
+lokey=72 hikey=74 pitch_keycenter=72
+sample=Clav Samples/XFClav 03 C4.flac
+volume=1 lovel=97 hivel=127
+
+<region>
+lokey=75 hikey=77 pitch_keycenter=75
+sample=Clav Samples/XFClav 01 D#4.flac
+volume=1 lovel=1 hivel=40
+
+<region>
+lokey=75 hikey=77 pitch_keycenter=75
+sample=Clav Samples/XFClav 02 D#4.flac
+volume=1 lovel=41 hivel=90
+
+<region>
+lokey=75 hikey=77 pitch_keycenter=75
+sample=Clav Samples/XFClav 03 D#4.flac
+volume=1 lovel=91 hivel=127
+
+<region>
+lokey=78 hikey=80 pitch_keycenter=78
+sample=Clav Samples/XFClav 01 F#4.flac
+volume=1 lovel=1 hivel=63
+
+<region>
+lokey=78 hikey=80 pitch_keycenter=78
+sample=Clav Samples/XFClav 02 F#4.flac
+volume=1 lovel=64 hivel=127
+
+<region>
+lokey=81 hikey=83 pitch_keycenter=81
+sample=Clav Samples/XFClav 01 A4.flac
+volume=1 lovel=1 hivel=40
+
+<region>
+lokey=81 hikey=83 pitch_keycenter=81
+sample=Clav Samples/XFClav 02 A4.flac
+volume=1 lovel=41 hivel=90
+
+<region>
+lokey=81 hikey=83 pitch_keycenter=81
+sample=Clav Samples/XFClav 03 A4.flac
+volume=1 lovel=91 hivel=127
+
+<region>
+lokey=84 hikey=86 pitch_keycenter=84
+sample=Clav Samples/XFClav 01 C5.flac
+volume=1 lovel=1 hivel=63
+
+<region>
+lokey=84 hikey=86 pitch_keycenter=84
+sample=Clav Samples/XFClav 02 C5.flac
+volume=1 lovel=64 hivel=127
+
+<region>
+lokey=87 hikey=127 pitch_keycenter=87
+sample=Clav Samples/XFClav 01 D#5.flac
+volume=1 lovel=1 hivel=40
+
+<region>
+lokey=87 hikey=127 pitch_keycenter=87
+sample=Clav Samples/XFClav 02 D#5.flac
+volume=1 lovel=41 hivel=90
+
+<region>
+lokey=87 hikey=127 pitch_keycenter=87
+sample=Clav Samples/XFClav 03 D#5.flac
+volume=1 lovel=91 hivel=127
+

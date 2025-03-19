@@ -1,0 +1,73 @@
+// Choir Oo Low
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.02
+ampeg_release=1.0
+amp_veltrack=25
+loop_mode=loop_continuous
+
+
+<region>
+sample=Choir Samples/XFChoir Oo Low E1.flac
+pitch_keycenter=40
+lokey=0 hikey=41
+loop_start=88150 loop_end=242758
+loop_crossfade=0.9663
+
+<region>
+sample=Choir Samples/XFChoir Oo Low G1.flac
+pitch_keycenter=43
+lokey=42 hikey=44
+loop_start=143920 loop_end=298528
+loop_crossfade=0.9663
+
+<region>
+sample=Choir Samples/XFChoir Oo Low A#1.flac
+pitch_keycenter=46
+lokey=45 hikey=47
+loop_start=92340 loop_end=232893
+loop_crossfade=0.5856
+
+<region>
+sample=Choir Samples/XFChoir Oo Low C#2.flac
+pitch_keycenter=49
+lokey=48 hikey=50
+loop_start=100744 loop_end=270812
+loop_crossfade=1.4172
+
+<region>
+sample=Choir Samples/XFChoir Oo Low E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+loop_start=100352 loop_end=254960
+loop_crossfade=0.9663
+
+<region>
+sample=Choir Samples/XFChoir Oo Low G2.flac
+pitch_keycenter=55
+lokey=54 hikey=56
+loop_start=127286 loop_end=281894
+loop_crossfade=0.6442
+
+<region>
+sample=Choir Samples/XFChoir Oo Low A#2.flac
+pitch_keycenter=58
+lokey=57 hikey=59
+loop_start=126976 loop_end=267529
+loop_crossfade=1.1713
+
+<region>
+sample=Choir Samples/XFChoir Oo Low C#3.flac
+pitch_keycenter=61
+lokey=60 hikey=62
+loop_start=116736 loop_end=271344
+loop_crossfade=1.6105
+
+<region>
+sample=Choir Samples/XFChoir Oo Low E3.flac
+pitch_keycenter=64
+lokey=63 hikey=127
+loop_start=194750 loop_end=310910
+loop_crossfade=0.4840

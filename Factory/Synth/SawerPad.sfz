@@ -1,0 +1,105 @@
+// SawerPad
+// Serum 2 Factory Content
+// By 7Skies
+
+<group>
+ampeg_attack=0.001
+ampeg_release=0.32
+loop_mode=loop_continuous
+loop_crossfade=0
+
+<region>
+sample=SawerPad Samples/SawerPad C-2.flac
+pitch_keycenter=24
+lokey=0 hikey=27
+loop_end=147146
+
+<region>
+sample=SawerPad Samples/SawerPad E0.flac
+pitch_keycenter=28
+lokey=28 hikey=31
+loop_end=123137
+
+<region>
+sample=SawerPad Samples/SawerPad G#0.flac
+pitch_keycenter=32
+lokey=32 hikey=35
+loop_end=98611
+
+<region>
+sample=SawerPad Samples/SawerPad C1.flac
+pitch_keycenter=36
+lokey=36 hikey=39
+loop_end=99157
+
+<region>
+sample=SawerPad Samples/SawerPad E1.flac
+pitch_keycenter=40
+lokey=40 hikey=43
+loop_end=148296
+
+<region>
+sample=SawerPad Samples/SawerPad G#1.flac
+pitch_keycenter=44
+lokey=44 hikey=47
+loop_end=49287
+
+<region>
+sample=SawerPad Samples/SawerPad C2.flac
+pitch_keycenter=48
+lokey=48 hikey=51
+loop_end=98816
+
+<region>
+sample=SawerPad Samples/SawerPad E2.flac
+pitch_keycenter=52
+lokey=52 hikey=55
+loop_end=172921
+
+<region>
+sample=SawerPad Samples/SawerPad G#2.flac
+pitch_keycenter=56
+lokey=56 hikey=59
+loop_end=123865
+
+<region>
+sample=SawerPad Samples/SawerPad C3.flac
+pitch_keycenter=60
+lokey=60 hikey=63
+loop_end=98472
+
+<region>
+sample=SawerPad Samples/SawerPad E3.flac
+pitch_keycenter=64
+lokey=64 hikey=67
+loop_end=48850
+
+<region>
+sample=SawerPad Samples/SawerPad G#3.flac
+pitch_keycenter=68
+lokey=68 hikey=71
+loop_end=49501
+
+<region>
+sample=SawerPad Samples/SawerPad C4.flac
+pitch_keycenter=72
+lokey=72 hikey=75
+loop_end=49406
+
+<region>
+sample=SawerPad Samples/SawerPad E4.flac
+pitch_keycenter=76
+lokey=76 hikey=79
+loop_end=53667
+
+<region>
+sample=SawerPad Samples/SawerPad G#4.flac
+pitch_keycenter=80
+lokey=80 hikey=83
+loop_end=49446
+
+<region>
+sample=SawerPad Samples/SawerPad C5.flac
+pitch_keycenter=84
+lokey=84 hikey=127
+loop_end=98642

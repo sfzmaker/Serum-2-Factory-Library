@@ -1,0 +1,169 @@
+// Xylophone Limited Edition
+// Serum2 Factory Content
+// By Steve Duda
+
+<group>
+amp_veltrack=15
+ampeg_attack=0.001
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 03 C3.flac
+pitch_keycenter=60 lokey=0 hikey=61
+lovel=90
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 02 C3.flac
+pitch_keycenter=60 lokey=0 hikey=61
+lovel=43 hivel=89
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 01 C3.flac
+pitch_keycenter=60 lokey=0 hikey=61
+hivel=42
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 03 E3.flac
+pitch_keycenter=64 lokey=62 hikey=65
+lovel=90
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 02 E3.flac
+pitch_keycenter=64 lokey=62 hikey=65
+lovel=43 hivel=89
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 01 E3.flac
+pitch_keycenter=64 lokey=62 hikey=65
+hivel=42
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 03 G#3.flac
+pitch_keycenter=68 lokey=66 hikey=69
+lovel=90
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 02 G#3.flac
+pitch_keycenter=68 lokey=66 hikey=69
+lovel=43 hivel=89
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 01 G#3.flac
+pitch_keycenter=68 lokey=66 hikey=69
+hivel=42
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 03 C4.flac
+pitch_keycenter=72 lokey=70 hikey=73
+lovel=90
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 02 C4.flac
+pitch_keycenter=72 lokey=70 hikey=73
+lovel=43 hivel=89
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 01 C4.flac
+pitch_keycenter=72 lokey=70 hikey=73
+hivel=42
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 03 E4.flac
+pitch_keycenter=76 lokey=74 hikey=77
+lovel=90
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 02 E4.flac
+pitch_keycenter=76 lokey=74 hikey=77
+lovel=43 hivel=89
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 01 E5.flac volume=-8
+
+pitch_keycenter=76 lokey=74 hikey=77
+hivel=42
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 03 G#4.flac
+pitch_keycenter=80 lokey=78 hikey=81
+lovel=90
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 02 G#4.flac
+pitch_keycenter=80 lokey=78 hikey=81
+lovel=43 hivel=89
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 01 G#4.flac
+pitch_keycenter=80 lokey=78 hikey=81
+hivel=42
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 03 C5.flac
+pitch_keycenter=84 lokey=82 hikey=85
+lovel=90
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 02 C5.flac
+pitch_keycenter=84 lokey=82 hikey=89
+lovel=43 hivel=89
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 01 C5.flac
+pitch_keycenter=84 lokey=82 hikey=85
+hivel=42
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 03 E5.flac
+pitch_keycenter=88 lokey=86 hikey=89
+lovel=90
+
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 01 E5.flac
+pitch_keycenter=88 lokey=86 hikey=89
+hivel=42
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 03 G#5.flac
+pitch_keycenter=92 lokey=90 hikey=93
+lovel=90
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 02 G#5.flac
+pitch_keycenter=92 lokey=90 hikey=93
+lovel=43 hivel=89
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 01 G#5.flac
+pitch_keycenter=92 lokey=90 hikey=93
+hivel=42
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 03 C6.flac
+pitch_keycenter=96 lokey=94 hikey=97
+lovel=90
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 02 C6.flac
+pitch_keycenter=96 lokey=94 hikey=97
+lovel=43 hivel=89
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 01 C6.flac
+pitch_keycenter=96 lokey=94 hikey=97
+hivel=42
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 03 E6.flac
+pitch_keycenter=100 lokey=98 hikey=127
+lovel=90
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 02 E6.flac
+pitch_keycenter=100 lokey=98 hikey=127
+lovel=43 hivel=89
+
+<region>
+sample=Xylophone Lite Samples/XFXylophone 01 E6.flac
+pitch_keycenter=100 lokey=98 hikey=127
+hivel=42

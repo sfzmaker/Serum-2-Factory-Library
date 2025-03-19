@@ -1,0 +1,79 @@
+// Cello Limited Edition
+// Serum 2 Factory Content
+// By Matt Aimonetti & Steve Duda
+
+<group>
+ampeg_attack=0.001
+ampeg_release=1.0
+amp_veltrack=35
+
+<region>
+sample=Cello Long Samples/XFcello long-04 01 C1.flac
+pitch_keycenter=36 tune=-2
+lokey=0 hikey=37
+
+<region>
+sample=Cello Long Samples/XFcello long-02 01 D1.flac
+pitch_keycenter=38 tune=20
+lokey=38 hikey=39
+
+<region>
+sample=Cello Long Samples/XFcello long-02 01 E1.flac
+pitch_keycenter=40 tune=25 tune=24
+lokey=40 hikey=41
+
+<region>
+sample=Cello Long Samples/XFcello long 01 F#1.flac
+pitch_keycenter=42 tune=28
+lokey=42 hikey=43
+
+<region>
+sample=Cello Long Samples/XFcello long-02 01 G#1.flac
+pitch_keycenter=44 tune=-2
+lokey=44 hikey=46
+
+<region>
+sample=Cello Long Samples/XFcello long-02 01 C2.flac
+pitch_keycenter=48 tune=14 tune=14
+lokey=47 hikey=50
+
+<region>
+sample=Cello Long Samples/XFcello long-02 01 F#2.flac
+pitch_keycenter=54 tune=12 tune=14
+lokey=51 hikey=55
+
+<region>
+sample=Cello Long Samples/XFcello long-02 01 G#2.flac
+pitch_keycenter=56 tune=8
+lokey=56 hikey=57
+
+<region>
+sample=Cello Long Samples/XFcello long 01 A#2.flac
+pitch_keycenter=58
+lokey=58 hikey=61
+
+<region>
+sample=Cello Long Samples/XFcello long 01 E3.flac
+pitch_keycenter=64 tune=-8
+lokey=62 hikey=65
+
+<region>
+sample=Cello Long Samples/XFcello long 01 F#3.flac
+pitch_keycenter=66 tune=6
+lokey=66 hikey=68
+
+<region>
+sample=Cello Long Samples/XFcello long 01 A#3.flac
+pitch_keycenter=70 tune=50
+lokey=69 hikey=71
+
+<region>
+sample=Cello Long Samples/XFcello long-02 01 C4.flac
+pitch_keycenter=72 tune=20
+lokey=72 hikey=73
+
+<region>
+sample=Cello Long Samples/XFcello long-02 01 D4.flac
+pitch_keycenter=74 tune=25
+lokey=74 hikey=127
+

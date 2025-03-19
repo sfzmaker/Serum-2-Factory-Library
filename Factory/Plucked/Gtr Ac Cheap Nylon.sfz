@@ -1,0 +1,207 @@
+// Guitar Acoustic Cheap Nylon
+// Serum 2 Factory Content
+// By Steve Duda
+
+<group>
+amp_veltrack=0.0001
+ampeg_attack=0.0
+ampeg_release=0.7
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 03 F1.flac
+pitch_keycenter=41
+lokey=0 hikey=42
+lovel=94 tune=-1
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 02 F1.flac
+pitch_keycenter=41
+lokey=0 hikey=42
+lovel=46 hivel=93 tune=-1
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 01 F1.flac
+pitch_keycenter=41
+lokey=0 hikey=42
+hivel=45 tune=-1
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 03 A1.flac
+pitch_keycenter=45
+lokey=43 hikey=46
+lovel=94 tune=4
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 02 A1.flac
+pitch_keycenter=45
+lokey=43 hikey=46
+lovel=46 hivel=93 tune=4
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 01 A1.flac
+pitch_keycenter=45
+lokey=43 hikey=46
+hivel=45 tune=4
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 03 C#2.flac
+pitch_keycenter=49
+lokey=47 hikey=50
+lovel=94 tune=-5
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 02 C#2.flac
+pitch_keycenter=49
+lokey=47 hikey=50
+lovel=46 hivel=93 tune=-5
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 01 C#2.flac
+pitch_keycenter=49
+lokey=47 hikey=50
+hivel=45 tune=-5
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 03 F2.flac
+pitch_keycenter=53
+lokey=51 hikey=54
+lovel=94 tune=-3
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 02 F2.flac
+pitch_keycenter=53
+lokey=51 hikey=54
+lovel=46 hivel=93 tune=-3
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 01 F2.flac
+pitch_keycenter=53
+lokey=51 hikey=54
+hivel=45 tune=-3
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 03 A2.flac
+pitch_keycenter=57
+lokey=55 hikey=58
+lovel=94 tune=1
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 02 A2.flac
+pitch_keycenter=57
+lokey=55 hikey=58
+lovel=46 hivel=93 tune=1
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 01 A2.flac
+pitch_keycenter=57
+lokey=55 hikey=58
+hivel=45 tune=1
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 03 C#3.flac
+pitch_keycenter=61
+lokey=59 hikey=62
+lovel=94
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 02 C#3.flac
+pitch_keycenter=61
+lokey=59 hikey=62
+lovel=46 hivel=93 tune=-2
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 01 C#3.flac
+pitch_keycenter=61
+lokey=59 hikey=62
+hivel=45 tune=-2
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 03 F3.flac
+pitch_keycenter=65
+lokey=63 hikey=66
+lovel=94 tune=2
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 02 F3.flac
+pitch_keycenter=65
+lokey=63 hikey=66
+lovel=46 hivel=93 tune=2
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 01 F3.flac
+pitch_keycenter=65
+lokey=63 hikey=66
+hivel=45 tune=2
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 03 A3.flac
+pitch_keycenter=69
+lokey=67 hikey=70
+lovel=94
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 02 A3.flac
+pitch_keycenter=69
+lokey=67 hikey=70
+lovel=46 hivel=93
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 01 A3.flac
+pitch_keycenter=69
+lokey=67 hikey=70
+hivel=45
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 03 C#4.flac
+pitch_keycenter=73
+lokey=71 hikey=74
+lovel=94 tune=-4
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 02 C#4.flac
+pitch_keycenter=73
+lokey=71 hikey=74
+lovel=46 hivel=93 tune=-4
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 01 C#4.flac
+pitch_keycenter=73
+lokey=71 hikey=74
+hivel=45 tune=-4
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 03 F4.flac
+pitch_keycenter=77
+lokey=75 hikey=78
+lovel=94 tune=7
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 02 F4.flac
+pitch_keycenter=77
+lokey=75 hikey=78
+lovel=46 hivel=93 tune=7
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 01 F4.flac
+pitch_keycenter=77
+lokey=75 hikey=78
+hivel=45 tune=7
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 03 A4.flac
+pitch_keycenter=81
+lokey=79 hikey=127
+lovel=94 tune=8
+
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 02 A4.flac
+pitch_keycenter=81
+lokey=79 hikey=127
+lovel=46 hivel=93 tune=8
+
+<region>
+sample=CheapNylon Samples/XFCheap Nylon 01 A4.flac
+pitch_keycenter=81
+lokey=79 hikey=127
+hivel=45 tune=8

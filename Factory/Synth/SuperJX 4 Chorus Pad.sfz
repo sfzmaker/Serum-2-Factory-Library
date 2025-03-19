@@ -1,0 +1,229 @@
+// SuperJX 4 Osc Chorus Pad
+// Serum 2 Factory Content
+// By Electric Himalaya
+
+<group>
+ampeg_release=0.32
+amp_veltrack=38.5
+loop_mode=loop_continuous
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad C0.flac
+pitch_keycenter=24
+lokey=0 hikey=26
+end=195840
+loop_start=49867 loop_end=193601
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad E0.flac
+pitch_keycenter=28
+lokey=27 hikey=29
+end=198015
+loop_start=88296 loop_end=193880
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad G0.flac
+pitch_keycenter=31
+lokey=30 hikey=33
+end=238588
+loop_start=62289 loop_end=236232
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad A#0.flac
+pitch_keycenter=34
+lokey=34 hikey=35
+end=197162
+loop_start=35097 loop_end=192673
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad C1.flac
+pitch_keycenter=36
+lokey=36 hikey=37
+end=181554
+loop_start=47294 loop_end=178967
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad D1.flac
+pitch_keycenter=38
+lokey=38 hikey=39
+end=207447
+loop_start=39011 loop_end=205014
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad E1.flac
+pitch_keycenter=40
+lokey=40 hikey=40
+end=200111
+loop_start=35616 loop_end=197770
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad F1.flac
+pitch_keycenter=41
+lokey=41 hikey=43
+end=180104
+loop_start=49291 loop_end=176724
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad A1.flac
+pitch_keycenter=45
+lokey=44 hikey=45
+end=218772
+loop_start=80441 loop_end=216562
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad A#1.flac
+pitch_keycenter=46
+lokey=46 hikey=47
+end=204902
+loop_start=27742 loop_end=201110
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad C2.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+end=212993
+loop_start=60860 loop_end=209081
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad E2.flac
+pitch_keycenter=52
+lokey=51 hikey=53
+end=214041
+loop_start=24273 loop_end=212791
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad G2.flac
+pitch_keycenter=55
+lokey=54 hikey=57
+end=189411
+loop_start=41551 loop_end=186573
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad A#2.flac
+pitch_keycenter=58
+lokey=58 hikey=59
+end=198834
+loop_start=46264 loop_end=196011
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad C3.flac
+pitch_keycenter=60
+lokey=60 hikey=62
+end=217906
+loop_start=65981 loop_end=215655
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad E3.flac
+pitch_keycenter=64
+lokey=63 hikey=65
+end=225951
+loop_start=44951 loop_end=223680
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad G3.flac
+pitch_keycenter=67
+lokey=66 hikey=69
+end=204343
+loop_start=46802 loop_end=200735
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad A#3.flac
+pitch_keycenter=70
+lokey=70 hikey=71
+end=167201
+loop_start=25854 loop_end=165319
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad C4.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+end=213109
+loop_start=47954 loop_end=208616
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad E4.flac
+pitch_keycenter=76
+lokey=75 hikey=77
+end=201533
+loop_start=47611 loop_end=199588
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad G4.flac
+pitch_keycenter=79
+lokey=78 hikey=81
+end=149574
+loop_start=27064 loop_end=147683
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad A#4.flac
+pitch_keycenter=82
+lokey=82 hikey=83
+end=154188
+loop_start=31191 loop_end=150404
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad C5.flac
+pitch_keycenter=84
+lokey=84 hikey=86
+end=127743
+loop_start=21046 loop_end=126334
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad E5.flac
+pitch_keycenter=88
+lokey=87 hikey=89
+end=121577
+loop_start=26958 loop_end=120043
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad G5.flac
+pitch_keycenter=91
+lokey=90 hikey=93
+end=176727
+loop_start=41997 loop_end=170939
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad A#5.flac
+pitch_keycenter=94
+lokey=94 hikey=95
+end=102136
+loop_start=24629 loop_end=100517
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad C6.flac
+pitch_keycenter=96
+lokey=96 hikey=98
+end=119672
+loop_start=21745 loop_end=117700
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad E6.flac
+pitch_keycenter=100
+lokey=99 hikey=101
+end=141171
+loop_start=23363 loop_end=136786
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad G6.flac
+pitch_keycenter=103
+lokey=102 hikey=105
+end=92958
+loop_start=27522 loop_end=91664
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad A#6.flac
+pitch_keycenter=106
+lokey=106 hikey=107
+end=97846
+loop_start=18175 loop_end=96413
+
+<region>
+sample=SuperJX 4 Osc Chorus Pad Samples/XFSuperJX4ChrsPad C7.flac
+pitch_keycenter=108
+lokey=108 hikey=127
+end=74738
+loop_start=22381 loop_end=73944
+
+
+
+
